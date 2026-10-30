@@ -45,7 +45,7 @@ Una canna fumaria sporca o danneggiata è un rischio per la sicurezza: fuliggine
 
 ## Fune o piattaforma: cosa conviene per una canna fumaria?
 
-Il lavoro in copertura è breve, e montare un ponteggio per mezza giornata di pulizia raramente ha senso. Nel nostro intervento in un condominio, la [pulizia della canna fumaria]({{ '/progetti/pulizia-canna-fumaria-condominio/' | relative_url }}) è stata completata in mezza giornata, senza ponteggio. Se invece il tetto ha già una linea vita o un accesso comodo e sicuro, ti diciamo con sincerità se serve davvero una squadra su fune.
+Il lavoro in copertura è breve, e montare un ponteggio per mezza giornata di pulizia raramente ha senso. Se invece il tetto ha già una linea vita o un accesso comodo e sicuro, ti diciamo con sincerità se serve davvero una squadra su fune.
 
 ## Per condomini e amministratori
 

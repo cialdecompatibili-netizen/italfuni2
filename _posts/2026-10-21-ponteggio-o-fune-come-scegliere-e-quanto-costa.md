@@ -13,7 +13,7 @@ categories:
 
 Hai una grondaia che perde, una facciata da rifare o un cornicione che si sgretola, e ti hanno proposto due strade: **montare il ponteggio** oppure **lavorare su fune**. Chi vende il ponteggio ti dice che la fune è un'avventura. Chi lavora su fune ti dice che il ponteggio è uno spreco. Tutti e due, a volte, hanno ragione.
 
-Io lavoro su fune, quindi potrei dirti che conviene sempre. Non è vero, e in questa guida ti spiego **quando conviene la fune, quando no**, da cosa nasce il prezzo e cosa pretendere per iscritto da chiunque ti faccia un preventivo, noi compresi.
+Noi di Italfuni lavoriamo su fune, quindi potremmo dirti che conviene sempre. Non è vero, e in questa guida ti spiego **quando conviene la fune, quando no**, da cosa nasce il prezzo e cosa pretendere per iscritto da chiunque ti faccia un preventivo, noi compresi. Operiamo a Roma, nel Lazio e nei paesi vicini.
 
 <figure class="ex-post-fig" style="margin:0 0 1.5rem"><img src="{{ '/assets/foto/lavori-facciata-cornicione-su-fune-andrew-arancione.jpg' | relative_url }}" width="1400" height="788" alt="Operatore Italfuni su doppia fune lavora sul cornicione di una palazzina in una strada stretta, senza ponteggio" style="width:100%;height:auto;display:block" fetchpriority="high" decoding="async"><figcaption style="font-size:.9rem;color:#4a5148;margin-top:.5rem">Intervento su un cornicione in una via stretta: marciapiede libero, nessun ponteggio da montare.</figcaption></figure>
 
@@ -49,9 +49,9 @@ Quando confronti due preventivi, spesso metti a fianco una cifra "tutto compreso
 - l'**occupazione di suolo pubblico**, dove prevista
 - i **giorni di cantiere fermo**: un ponteggio montato resta lì anche quando non si lavora
 
-Nel lavoro su fune queste voci non esistono, ma ne compaiono altre: il tempo degli operatori specializzati, l'installazione degli ancoraggi, l'attrezzatura. Per questo non esiste una regola del tipo "la fune costa il 30% in meno". **Dipende dal lavoro.** Su un intervento mirato il risparmio può essere grande. Su un rifacimento esteso può sparire del tutto o addirittura invertirsi.
+Nel lavoro su fune queste voci non esistono, ma ne compaiono altre: il tempo degli operatori specializzati, l'installazione degli ancoraggi, l'attrezzatura. Per questo non esiste una percentuale fissa: **dipende dal lavoro**. Su un intervento mirato il risparmio può arrivare **fino al 40%**, perché non si pagano montaggio, noleggio e occupazione di suolo. Su un rifacimento esteso può ridursi o sparire del tutto.
 
-Se qualcuno ti promette una percentuale di sconto senza aver visto l'edificio, diffida.
+Qualunque percentuale, la nostra compresa, va confermata solo dopo aver visto l'edificio.
 
 ## Cosa dice la legge (e perché ti conviene saperlo)
 
@@ -74,6 +74,15 @@ Rispondi sì o no. Più "sì" hai, più la fune ha senso.
 6. Il materiale da portare su è **leggero** (pittura, sigillanti, guaine, utensili) e non lastre o elementi pesanti?
 
 **5 o 6 sì**: la fune è quasi sempre la scelta migliore. **3 o 4 sì**: fatti fare due preventivi e confrontali con le stesse voci. **0 o 2 sì**: probabilmente conviene il ponteggio, e un'impresa onesta te lo dice.
+
+## I vantaggi della fune, in pratica
+
+- **niente ponteggi né piattaforme aeree** da installare o affittare
+- **operatori in meno di un'ora**: basta un punto solido dove ancorarsi
+- **burocrazia ridotta** e, di norma, nessuna occupazione di suolo pubblico
+- **interventi frazionabili**: senza impalcature puoi dare priorità ai lavori più urgenti e rateizzare i costi
+- **manutenzione programmata** con la formula "zero pensieri", per non ritrovarti con il problema a stagione finita
+- **nessun rischio intrusione**, che i classici ponteggi invece possono agevolare
 
 ## Dove la fune funziona meglio
 
@@ -115,7 +124,7 @@ Un'impresa che risponde a tutto questo in modo chiaro, ti sta già mostrando com
 
 ## Bonus fiscali: cosa è rimasto nel 2026
 
-Il **bonus facciate** è terminato con le spese sostenute fino al 31 dicembre 2022 e non è stato rinnovato. Per i lavori nuovi si guarda ad altre detrazioni: il **bonus ristrutturazione** (le guide fiscali 2026 indicano il 50% sull'abitazione principale e il 36% sulle altre, con limiti di spesa diversi) oppure l'**ecobonus** se si fa anche il cappotto termico.
+Il **bonus facciate** è terminato con le spese sostenute fino al 31 dicembre 2022 e non è stato rinnovato. Per i lavori nuovi si guarda ad altre detrazioni: il **bonus ristrutturazione** oppure l'**ecobonus** se si fa anche il cappotto termico. Con la Legge di Bilancio 2026 il bonus ristrutturazione resta al **50% sull'abitazione principale** e al **36% sulle altre abitazioni**, con un tetto di **96.000 euro** di spesa per unità; **dal 2027 scende** rispettivamente al 36% e al 30%.
 
 Due avvertenze: le aliquote cambiano quasi ogni anno, e non tutti gli interventi sono detraibili allo stesso modo (per esempio una tinteggiatura isolata su un edificio non residenziale può non esserlo). **Prima di firmare, chiedi conferma al tuo commercialista o al tecnico del condominio.** Non promettiamo detrazioni che non possiamo garantire.
 
@@ -130,6 +139,10 @@ Chi amministra o partecipa a un'assemblea ha spesso un problema: due preventivi 
 5. Porta in assemblea un **preventivo scritto**, non una stima a voce.
 
 Noi prepariamo preventivi scritti pensati proprio per essere discussi in assemblea, con le voci separate e con le foto dei punti interessati.
+
+## Dove operiamo
+
+Lavoriamo a Roma, nel Lazio e nei paesi vicini: trovi i servizi della tua zona per [Roma]({{ '/servizi/provincia/roma/' | relative_url }}), [Viterbo]({{ '/servizi/provincia/viterbo/' | relative_url }}), [Rieti]({{ '/servizi/provincia/rieti/' | relative_url }}), [Latina]({{ '/servizi/provincia/latina/' | relative_url }}) e [Frosinone]({{ '/servizi/provincia/frosinone/' | relative_url }}).
 
 ## Cosa mandarci per ricevere una prima indicazione
 
@@ -176,6 +189,7 @@ No: è finito con le spese del 2022. Esistono altre detrazioni, come il bonus ri
 - Il lavoro su funi, controlli su attrezzature e procedure: [ASL Viterbo](https://asl.vt.it/storage/uploads/attachments/c3a4400217ac2b1006c5ad8749afec2d.pdf)
 - Scheda tecnica sui lavori su fune e valutazione dei rischi: [OATO](https://oato.it/wp-content/uploads/2024/11/Scheda-TN-4_Lavori-su-Fune_Lo.pdf)
 - Bonus facciate: fine e alternative nel 2026: [Edilizia.com](https://www.edilizia.com/?p=6814)
+- Aliquote 2025-2027 di bonus ristrutturazione ed ecobonus: [guida ANCE](https://ance.it/wp-content/uploads/allegati/ANCE_Guida_bonus_edilizi_2025-2027.pdf)
 
 *Guida aggiornata a ottobre 2026. Le informazioni su norme e detrazioni sono di carattere generale e non sostituiscono il parere del tuo tecnico o commercialista.*
 
