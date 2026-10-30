@@ -10,18 +10,12 @@ classes: wide
 {% assign base = site.servizi | where_exp: "s", "s.citta == nil" | sort: "ordine" %}
 {% include ex-lista.html items=base vista="riga" cta="Scopri il servizio" %}
 
-## Dove operiamo
-
-{% assign citta_list = "Roma,Viterbo,Rieti,Latina,Frosinone" | split: "," %}
-{%- for c in citta_list %}
-{%- assign pg = site.servizi | where: "citta", c | sort: "title" %}
-{%- if pg.size > 0 %}
-### {{ c }} e provincia
+## Servizi per provincia
 
 <ul>
-{%- for s in pg %}
-<li><a href="{{ s.url | relative_url }}">{{ s.title }}</a></li>
-{%- endfor %}
+<li><a href="{{ '/servizi/provincia/roma/' | relative_url }}">Roma e provincia</a></li>
+<li><a href="{{ '/servizi/provincia/viterbo/' | relative_url }}">Viterbo e provincia</a></li>
+<li><a href="{{ '/servizi/provincia/rieti/' | relative_url }}">Rieti e provincia</a></li>
+<li><a href="{{ '/servizi/provincia/latina/' | relative_url }}">Latina e provincia</a></li>
+<li><a href="{{ '/servizi/provincia/frosinone/' | relative_url }}">Frosinone e provincia</a></li>
 </ul>
-{%- endif %}
-{%- endfor %}
