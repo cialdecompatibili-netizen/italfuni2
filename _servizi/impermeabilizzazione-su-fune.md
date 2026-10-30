@@ -35,11 +35,20 @@ L'acqua è il primo nemico di un edificio. Un'infiltrazione trascurata passa nel
 - **crepe** su cornicioni, frontalini e giunti
 - **ferri a vista** o ruggine sulle solette
 
+## Perché l'acqua entra
+
+- **materiali di bassa qualità** usati in interventi precedenti
+- **sigillatura inadeguata** della pavimentazione o dei giunti
+- **guaina difettosa** o posata male
+- **usura del tempo**: sole, gelo e sbalzi di temperatura consumano le superfici
+
+L'acqua può uscire in punti lontani da quello in cui compare la macchia: per questo il sopralluogo cerca il percorso, non solo il segno.
+
 ## Come lavoriamo
 
 1. **Sopralluogo gratuito**: individuiamo da dove entra l'acqua, non solo dove si vede.
 2. **Preparazione del supporto**: pulizia, rimozione delle parti instabili, riparazione di crepe e distacchi.
-3. **Impermeabilizzazione** con guaina bituminosa o membrana liquida, scelta in base alla superficie.
+3. **Impermeabilizzazione**: primer sul supporto, poi guaina bituminosa o membrana liquida scelta in base alla superficie. Le membrane si possono scegliere in diverse colorazioni, per intonarsi all'edificio.
 4. **Sigillatura dei punti critici**: giunti, angoli, bocchettoni e risvolti.
 5. **Controllo finale** con foto dei lavori.
 

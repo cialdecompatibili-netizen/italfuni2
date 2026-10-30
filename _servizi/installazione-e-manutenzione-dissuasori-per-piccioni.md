@@ -25,6 +25,12 @@ Piccioni e altri volatili su **cornicioni, balconi, sottogronda e tetti** non so
 
 {% include servizio-cta.html tipo="mini" %}
 
+## Perché installarli
+
+- **igiene**: gli escrementi possono contenere agenti patogeni (per esempio salmonella, criptococco e la clamidia della psittacosi)
+- **odori sgradevoli** di guano e nidi
+- **danni alla struttura**: il guano è acido, corrode i materiali e favorisce infiltrazioni
+
 ## Quando serve un sistema anti-volatili
 
 - **guano** su balconi, davanzali, marciapiede e facciata
@@ -45,7 +51,7 @@ Il sistema giusto dipende da **punto, altezza e tipo di uccello**: te lo indichi
 ## Come lavoriamo
 
 1. **Sopralluogo gratuito**: individuiamo i punti di sosta e di nidificazione.
-2. **Pulizia e igienizzazione** delle superfici, rimuovendo guano e nidi.
+2. **Pulizia accurata dell'area e rimozione del guano**, con ripristino della superficie, prima di montare il sistema.
 3. **Installazione** su doppia fune (D.Lgs. 81/2008, art. 116), senza ponteggio.
 4. **Controllo finale** e indicazioni sulla manutenzione.
 

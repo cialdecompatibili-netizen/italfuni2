@@ -1,44 +1,76 @@
 ---
 layout: single
+title: "Tinteggiature complete su fune"
+description: "Tinteggiatura di facciate ed edifici in quota, senza ponteggio e senza permessi comunali."
+seo_title: "Tinteggiature complete su fune, senza ponteggio"
+seo_description: "Tinteggiatura esterna di facciate di qualsiasi altezza su fune: niente ponteggio, niente occupazione di suolo pubblico. Sopralluogo gratuito. Scrivici su WhatsApp."
 ordine: 12
 in_home: true
-title: "Tinteggiature complete su fune"
-description: "Tinteggiatura di facciate e edifici in quota, senza ponteggio, con tecniche di accesso su corda."
 date: 2026-09-17
 categories:
   - servizi
+faq:
+  - q: "Quanto costa tinteggiare una facciata su fune?"
+    a: "Dipende da metri quadri, altezza, stato dell'intonaco e ciclo di pittura. Facciamo un sopralluogo gratuito e ti diamo un preventivo chiaro. Per partire basta una foto della facciata."
+  - q: "Serve il permesso per il suolo pubblico?"
+    a: "Senza ponteggio non occupiamo il marciapiede, quindi di norma niente concessione di suolo pubblico e meno burocrazia. Ti diciamo caso per caso cosa serve."
+  - q: "Quanto ci mettete a iniziare?"
+    a: "Il sistema a fune si allestisce e si smonta molto più in fretta di un ponteggio: i nostri operatori sono operativi in meno di un'ora."
+  - q: "Che vernici usate?"
+    a: "Vernici di alta qualità per esterno, scelte in base a supporto ed esposizione, per una protezione più duratura dagli agenti atmosferici."
+  - q: "Cosa succede se piove?"
+    a: "Rimandiamo: con pioggia o vento forte il risultato non sarebbe buono e la sicurezza viene prima. Ti avvisiamo e fissiamo un'altra data."
 ---
-## Tinteggiare una facciata intera senza il ponteggio
 
-Ridare colore a una facciata condominiale o a un edificio commerciale di solito significa settimane di ponteggio, permessi comunali e occupazione di suolo pubblico. Con le tecniche di accesso su fune possiamo evitare tutto questo nella maggior parte dei casi.
+Per un immobile **residenziale, industriale o commerciale** che ha bisogno di una nuova tinteggiatura, o di un rivestimento dopo il degrado causato da agenti atmosferici, sporco e tempo, lavoriamo con **tecniche di accesso su fune**: **niente ponteggio**, niente macchinari pesanti.
 
-Eseguiamo tinteggiature complete di facciate lavorando in sospensione, con la stessa qualita di un lavoro tradizionale ma tempi e costi ridotti.
+{% include servizio-cta.html tipo="mini" %}
+
+## Perché tinteggiare su fune
+
+- **Costa meno**: nessun affitto di ponteggio o macchinari.
+- **Meno burocrazia**: niente occupazione di suolo pubblico e nessuna concessione.
+- **Si parte subito**: il sistema si allestisce e si smantella rapidamente, in meno di un'ora siamo operativi sulla facciata.
+- **Meno interferenze**: meno interruzioni, tempi di fermo ridotti e un ambiente più sicuro per chi è nell'edificio.
 
 ## Cosa comprende il servizio
 
-- Lavaggio e preparazione della superficie
-- Stuccatura di crepe e imperfezioni
-- Applicazione di fondo e ciclo di pittura completo
-- Trattamenti anti-muffa e anti-smog su richiesta
+- **lavaggio** e preparazione della superficie
+- **stuccatura** di crepe e imperfezioni
+- **fondo** e ciclo di pittura completo
+- trattamenti **anti-muffa** e anti-smog su richiesta
 
-## Vantaggi per condomini e attivita
+Usiamo **vernici di alta qualità** per una protezione più duratura dagli agenti atmosferici.
 
-Niente impalcature che restano per settimane davanti a negozi o ingressi, niente occupazione di marciapiede, tempi di esecuzione piu rapidi. Il tecnico lavora in verticale spostandosi su tutta la superficie con la stessa precisione di un ponteggio, ma senza montarlo.
+## Come lavoriamo
 
-## Come si svolge il sopralluogo
+1. **Sopralluogo gratuito**: controlliamo le condizioni della struttura, l'entità del deterioramento, altezza, punti di ancoraggio e tempi necessari.
+2. **Preventivo** chiaro, senza sorprese in corso d'opera.
+3. **Lavoro su doppia fune** (D.Lgs. 81/2008, art. 116), con pittori esperti.
+4. **Controllo finale** del risultato.
 
-Prima di ogni intervento facciamo un sopralluogo tecnico sulla facciata, valutando altezza, tipo di superficie, punti di ancoraggio disponibili sul tetto e stato generale dell'intonaco. Questo ci permette di preparare un preventivo preciso, senza sorprese in corso d'opera, e di individuare in anticipo eventuali lavori di ripristino necessari prima della tinteggiatura vera e propria.
+## Meteo e stagione
 
-Durante il sopralluogo controlliamo anche le condizioni meteo previste per il periodo di lavoro: la tinteggiatura su fune richiede giornate senza pioggia e vento contenuto, quindi pianifichiamo l'intervento nella finestra piu adatta per garantire un risultato uniforme e una buona adesione del prodotto.
+Non lavoriamo con pioggia o vento forte: scegliamo le giornate giuste per un risultato uniforme e una buona adesione del prodotto, e ti avvisiamo con anticipo.
 
-## Materiali e prodotti utilizzati
+## Fune o ponteggio: quale conviene?
 
-Usiamo pitture professionali per esterno, scelte in base al tipo di supporto e all'esposizione della facciata: prodotti traspiranti per murature datate, elastomerici per superfici con microfessurazioni, finiture lavabili per zone piu esposte a smog e umidita. Ogni ciclo di pittura prevede una mano di fondo fissativo e almeno due mani di finitura, per una coprenza uniforme e una durata nel tempo superiore alla semplice tinteggiatura a rullo dal ponteggio.
+Per grandi facciate alte o difficili da raggiungere la fune è più flessibile ed economica. Se il lavoro è raggiungibile in sicurezza da terra, ti diciamo che non serve.
 
-Su richiesta possiamo applicare anche finiture decorative, effetti materici o coloriture particolari, sempre lavorando in sicurezza tramite le tecniche di accesso su corda, senza differenze di risultato rispetto a un intervento tradizionale.
+## Insieme ad altri lavori in quota
 
-## Tempi di intervento e durata del lavoro
+Nello stesso accesso possiamo occuparci di [ristrutturazione di balconi e facciate]({{ '/servizi/ristrutturazioni-balconi-e-facciate/' | relative_url }}), [grondaie]({{ '/servizi/riparazione-e-pulizia-grondaie/' | relative_url }}) e [vetrate]({{ '/servizi/pulizia-vetri/' | relative_url }}).
 
-Grazie all'assenza di montaggio e smontaggio ponteggio, i tempi si riducono sensibilmente: una facciata che richiederebbe settimane di occupazione con impalcatura tradizionale viene generalmente completata in pochi giorni di lavoro effettivo, in base a metratura e complessita della superficie. Questo significa meno disagio per residenti e attivita commerciali, e un cantiere che si libera molto prima.
+## Dove lavoriamo
 
-Richiedi un sopralluogo: prepariamo un preventivo dettagliato con tempi di realizzazione.
+- [Tinteggiature a Roma]({{ '/servizi/tinteggiature-complete-a-roma/' | relative_url }})
+- [Tinteggiature a Viterbo]({{ '/servizi/tinteggiature-complete-a-viterbo/' | relative_url }})
+- [Tinteggiature a Frosinone]({{ '/servizi/tinteggiature-complete-su-fune-a-frosinone/' | relative_url }})
+- [Tinteggiature a Latina]({{ '/servizi/tinteggiature-complete-su-fune-a-latina/' | relative_url }})
+- [Tinteggiature a Rieti]({{ '/servizi/tinteggiature-complete-su-fune-a-rieti/' | relative_url }})
+
+## Per un preventivo veloce, mandaci su WhatsApp
+
+- una foto della **facciata intera**
+- l'**altezza** o il numero di piani
+- il **comune** e se è un condominio, un negozio o una casa
