@@ -13,9 +13,9 @@
     },
     {
         "id": "stack",
-        "nome": "Sei motivi per fidarsi",
+        "nome": "Perché sceglierci?",
         "enabled": true,
-        "html": "<section class=\"ex-sec ex-sec-warm\" id=\"stack\" aria-labelledby=\"stack-title\"><div class=\"ex-wrap\"><h2 class=\"ex-h2\" id=\"stack-title\">Sei motivi per fidarsi</h2><div class=\"ex-grid3\"><div><h3>Totale sicurezza</h3><p>Tecnici certificati, aggiornati regolarmente con istruttori di alpinismo e speleologia.</p></div><div><h3>Accesso senza limiti</h3><p>Raggiungiamo ogni angolo dell'edificio, anche i punti più complessi da raggiungere.</p></div><div><h3>Prezzi trasparenti</h3><p>Niente ponteggi né macchinari costosi: qualità alta, spesa contenuta.</p></div><div><h3>Interventi rapidi</h3><p>Basta un punto di ancoraggio sicuro per iniziare i lavori lo stesso giorno.</p></div><div><h3>Zero ponteggi</h3><p>I nostri operatori intervengono in meno di un'ora dall'arrivo sul posto.</p></div><div><h3>Assistenza continua</h3><p>Dalla consulenza iniziale al supporto post-intervento, ti seguiamo in ogni fase.</p></div></div></div></section>"
+        "html": "<section class=\"ex-sec ex-sec-warm\" id=\"stack\" aria-labelledby=\"stack-title\"><div class=\"ex-wrap\"><h2 class=\"ex-h2\" id=\"stack-title\">Perché sceglierci?</h2><div class=\"ex-grid3\"><div><h3>Totale sicurezza</h3><p>Tecnici certificati, aggiornati regolarmente con istruttori di alpinismo e speleologia.</p></div><div><h3>Accesso senza limiti</h3><p>Raggiungiamo ogni angolo dell'edificio, anche i punti più complessi da raggiungere.</p></div><div><h3>Prezzi trasparenti</h3><p>Niente ponteggi né macchinari costosi: qualità alta, spesa contenuta.</p></div><div><h3>Interventi rapidi</h3><p>Basta un punto di ancoraggio sicuro per iniziare i lavori lo stesso giorno.</p></div><div><h3>Zero ponteggi</h3><p>I nostri operatori intervengono in meno di un'ora dall'arrivo sul posto.</p></div><div><h3>Assistenza continua</h3><p>Dalla consulenza iniziale al supporto post-intervento, ti seguiamo in ogni fase.</p></div></div></div></section>"
     },
     {
         "id": "features",
