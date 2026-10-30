@@ -20,7 +20,7 @@ faq:
     a: "Il modo più veloce è WhatsApp: scrivici cosa c'è da fare e allega 2 o 3 foto. Ti rispondiamo entro 24 ore, festivi esclusi, e se serve fissiamo un sopralluogo gratuito."
 ---
 
-EdilExtreme esegue lavori edili **in quota su fune**, senza ponteggi, impalcature o piattaforme aeree. È una tecnica nata dall'esperienza alpinistica e speleologica che permette di raggiungere qualsiasi punto dell'edificio in poco tempo, con meno costi e meno disagi rispetto a un cantiere tradizionale.
+Italfuni esegue lavori edili e di manutenzione **in quota su fune**, senza ponteggi, impalcature o piattaforme aeree. È una tecnica nata dall'esperienza alpinistica e speleologica che permette di raggiungere qualsiasi punto dell'edificio in poco tempo, con meno costi e meno disagi rispetto a un cantiere tradizionale.
 
 Niente ingombro sul marciapiede, niente teli davanti alle finestre, niente balconi inutilizzabili: gli operatori si calano dall'alto con corde, imbragature e attrezzatura certificata, su **doppia fune** (D.Lgs. 81/2008, art. 116).
 

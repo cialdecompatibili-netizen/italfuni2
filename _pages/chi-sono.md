@@ -17,15 +17,17 @@ permalink: /chi-sono/
 
 <div class="cs-wrap">
 
-<img class="cs-foto" src="{{ '/assets/images/andrew-imprenditore.jpg' | relative_url }}" alt="Andrew, operaio di EdilExtreme">
+<img class="cs-foto" src="{{ '/assets/images/andrew-imprenditore.jpg' | relative_url }}" alt="Andrew, operaio di Italfuni">
 
 <div class="cs-txt" markdown="1">
 
-Ciao, sono Andrew, operaio di EdilExtreme.
+Ciao, sono Andrew, operaio di Italfuni.
 
-Lavoro in quota su doppia fune, in squadra con operatori certificati: grondaie, facciate, tetti e messa in sicurezza, senza montare ponteggi, quindi più rapidi e meno costosi. Siamo formati con istruttori di alpinismo e speleologia, per arrivare dritto al punto del problema anche dove il ponteggio sarebbe lungo e costoso.
+Italfuni nasce da un modo nuovo di fare edilizia, con radici alpinistiche: ci ancoriamo a un punto solido e raggiungiamo qualsiasi punto di palazzi e grandi strutture, senza impalcature né piattaforme aeree. Operiamo a Roma, nel Lazio e nei paesi vicini.
 
-Oltre a lavorare in cantiere, mi occupo di rispondere alle chiamate e ai messaggi dei clienti e di fissare i sopralluoghi. Prima di ogni intervento facciamo un sopralluogo gratuito e ti spieghiamo cosa serve davvero, con un preventivo chiaro.
+Ogni membro del team esegue corsi e aggiornamenti da istruttori di alpinismo e speleologia: per noi sicurezza e accessibilità vengono prima di tutto. Niente ponteggi vuol dire prezzi più bassi, burocrazia ridotta e operatori pronti a intervenire in meno di un'ora.
+
+Oltre a lavorare in cantiere, mi occupo di rispondere alle chiamate e ai messaggi dei clienti e di fissare i sopralluoghi. Sopralluogo e preventivo sono gratuiti e senza impegno.
 
 Se hai un lavoro in mente, scrivimi: ti rispondo volentieri.
 
