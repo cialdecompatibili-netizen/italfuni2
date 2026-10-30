@@ -227,3 +227,131 @@
   team: false
   w: 1400
   h: 588
+
+# Foto storiche Italfuni (migrate da repo italfuni, assets/img/italfuni)
+- f: "grondaie-su-fune-italfuni"
+  cap: "Pulizia grondaie su fune"
+  t: [grondaie]
+  team: false
+  w: 1400
+  h: 788
+- f: "impermeabilizzazione-terrazzo-su-fune-3"
+  cap: "Impermeabilizzazione tetto con guaina"
+  t: [impermeabilizzazione, tetti]
+  team: false
+  w: 1400
+  h: 788
+- f: "impermeabilizzazione-terrazzo-su-fune-2"
+  cap: "Impermeabilizzazione terrazzo con guaina"
+  t: [impermeabilizzazione]
+  team: false
+  w: 1400
+  h: 788
+- f: "impermeabilizzazione-terrazzo-su-fune-1"
+  cap: "Impermeabilizzazione terrazzo su fune"
+  t: [impermeabilizzazione]
+  team: false
+  w: 1400
+  h: 788
+- f: "installazione-condizionatori-su-fune"
+  cap: "Installazione condizionatori su fune"
+  t: [facciate]
+  team: false
+  w: 300
+  h: 580
+- f: "pulizia-grondaie-su-fune-italfuni"
+  cap: "Pulizia grondaie su fune"
+  t: [grondaie]
+  team: false
+  w: 1400
+  h: 666
+- f: "operatore-su-fune-tetto-grondaia-vegetazione"
+  cap: "Operatore su fune su tetto e grondaia"
+  t: [tetti, grondaie]
+  team: false
+  w: 940
+  h: 423
+- f: "montaggio-isolanti-su-fune"
+  cap: "Montaggio isolanti su fune"
+  t: [facciate]
+  team: false
+  w: 400
+  h: 299
+- f: "potatura-albero-con-corde-italfuni"
+  cap: "Potatura albero con corde"
+  t: [verde]
+  team: false
+  w: 480
+  h: 640
+- f: "pannelli-fotovoltaici-su-fune"
+  cap: "Pulizia pannelli fotovoltaici su fune"
+  t: [tetti]
+  team: false
+  w: 300
+  h: 300
+- f: "pulizia-pannelli-solari-su-fune"
+  cap: "Pulizia pannelli solari su fune"
+  t: [tetti]
+  team: false
+  w: 660
+  h: 400
+- f: "pulizia-vetri-su-fune-italfuni-1"
+  cap: "Pulizia vetri su fune"
+  t: [vetri]
+  team: false
+  w: 250
+  h: 250
+- f: "pulizia-vetri-rope-access"
+  cap: "Pulizia vetri con accesso su fune"
+  t: [vetri]
+  team: false
+  w: 640
+  h: 280
+- f: "pulizia-vetri-su-fune-italfuni-2"
+  cap: "Pulizia vetri su fune"
+  t: [vetri]
+  team: false
+  w: 1200
+  h: 800
+- f: "riparazione-tetti-su-fune"
+  cap: "Riparazione tetti su fune"
+  t: [tetti]
+  team: false
+  w: 1023
+  h: 701
+- f: "rimozione-materiale-pericolante-su-fune"
+  cap: "Rimozione materiale pericolante su fune"
+  t: [facciate, tetti]
+  team: false
+  w: 800
+  h: 601
+- f: "operai-su-fune-cornicione-grondaia"
+  cap: "Operai su fune su cornicione e grondaia"
+  t: [facciate, grondaie]
+  team: false
+  w: 1030
+  h: 730
+- f: "operai-balconi-su-fune"
+  cap: "Operai su fune al lavoro sui balconi"
+  t: [facciate]
+  team: false
+  w: 852
+  h: 480
+- f: "lavori-su-fune-facciata-italfuni"
+  cap: "Lavori su fune su facciata"
+  t: [impermeabilizzazione, facciate]
+  team: false
+  w: 1030
+  h: 695
+- f: "tinteggiatura-su-fune-italfuni-1"
+  cap: "Tinteggiatura facciata su fune"
+  t: [tinteggiatura, facciate]
+  team: false
+  w: 800
+  h: 533
+- f: "tinteggiatura-su-fune-italfuni-2"
+  cap: "Tinteggiatura facciata su fune"
+  t: [tinteggiatura, facciate]
+  team: false
+  w: 705
+  h: 296
