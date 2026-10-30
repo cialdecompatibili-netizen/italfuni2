@@ -5,8 +5,10 @@
   leggono le collection e NON usano il campo html. Gestione contenuti: admin > Servizi / Progetti.
 {% endcomment %}
 {% assign blocks = site.data[include.data] %}
+{% assign bp = site.baseurl %}{% assign q1 = '="' | append: bp | append: '/' %}{% assign q2 = '="' | append: bp | append: '//' %}{% assign u1 = 'url(' | append: bp | append: '/' %}
 {% for block in blocks %}{% if block.enabled %}
 {% if block.id == 'features' and site.servizi.size > 0 %}{% include home-servizi.html %}
 {% elsif block.id == 'progetti' %}{% include home-progetti.html %}
-{% else %}{{ block.html | replace: '__BASEURL__', site.baseurl }}{% endif %}
+{% assign bp = site.baseurl %}{% assign q1 = '="' | append: bp | append: '/' %}{% assign q2 = '="' | append: bp | append: '//' %}{% assign u1 = 'url(' | append: bp | append: '/' %}
+{% else %}{{ block.html | replace: '="/', q1 | replace: q2, '="//' | replace: 'url(/', u1 | replace: '__BASEURL__', bp }}{% endif %}
 {% endif %}{% endfor %}
