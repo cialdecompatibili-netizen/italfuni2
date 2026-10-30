@@ -22,43 +22,72 @@ faq:
     a: "Dipende da traffico, vicinanza di alberi o cantieri, esposizione e dal decoro che vuoi mantenere. Dopo il primo sopralluogo ti diciamo che cadenza ha senso per il tuo edificio."
 ---
 
-Le facciate vetrate e le finestre in quota si lavano **calandosi dall'alto**, senza piattaforme ingombranti sul marciapiede o nel cortile e con tempi ridotti. Un edificio con i vetri puliti vale di più, si vive meglio e dà un'immagine curata a chi lo guarda da fuori.
+Se cerchi chi si occupa della **pulizia di vetri e finestre su fune**, per case, condomini, uffici e grattacieli, sei nel posto giusto. Usiamo le tecniche dell'alpinismo e della speleologia per raggiungere vetrate e punti che con una scala o un'autoscala non si raggiungono, **senza montare ponteggi**.
 
 {% include servizio-cta.html tipo="mini" %}
 
-## Quando le vetrate vanno lavate
+## Cosa possiamo pulire
 
-- **aloni opachi** che restano anche dopo la pioggia
-- **residui di smog**, polvere e polline sulle superfici
-- **segni di guano** o sporco di uccelli sui davanzali e sui vetri
-- **depositi di calcare** dopo un'irrigazione o una pioggia sporca
-- dopo un **cantiere** o una ristrutturazione nelle vicinanze
-- prima di **vendere, affittare** o ricevere clienti nell'immobile
+- **finestre** e serramenti, anche ai piani alti
+- **facciate vetrate** e vetrate continue
+- **tetti di vetro** e coperture trasparenti
+- **lucernari**, anche in punti difficili da raggiungere
+
+Lavoriamo a qualsiasi altezza e in qualsiasi posizione, dall'esterno dell'edificio.
+
+## Perché scegliere la fune invece del ponteggio
+
+- **Costa meno**: non si noleggia, non si monta e non si smonta un ponteggio solo per lavare dei vetri.
+- **Si fa prima**: il ponteggio è ingombrante e richiede giorni solo per l'allestimento; noi arriviamo, scendiamo e iniziamo.
+- **Disturba meno**: niente cantiere sul marciapiede o nel cortile, lavori silenziosi e più riservatezza per chi è dentro l'edificio.
+- **Arriva dove il mezzo non arriva**: vetrate arretrate, cortili stretti, facciate su strade dove non si può posizionare una piattaforma.
+- **Rispetta l'ambiente**: usiamo prodotti adatti al tipo di vetro, senza sostanze dannose per l'ambiente.
 
 ## Come lavoriamo
 
 1. **Sopralluogo gratuito**: guardiamo la facciata, i punti di ancoraggio in copertura e l'accesso.
-2. **Discesa su doppia fune**, con due funi ancorate separatamente (D.Lgs. 81/2008, art. 116).
-3. **Lavaggio** dall'alto verso il basso, un campo vetrato alla volta, con attrezzi e prodotti adatti al tipo di vetro.
+2. **Discesa su doppia fune**, con due funi ancorate separatamente, come richiede il D.Lgs. 81/2008 (art. 116).
+3. **Lavaggio** dall'alto verso il basso, un campo vetrato alla volta. Se lo sporco è ostinato usiamo attrezzi rotanti.
 4. **Rifinitura**: telai, davanzali e parapetti, se inclusi nel preventivo.
 5. **Segnalazione** di sigillature o guarnizioni rovinate, se ne notiamo.
 
-## Meteo e stagione: quando si lavora meglio
+Prima di ogni intervento facciamo una valutazione dei rischi specifica per quel cantiere e documentiamo il metodo di lavoro. Gli operatori sono formati e aggiornati con regolarità.
 
-Non lavoriamo con pioggia o vento forte. Anche il **sole battente** non è l'ideale: l'acqua asciuga troppo in fretta e lascia aloni. Per questo scegliamo la giornata e le ore migliori e ti avvisiamo con anticipo, in modo che chi è nell'edificio sia pronto.
+## Quando le vetrate vanno lavate
+
+- **aloni opachi** che restano anche dopo la pioggia
+- **smog**, polvere e polline sulle superfici
+- **segni di guano** o sporco di uccelli su davanzali e vetri
+- **calcare** dopo un'irrigazione o una pioggia sporca
+- dopo un **cantiere** o una ristrutturazione vicina
+- prima di **vendere, affittare** o ricevere clienti
+
+## Meteo e stagione
+
+Non lavoriamo con pioggia o vento forte. Anche il **sole battente** non è l'ideale: l'acqua asciuga troppo in fretta e lascia aloni. Scegliamo giorno e ore migliori e ti avvisiamo con anticipo, così chi è nell'edificio è pronto.
 
 ## Fune o piattaforma: quale conviene?
 
-Per vetrate alte o difficili da raggiungere, la fune è più flessibile di una piattaforma: arriva ovunque, anche dove il mezzo non può posizionarsi. Se invece il vetro è raggiungibile da terra o con una scala in sicurezza, ti diciamo che **non serve** una squadra su fune.
+Per vetrate alte o difficili da raggiungere la fune è più flessibile: arriva anche dove il mezzo non può posizionarsi. Se invece il vetro è raggiungibile da terra o con una scala in sicurezza, ti diciamo che **non serve** una squadra su fune.
 
 ## Vetri, ma non solo
 
 Visto che siamo già in quota, possiamo occuparci anche di [grondaie e pluviali]({{ '/servizi/riparazione-e-pulizia-grondaie/' | relative_url }}), [pannelli fotovoltaici]({{ '/servizi/pulizia-pannelli-fotovoltaici/' | relative_url }}) e altri [elementi in quota]({{ '/servizi/pulizia-componenti-su-fune/' | relative_url }}) nello stesso accesso.
 
+## Dove lavoriamo
+
+Facciamo pulizia vetri su fune in tutto il Lazio:
+
+- [Pulizia vetri a Roma]({{ '/servizi/pulizia-vetri-roma/' | relative_url }})
+- [Pulizia vetri a Viterbo]({{ '/servizi/pulizia-vetri-viterbo/' | relative_url }})
+- [Pulizia vetri a Frosinone]({{ '/servizi/pulizia-vetri-frosinone/' | relative_url }})
+- [Pulizia vetri a Latina]({{ '/servizi/pulizia-vetri-latina/' | relative_url }})
+- [Pulizia vetri a Rieti]({{ '/servizi/pulizia-vetri-rieti/' | relative_url }})
+
 ## Per un preventivo veloce, mandaci su WhatsApp
 
 - una foto della **facciata intera**
-- il **numero di piani** e, se lo sai, il tipo di vetrata (a campo unico, finestre, serramenti)
-- il **comune** e se è un uffici, un condominio o un negozio
+- il **numero di piani** e, se lo sai, il tipo di vetrata (campo unico, finestre, serramenti)
+- il **comune** e se è un ufficio, un condominio o un negozio
 
-Con queste informazioni capiamo subito se serve un sopralluogo.
+Con queste informazioni capiamo subito se serve un sopralluogo, e ti diamo un preventivo gratuito senza impegno.
