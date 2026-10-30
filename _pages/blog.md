@@ -11,15 +11,29 @@ share: false
 .blog-list { list-style: none; padding: 0; margin: 2em 0 0; }
 
 .blog-item {
+  position: relative; /* serve al link che copre tutta la card */
   display: flex;
   gap: 2.6rem;
   align-items: flex-start;
-  padding: 2.5rem 0;
-  border-bottom: 1px solid #e8e8e8;
-  transition: opacity 0.25s;
+  padding: 1.6rem;
+  margin: 0 0 1.2rem;
+  border: 1px solid #e8e8e8;
+  border-radius: 12px;
+  background: #fff;
+  transition: background 0.25s, box-shadow 0.25s, transform 0.25s, border-color 0.25s;
+  -webkit-tap-highlight-color: transparent;
 }
-.blog-item:last-child { border-bottom: none; }
-.blog-item:hover { opacity: 0.82; }
+/* TUTTA LA CARD CLICCABILE: il link del titolo si estende su tutta la card (un solo link vero, ok per Google e tastiera). Pillole, tag e bottone restano cliccabili sopra (z-index). */
+.blog-title::after { content: ''; position: absolute; inset: 0; z-index: 1; border-radius: 12px; }
+.blog-cat, .blog-tag, .blog-readmore { position: relative; z-index: 2; }
+/* hover solo dove c'e' un mouse; sul touch resta un effetto al tocco (:active) cosi' non rimane 'appiccicato' */
+@media (hover: hover) {
+  .blog-item:hover { background: #f7faf0; border-color: #95d600; box-shadow: 0 8px 24px rgba(21,25,29,.10); transform: translateY(-2px); }
+  .blog-item:hover .blog-title { color: #3f6b00; text-decoration: underline !important; text-underline-offset: 3px; }
+  .blog-item:hover .blog-readmore { background: #95d600; color: #15191d; }
+}
+.blog-item:active { background: #f1f6e4; transform: scale(.995); }
+.blog-item:focus-within { outline: 2px solid #95d600; outline-offset: 2px; }
 
 .blog-img {
   flex-shrink: 0;
@@ -69,11 +83,6 @@ share: false
   font-weight: 500; line-height: 1.4; color: #111;
   text-decoration: none !important; display: block;
 }
-.blog-title:hover {
-  color: #444;
-  text-decoration: underline !important;
-  text-underline-offset: 3px;
-}
 
 .blog-excerpt {
   font-size: clamp(0.9rem, 1.5vw, 1.05rem);
@@ -120,7 +129,7 @@ share: false
 }
 
 @media (max-width: 640px) {
-  .blog-item { flex-direction: column; gap: 1.2rem; }
+  .blog-item { flex-direction: column; gap: 1.2rem; padding: 1.1rem; }
   .blog-img { width: 100%; height: 200px; }
   .blog-footer { flex-direction: column; align-items: flex-start; }
 }
