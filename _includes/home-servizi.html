@@ -2,4 +2,4 @@
 <section class="ex-sec ex-sec-svc" id="servizi" aria-labelledby="features-title"><div class="ex-wrap"><div class="ex-svc-head"><h2 class="ex-h2" id="features-title">Servizi</h2><p>Interventi in quota con un solo metodo: accesso su corda, nessun ponteggio.</p></div><div class="ex-svcs">
 {% for s in svc limit: 12 %}<a class="ex-svc" href="{{ s.url | relative_url }}"><span class="ex-svc-t">{{ s.title }}</span><span class="ex-svc-d">{{ s.description | default: s.excerpt | strip_html | strip | truncatewords: 14 }}</span><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 12h15M13 6l6 6-6 6"/></svg></a>
 {% endfor %}
-</div></div></section>
+</div>{% if svc.size > 12 %}<p style="margin:2.25rem 0 0;text-align:center"><a class="ex-btn ex-btn-k" href="{{ '/servizi/' | relative_url }}">Vedi tutti i servizi</a></p>{% endif %}</div></section>
