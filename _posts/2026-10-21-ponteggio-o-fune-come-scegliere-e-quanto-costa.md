@@ -16,7 +16,7 @@ Hai una grondaia che perde, una facciata da rifare o un cornicione che si sgreto
 
 Noi di Italfuni lavoriamo su fune, quindi potremmo dirti che conviene sempre. Non è vero, e in questa guida ti spiego **quando conviene la fune, quando no**, da cosa nasce il prezzo e cosa pretendere per iscritto da chiunque ti faccia un preventivo, noi compresi. Operiamo a Roma, nel Lazio e nei paesi vicini.
 
-<figure class="ex-post-fig" style="margin:0 0 1.5rem"><img src="{{ '/assets/foto/lavori-facciata-cornicione-su-fune-andrew-arancione.jpg' | relative_url }}" width="1400" height="788" alt="Operatore Italfuni su doppia fune lavora sul cornicione di una palazzina in una strada stretta, senza ponteggio" style="width:100%;height:auto;display:block" fetchpriority="high" decoding="async"><figcaption style="font-size:.9rem;color:#4a5148;margin-top:.5rem">Intervento su un cornicione in una via stretta: marciapiede libero, nessun ponteggio da montare.</figcaption></figure>
+<figure class="ex-post-fig" style="margin:0 0 1.5rem"><img src="{{ '/assets/foto/lavori-facciata-cornicione-su-fune-andrew-arancione.jpg' | relative_url }}" width="1400" height="788" alt="Operatore Italfuni su doppia fune lavora sul cornicione di una palazzina in una strada stretta, senza ponteggio" style="width:100%;height:auto;display:block" fetchpriority="high" decoding="async"><figcaption style="font-size:.9rem;color:#4b4a44;margin-top:.5rem">Intervento su un cornicione in una via stretta: marciapiede libero, nessun ponteggio da montare.</figcaption></figure>
 
 {% include servizio-cta.html tipo="mini" testo="Hai un edificio e un dubbio? Mandaci 3 foto su WhatsApp: ti diciamo subito se serve la fune o un'altra soluzione." %}
 

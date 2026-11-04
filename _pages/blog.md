@@ -30,12 +30,12 @@ share: false
 .blog-cat, .blog-tag, .blog-readmore { position: relative; z-index: 2; }
 /* hover solo dove c'e' un mouse; sul touch resta un effetto al tocco (:active) cosi' non rimane 'appiccicato' */
 @media (hover: hover) {
-  .blog-item:hover { background: #f7faf0; border-color: #95d600; box-shadow: 0 8px 24px rgba(21,25,29,.10); transform: translateY(-2px); }
-  .blog-item:hover .blog-title { color: #3f6b00; text-decoration: underline !important; text-underline-offset: 3px; }
-  .blog-item:hover .blog-readmore { background: #95d600; color: #15191d; }
+  .blog-item:hover { background: #f7faf0; border-color: #efbb20; box-shadow: 0 8px 24px rgba(21,25,29,.10); transform: translateY(-2px); }
+  .blog-item:hover .blog-title { color: #8a6400; text-decoration: underline !important; text-underline-offset: 3px; }
+  .blog-item:hover .blog-readmore { background: #efbb20; color: #15191d; }
 }
 .blog-item:active { background: #f1f6e4; transform: scale(.995); }
-.blog-item:focus-within { outline: 2px solid #95d600; outline-offset: 2px; }
+.blog-item:focus-within { outline: 2px solid #efbb20; outline-offset: 2px; }
 
 .blog-img {
   flex-shrink: 0;
@@ -61,22 +61,22 @@ share: false
   font-weight: 700;
   letter-spacing: 0.14em;
   text-transform: uppercase;
-  color: #3f6b00;
+  color: #8a6400;
   background: transparent;
-  border: 1.5px solid #3f6b00;
+  border: 1.5px solid #8a6400;
   border-radius: 999px;
   padding: 3px 12px;
   text-decoration: none !important;
-  box-shadow: 0 2px 6px rgba(149,214,0, 0.15);
+  box-shadow: 0 2px 6px rgba(239,187,32, 0.15);
   transition: background 0.18s, color 0.18s, box-shadow 0.18s, transform 0.18s;
   display: inline-block;
 }
 .blog-cat:hover {
-  background: #95d600;
+  background: #efbb20;
   color: #15191d !important;
   text-decoration: none !important;
   transform: translateY(-1px);
-  box-shadow: 0 4px 12px rgba(149,214,0, 0.40);
+  box-shadow: 0 4px 12px rgba(239,187,32, 0.40);
 }
 
 /* TITOLO — no sottolineatura di default, appare solo all'hover */

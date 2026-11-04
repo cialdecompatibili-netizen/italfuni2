@@ -13,8 +13,8 @@ permalink: /chi-sono/
 .cs-foto{display:block;width:100%;max-width:640px;height:auto;margin:0 0 1.5rem;border-radius:12px}
 .cs-cta{text-align:left;margin-top:2rem}
 .cs-cta a{display:inline-block;margin:.3rem .6rem .3rem 0;padding:.85rem 1.5rem;border-radius:8px;font-weight:700;text-decoration:none}
-.cs-cta .cs-b1{background:var(--t-accent,#3f6b00);color:#fff}
-.cs-cta .cs-b2{border:2px solid var(--t-accent,#3f6b00);color:var(--t-accent,#3f6b00)}
+.cs-cta .cs-b1{background:var(--t-accent,#8a6400);color:#fff}
+.cs-cta .cs-b2{border:2px solid var(--t-accent,#8a6400);color:var(--t-accent,#8a6400)}
 </style>
 
 <div class="cs-wrap">
