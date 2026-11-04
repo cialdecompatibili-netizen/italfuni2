@@ -4,7 +4,7 @@ redirect_from:
   - /servizi/pulizia-pannelli-fotovoltaici-su-fune-a-latina/
 layout: single
 in_home: false
-title: "Pulizia pannelli fotovoltaici su fune Latina: preventivi"
+title: "Pulizia pannelli fotovoltaici su fune a Latina: preventivi"
 citta: "Latina"
 excerpt: "Pulizia pannelli fotovoltaici a Latina e provincia: lavori su fune senza ponteggi, con sopralluogo e preventivo gratuito."
 seo_description: "Pulizia pannelli fotovoltaici a Latina e provincia con lavori su fune, senza ponteggi. Sopralluogo e preventivo gratuito con Italfuni."

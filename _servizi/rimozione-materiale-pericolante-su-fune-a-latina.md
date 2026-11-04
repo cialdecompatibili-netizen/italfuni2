@@ -7,7 +7,7 @@ in_home: false
 title: "Rimozione materiale pericolante su fune a Latina"
 citta: "Latina"
 excerpt: "Rimozione materiale pericolante a Latina e provincia: lavori su fune senza ponteggi, con sopralluogo e preventivo gratuito."
-seo_description: "Rimozione materiale pericolante a Latina e provincia con lavori su fune, senza ponteggi. Sopralluogo e preventivo gratuito con Italfuni."
+seo_description: "Rimozione di intonaco e materiale pericolante da facciate e cornicioni a Latina e provincia con lavori su fune, senza ponteggi. Sopralluogo e preventivo gratuito con Italfuni."
 categories:
   - servizi
 faq:

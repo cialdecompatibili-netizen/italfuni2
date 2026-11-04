@@ -4,7 +4,7 @@ redirect_from:
   - /servizi/rifacimento-tetti-rieti/
 layout: single
 in_home: false
-title: "Riparazione tetti Rieti e provincia: preventivi"
+title: "Rifacimento tetto Rieti e provincia: preventivi"
 citta: "Rieti"
 excerpt: "Rifacimento e manutenzione tetti a Rieti e provincia: lavori su fune senza ponteggi, con sopralluogo e preventivo gratuito."
 seo_description: "Rifacimento e manutenzione tetti a Rieti e provincia con lavori su fune, senza ponteggi. Sopralluogo e preventivo gratuito con Italfuni."

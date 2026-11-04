@@ -3,7 +3,7 @@ permalink: /servizi/messa-in-sicurezza/
 redirect_from:
   - /servizi/rimozione-materiale-pericolante/
 layout: single
-title: "Messa in sicurezza"
+title: "Messa in sicurezza facciate"
 description: "Rimozione urgente di intonaco, cornicioni e materiale pericolante su fune."
 seo_description: "Messa in sicurezza facciate: rimuoviamo intonaco e materiale pericolante su fune, senza ponteggio. Sopralluogo gratuito su WhatsApp."
 foto: "ripristino-facciata-cornicione-su-fune-andrew-arancione"

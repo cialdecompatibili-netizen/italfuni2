@@ -4,7 +4,7 @@ redirect_from:
   - /servizi/ristrutturazioni-balconi-e-facciate-su-fune-a-roma/
 layout: single
 in_home: false
-title: "Ristrutturazioni balconi e facciate su fune a Roma"
+title: "Ristrutturazione balconi e facciate su fune a Roma"
 citta: "Roma"
 excerpt: "Ristrutturazione balconi e facciate a Roma e provincia: lavori su fune senza ponteggi, con sopralluogo e preventivo gratuito."
 seo_description: "Ristrutturazione balconi e facciate a Roma e provincia con lavori su fune, senza ponteggi. Sopralluogo e preventivo gratuito con Italfuni."
