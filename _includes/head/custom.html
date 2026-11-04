@@ -240,6 +240,11 @@ body { font-size: calc(1rem * var(--t-font-scale)); }
 document.addEventListener('DOMContentLoaded', function(){
   var BASE = window.SITE_BASE;
 
+  // --- BOTTONE AUTORE (versione responsive): "Segui" -> "Contatti" ---
+  document.querySelectorAll('.author__urls-wrapper .btn').forEach(function(el){
+    el.textContent = 'Contatti';
+  });
+
   // --- SPOSTA COPYRIGHT DOPO SOCIAL ---
   var custom = document.querySelector('.page__footer-custom');
   var follow = document.querySelector('.page__footer-follow');
