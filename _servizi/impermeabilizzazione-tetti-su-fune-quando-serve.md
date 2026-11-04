@@ -5,8 +5,7 @@ in_home: false
 title: "Impermeabilizzazione tetti su fune: quando serve davvero"
 date: 2026-09-17
 excerpt: "Coperture difficili da raggiungere, ponteggi costosi o tempi stretti: ecco quando conviene impermeabilizzare un tetto su fune e quando no."
-seo_title: "Impermeabilizzazione tetti su fune: quando conviene e quando no"
-seo_description: "Fune o ponteggio per impermeabilizzare un tetto? Ti spieghiamo quando la fune conviene, quando no e come si svolge l'intervento. Sopralluogo gratuito su WhatsApp."
+seo_description: "Impermeabilizzare un tetto su fune o con ponteggio? Ti spieghiamo quando conviene e quando no, e come si svolge l'intervento. Sopralluogo gratuito su WhatsApp."
 categories:
   - servizi
 faq:

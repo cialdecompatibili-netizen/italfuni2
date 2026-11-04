@@ -2,8 +2,7 @@
 layout: single
 title: "Ristrutturazione tetto"
 description: "Dalla sostituzione di poche tegole al rifacimento completo della copertura, su fune e senza ponteggio."
-seo_title: "Ristrutturazione tetto su fune: dalle tegole al rifacimento completo"
-seo_description: "Ristrutturazione e riparazione di tetti su fune, senza ponteggi né piattaforme aeree, per ridurre i costi. Sopralluogo gratuito. Scrivici su WhatsApp."
+seo_description: "Ristrutturazione tetto su fune, dalle tegole al rifacimento completo, senza ponteggi né piattaforme aeree. Sopralluogo gratuito su WhatsApp."
 ordine: 13
 in_home: true
 date: 2026-09-17

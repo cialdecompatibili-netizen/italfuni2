@@ -5,8 +5,7 @@ redirect_from:
 layout: single
 title: "Canne fumarie: pulizia, riparazione e installazione"
 description: "Pulizia, ispezione e installazione di canne fumarie dalla copertura, senza ponteggi."
-seo_title: "Pulizia e installazione canne fumarie su fune, senza ponteggio"
-seo_description: "Pulizia, ispezione, riparazione e installazione di canne fumarie in copertura, su fune e senza ponteggio. Sopralluogo gratuito. Scrivici su WhatsApp."
+seo_description: "Pulizia, ispezione, riparazione e installazione di canne fumarie su fune, senza ponteggio, direttamente in copertura. Sopralluogo gratuito su WhatsApp."
 ordine: 4
 in_home: true
 categories:

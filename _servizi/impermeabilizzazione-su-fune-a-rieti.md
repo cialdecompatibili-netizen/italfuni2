@@ -7,7 +7,6 @@ in_home: false
 title: "Impermeabilizzazione su fune a Rieti"
 citta: "Rieti"
 excerpt: "Impermeabilizzazione di terrazzi, balconi e tetti a Rieti e provincia: lavori su fune senza ponteggi, con sopralluogo e preventivo gratuito."
-seo_title: "Impermeabilizzazione su fune a Rieti - Italfuni"
 seo_description: "Impermeabilizzazione di terrazzi, balconi e tetti a Rieti e provincia con lavori su fune, senza ponteggi. Sopralluogo e preventivo gratuito con Italfuni."
 categories:
   - servizi

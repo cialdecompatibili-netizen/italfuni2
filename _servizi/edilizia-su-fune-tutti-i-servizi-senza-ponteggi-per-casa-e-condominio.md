@@ -5,7 +5,6 @@ in_home: false
 title: "Edilizia su fune: tutti i servizi senza ponteggi per casa e condominio"
 date: 2026-09-17
 excerpt: "Impermeabilizzazioni, grondaie, canne fumarie, facciate, tetti e molto altro: la guida completa ai lavori edili su fune, senza ponteggi né impalcature."
-seo_title: "Edilizia su fune: tutti i servizi senza ponteggi per casa e condominio"
 seo_description: "Impermeabilizzazioni, grondaie, canne fumarie, facciate, vetri, fotovoltaico, linee vita e potature: tutti i lavori in quota su fune, senza ponteggio. Sopralluogo gratuito."
 categories:
   - servizi

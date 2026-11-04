@@ -7,7 +7,6 @@ in_home: false
 title: "Ristrutturazione balconi e facciate su fune a Rieti"
 citta: "Rieti"
 excerpt: "Ristrutturazione balconi e facciate a Rieti e provincia: lavori su fune senza ponteggi, con sopralluogo e preventivo gratuito."
-seo_title: "Ristrutturazione balconi e facciate su fune a Rieti - Italfuni"
 seo_description: "Ristrutturazione balconi e facciate a Rieti e provincia con lavori su fune, senza ponteggi. Sopralluogo e preventivo gratuito con Italfuni."
 categories:
   - servizi

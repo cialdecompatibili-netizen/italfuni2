@@ -7,7 +7,6 @@ in_home: false
 title: "Rimozione materiale pericolane su fune a Frosinone"
 citta: "Frosinone"
 excerpt: "Rimozione materiale pericolante a Frosinone e provincia: lavori su fune senza ponteggi, con sopralluogo e preventivo gratuito."
-seo_title: "Rimozione materiale pericolane su fune a Frosinone - Italfuni"
 seo_description: "Rimozione materiale pericolante a Frosinone e provincia con lavori su fune, senza ponteggi. Sopralluogo e preventivo gratuito con Italfuni."
 categories:
   - servizi

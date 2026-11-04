@@ -5,8 +5,7 @@ redirect_from:
 layout: single
 title: "Messa in sicurezza"
 description: "Rimozione urgente di intonaco, cornicioni e materiale pericolante su fune."
-seo_title: "Messa in sicurezza facciate: rimozione di intonaco e materiale pericolante"
-seo_description: "Intonaco o cornicioni che cadono? Interveniamo su fune per rimuovere il materiale instabile e mettere in sicurezza la facciata, senza ponteggio. Scrivici su WhatsApp."
+seo_description: "Messa in sicurezza facciate: rimuoviamo intonaco e materiale pericolante su fune, senza ponteggio. Sopralluogo gratuito su WhatsApp."
 foto: "ripristino-facciata-cornicione-su-fune-andrew-arancione"
 ordine: 7
 in_home: true

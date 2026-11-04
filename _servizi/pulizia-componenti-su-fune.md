@@ -2,8 +2,7 @@
 layout: single
 title: "Pulizia componenti su fune"
 description: "Pulizia mirata di insegne, cornicioni e altri elementi in quota, senza strutture temporanee."
-seo_title: "Pulizia di insegne, cornicioni e facciate su fune"
-seo_description: "Insegne, cornicioni, balconi e altri elementi in alto puliti direttamente su fune, senza ponteggio né piattaforma. Sopralluogo gratuito. Scrivici su WhatsApp."
+seo_description: "Pulizia di insegne, cornicioni, balconi e facciate su fune, senza ponteggio né piattaforma. Sopralluogo gratuito. Scrivici su WhatsApp."
 ordine: 9
 in_home: true
 categories:

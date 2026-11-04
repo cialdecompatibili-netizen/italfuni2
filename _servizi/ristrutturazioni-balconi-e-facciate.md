@@ -2,8 +2,7 @@
 layout: single
 title: "Balconi, facciate e tetto"
 description: "Ristrutturazione e ripristino estetico e strutturale di balconi, facciate e coperture su fune."
-seo_title: "Ristrutturazione balconi e facciate su fune, senza ponteggio"
-seo_description: "Frontalini, balconi, facciate e coperture ripristinati su fune: meno costi, meno tempi e nessun ponteggio davanti alle finestre. Sopralluogo gratuito su WhatsApp."
+seo_description: "Ristrutturazione di balconi, frontalini e facciate su fune, senza ponteggio davanti alle finestre: meno costi e tempi. Sopralluogo gratuito su WhatsApp."
 ordine: 12
 in_home: true
 categories:

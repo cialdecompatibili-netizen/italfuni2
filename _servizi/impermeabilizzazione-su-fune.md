@@ -5,8 +5,7 @@ in_home: true
 title: "Impermeabilizzazione su fune"
 date: 2026-09-17
 excerpt: "Impermeabilizzazione di terrazzi, balconi, tetti e cornicioni su fune: niente ponteggi, tempi rapidi, sopralluogo gratuito."
-seo_title: "Impermeabilizzazione terrazzi, balconi e tetti su fune, senza ponteggio"
-seo_description: "Infiltrazioni su terrazzi, balconi, tetti o cornicioni? Impermeabilizziamo su fune, senza ponteggio, con guaine e membrane liquide. Sopralluogo gratuito su WhatsApp."
+seo_description: "Impermeabilizzazione di terrazzi, balconi e tetti su fune, senza ponteggio: guaine e membrane liquide contro le infiltrazioni. Sopralluogo gratuito su WhatsApp."
 categories:
   - servizi
 faq:

@@ -2,8 +2,7 @@
 layout: single
 title: "Montaggio isolanti"
 description: "Isolamento termico di facciate e coperture eseguito in quota senza ponteggi."
-seo_title: "Montaggio isolanti e cappotto su fune, senza ponteggio"
-seo_description: "Pannelli isolanti e cappotto montati in facciata operando su corda: meno tempi, meno costi, nessun ponteggio davanti alle finestre. Sopralluogo gratuito su WhatsApp."
+seo_description: "Montaggio di isolanti e cappotto in facciata su fune, senza ponteggio davanti alle finestre: meno tempi, meno costi. Sopralluogo gratuito su WhatsApp."
 ordine: 3
 in_home: true
 categories:

@@ -7,7 +7,6 @@ in_home: false
 title: "Rimozione materiale pericolante su fune a Rieti"
 citta: "Rieti"
 excerpt: "Rimozione materiale pericolante a Rieti e provincia: lavori su fune senza ponteggi, con sopralluogo e preventivo gratuito."
-seo_title: "Rimozione materiale pericolante su fune a Rieti - Italfuni"
 seo_description: "Rimozione materiale pericolante a Rieti e provincia con lavori su fune, senza ponteggi. Sopralluogo e preventivo gratuito con Italfuni."
 categories:
   - servizi

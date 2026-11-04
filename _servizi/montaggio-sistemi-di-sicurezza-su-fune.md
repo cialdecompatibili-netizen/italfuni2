@@ -2,8 +2,7 @@
 layout: single
 title: "Sistemi di sicurezza su fune"
 description: "Montaggio di linee vita e ancoraggi certificati per lavorare in quota in sicurezza."
-seo_title: "Linee vita e ancoraggi certificati: installazione su fune"
-seo_description: "Installiamo linee vita e punti di ancoraggio certificati su tetti e coperture, operando su fune, con documentazione completa. Sopralluogo gratuito su WhatsApp."
+seo_description: "Linee vita e ancoraggi certificati su tetti e coperture, installati su fune con documentazione completa. Sopralluogo gratuito su WhatsApp."
 ordine: 6
 in_home: true
 categories:
