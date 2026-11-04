@@ -1,4 +1,7 @@
 ---
+permalink: /potatura-alberi-viterbo/
+redirect_from:
+  - /servizi/potatura-alberi-viterbo/
 layout: single
 in_home: false
 title: "Potatura alberi Viterbo"

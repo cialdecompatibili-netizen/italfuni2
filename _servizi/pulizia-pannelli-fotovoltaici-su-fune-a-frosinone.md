@@ -1,4 +1,7 @@
 ---
+permalink: /pulizia-pannelli-fotovoltaici-su-fune-a-frosinone/
+redirect_from:
+  - /servizi/pulizia-pannelli-fotovoltaici-su-fune-a-frosinone/
 layout: single
 in_home: false
 title: "Pulizia pannelli fotovoltaici su fune a Frosinone"
@@ -73,6 +76,6 @@ Risparmio e professionalità ma non solo. Se hai ancora qualche dubbio puoi tran
 
 Inoltre **potrai richiedere un preventivo gratuito e senza impegno** con un sopralluogo incluso nel servizio. Per velocizzare tutto consigliamo di utilizzare Whatsapp scattando le foto dei pannelli solari da pulire inviandocele.
 
-Non sei della zona di Frosinone? Allora leggi qui: pulizia pannelli solari su fune a [Roma]({{ '/servizi/pulizia-pannelli-fotovoltaici-su-fune-a-roma/' | relative_url }}) – [Latina]({{ '/servizi/pulizia-pannelli-fotovoltaici-su-fune-a-latina/' | relative_url }}) – [Viterbo]({{ '/servizi/pulizia-pannelli-fotovoltaici-a-viterbo/' | relative_url }}) – [Rieti]({{ '/servizi/pulizia-pannelli-fotovoltaici-su-fune-a-rieti/' | relative_url }}).
+Non sei della zona di Frosinone? Allora leggi qui: pulizia pannelli solari su fune a [Roma]({{ '/pulizia-pannelli-fotovoltaici-su-fune-a-roma/' | relative_url }}) – [Latina]({{ '/pulizia-pannelli-fotovoltaici-su-fune-a-latina/' | relative_url }}) – [Viterbo]({{ '/pulizia-pannelli-fotovoltaici-a-viterbo/' | relative_url }}) – [Rieti]({{ '/pulizia-pannelli-fotovoltaici-su-fune-a-rieti/' | relative_url }}).
 
 Per una panoramica completa leggi anche la pagina [pulizia pannelli fotovoltaici]({{ '/servizi/pulizia-pannelli-fotovoltaici/' | relative_url }}).

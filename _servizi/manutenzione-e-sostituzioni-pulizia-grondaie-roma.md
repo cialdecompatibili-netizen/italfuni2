@@ -1,4 +1,7 @@
 ---
+permalink: /manutenzione-e-sostituzioni-pulizia-grondaie-roma/
+redirect_from:
+  - /servizi/manutenzione-e-sostituzioni-pulizia-grondaie-roma/
 layout: single
 in_home: false
 title: "Manutenzione, sostituzioni e pulizia grondaie a Roma"
@@ -65,4 +68,4 @@ Gli interventi potranno essere eseguiti in un qualunque periodo dell’anno, sal
 
 Quindi se stai cercando esperti di questo settore sei nel posto giusto. Chiedici un **preventivo assolutamente gratuito e senza impegno**!
 
-Per una panoramica completa leggi anche la pagina [pulizia, riparazione e sostituzione grondaie]({{ '/servizi/riparazione-e-pulizia-grondaie/' | relative_url }}).
+Per una panoramica completa leggi anche la pagina [pulizia, riparazione e sostituzione grondaie]({{ '/servizi/manutenzione-e-sostituzione-grondaie/' | relative_url }}).

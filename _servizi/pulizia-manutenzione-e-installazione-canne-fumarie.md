@@ -1,4 +1,7 @@
 ---
+permalink: /servizi/manutenzione-e-installazione-canne-fumarie/
+redirect_from:
+  - /servizi/pulizia-manutenzione-e-installazione-canne-fumarie/
 layout: single
 title: "Canne fumarie: pulizia, riparazione e installazione"
 description: "Pulizia, ispezione e installazione di canne fumarie dalla copertura, senza ponteggi."

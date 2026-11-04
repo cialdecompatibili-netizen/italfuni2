@@ -1,4 +1,7 @@
 ---
+permalink: /rimozione-materiale-pericolane-su-fune-a-frosinone/
+redirect_from:
+  - /servizi/rimozione-materiale-pericolane-su-fune-a-frosinone/
 layout: single
 in_home: false
 title: "Rimozione materiale pericolane su fune a Frosinone"

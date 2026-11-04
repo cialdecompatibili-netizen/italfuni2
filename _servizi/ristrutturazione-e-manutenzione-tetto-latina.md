@@ -1,4 +1,7 @@
 ---
+permalink: /ristrutturazione-e-manutenzione-tetto-latina/
+redirect_from:
+  - /servizi/ristrutturazione-e-manutenzione-tetto-latina/
 layout: single
 in_home: false
 title: "Ristrutturazione e manutenzione tetto Latina"
@@ -51,9 +54,9 @@ Per approfondire: potatura alberi Latina.
 
 I nostri professionisti possono operare in tanti altri ambiti. La peculiarità del lavoro su fune è proprio quella di arrivare dove gli altri si fermano.
 
-Hai ad esempio problemi con la tua **grondaia**? Allora prova: [manutenzione, pulizia e sostituzione grondaia Latina e provincia]({{ '/servizi/pulizia-manutenzione-e-sostituzione-grondaie-su-fune-latina/' | relative_url }}).
+Hai ad esempio problemi con la tua **grondaia**? Allora prova: [manutenzione, pulizia e sostituzione grondaia Latina e provincia]({{ '/pulizia-manutenzione-e-sostituzione-grondaie-su-fune-latina/' | relative_url }}).
 
-Se invece hai **vetri** difficilmente raggiungibili o lucernari da pulire ecco l’articolo che fa al caso tuo: [pulizia vetri su fune Latina]({{ '/servizi/pulizia-vetri-latina/' | relative_url }}).
+Se invece hai **vetri** difficilmente raggiungibili o lucernari da pulire ecco l’articolo che fa al caso tuo: [pulizia vetri su fune Latina]({{ '/pulizia-vetri-latina/' | relative_url }}).
 
 **Italfuni** è l’azienda che fa al caso tuo! Chiama senza impegno per un **preventivo gratuito al 100%.** Rimarrai stupito dalla nostra professionalità e dal rapporto qualità-prezzo!
 

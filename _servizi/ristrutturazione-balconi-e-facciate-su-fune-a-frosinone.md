@@ -1,4 +1,7 @@
 ---
+permalink: /ristrutturazione-balconi-e-facciate-su-fune-a-frosinone/
+redirect_from:
+  - /servizi/ristrutturazione-balconi-e-facciate-su-fune-a-frosinone/
 layout: single
 in_home: false
 title: "Ristrutturazione balconi e facciate su fune a Frosinone"

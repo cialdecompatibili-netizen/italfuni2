@@ -1,4 +1,7 @@
 ---
+permalink: /pulizia-vetri-frosinone/
+redirect_from:
+  - /servizi/pulizia-vetri-frosinone/
 layout: single
 in_home: false
 title: "Pulizia vetri su fune a Frosinone provincia"
@@ -67,16 +70,16 @@ La possibilità di non avvalersi di impalcature permette inoltre, di poter inter
 
 I nostri professionisti possono operare in tanti altri ambiti. La peculiarità del lavoro su fune è proprio quella di arrivare dove gli altri non arrivano.
 
-Hai ad esempio problemi con la tua **grondaia** e hai bisogno di riparazioni o manutenzione? Allora prova a leggere qui: [manutenzione, pulizia e sostituzione grondaia Frosinone e provincia]({{ '/servizi/pulizia-e-riparazione-grondaie-su-fune-a-frosinone/' | relative_url }}).
+Hai ad esempio problemi con la tua **grondaia** e hai bisogno di riparazioni o manutenzione? Allora prova a leggere qui: [manutenzione, pulizia e sostituzione grondaia Frosinone e provincia]({{ '/pulizia-e-riparazione-grondaie-su-fune-a-frosinone/' | relative_url }}).
 
 Se invece è il tuo tetto ad avere bisogno di un intervento ecco il servizio su misura: riparazione tetti Frosinone.
 
 ## Non sei di Frosinone? Allora prova qui
 
-- [pulizia vetri Roma]({{ '/servizi/pulizia-vetri-roma/' | relative_url }});
-- [pulizia vetri Rieti]({{ '/servizi/pulizia-vetri-rieti/' | relative_url }});
-- [pulizia vetri Viterbo]({{ '/servizi/pulizia-vetri-viterbo/' | relative_url }});
-- [pulizia vetri Latina]({{ '/servizi/pulizia-vetri-latina/' | relative_url }}).
+- [pulizia vetri Roma]({{ '/pulizia-vetri-roma/' | relative_url }});
+- [pulizia vetri Rieti]({{ '/pulizia-vetri-rieti/' | relative_url }});
+- [pulizia vetri Viterbo]({{ '/pulizia-vetri-viterbo/' | relative_url }});
+- [pulizia vetri Latina]({{ '/pulizia-vetri-latina/' | relative_url }}).
 
 Richiedi un **preventivo gratuito!** Risparmierai sicuramente avvalendoti dei servizi di **Italfuni**!
 

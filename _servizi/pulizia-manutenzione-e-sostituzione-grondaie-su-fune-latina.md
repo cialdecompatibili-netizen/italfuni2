@@ -1,4 +1,7 @@
 ---
+permalink: /pulizia-manutenzione-e-sostituzione-grondaie-su-fune-latina/
+redirect_from:
+  - /servizi/pulizia-manutenzione-e-sostituzione-grondaie-su-fune-latina/
 layout: single
 in_home: false
 title: "Pulizia, riparazione grondaie su fune a Latina"
@@ -47,4 +50,4 @@ La nostra filosofia è quella di “completare il lavoro assegnato, dedicandoci 
 
 *Contattataci, siamo qui a Latina per discutere insieme le vostre esigenze, per risparmiare tempo e denaro utilizzando le nostre tecniche di accesso flessibili e specializzate.*
 
-Per una panoramica completa leggi anche la pagina [pulizia, riparazione e sostituzione grondaie]({{ '/servizi/riparazione-e-pulizia-grondaie/' | relative_url }}).
+Per una panoramica completa leggi anche la pagina [pulizia, riparazione e sostituzione grondaie]({{ '/servizi/manutenzione-e-sostituzione-grondaie/' | relative_url }}).

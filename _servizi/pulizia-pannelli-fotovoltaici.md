@@ -51,7 +51,7 @@ Confronta la produzione dell'impianto **prima e dopo** la pulizia, a parità di 
 
 ## Lavori collegati
 
-Se siamo già sul tetto possiamo anche pulire [grondaie e pluviali]({{ '/servizi/riparazione-e-pulizia-grondaie/' | relative_url }}), installare [dissuasori per piccioni]({{ '/servizi/installazione-e-manutenzione-dissuasori-per-piccioni/' | relative_url }}) e montare una [linea vita]({{ '/servizi/montaggio-sistemi-di-sicurezza-su-fune/' | relative_url }}).
+Se siamo già sul tetto possiamo anche pulire [grondaie e pluviali]({{ '/servizi/manutenzione-e-sostituzione-grondaie/' | relative_url }}), installare [dissuasori per piccioni]({{ '/servizi/installazione-e-manutenzione-dissuasori-volatili/' | relative_url }}) e montare una [linea vita]({{ '/servizi/montaggio-sistemi-di-sicurezza-su-fune/' | relative_url }}).
 
 ## Per un preventivo veloce, mandaci su WhatsApp
 

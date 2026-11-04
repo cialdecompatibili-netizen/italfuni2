@@ -1,4 +1,7 @@
 ---
+permalink: /tinteggiature-complete-a-viterbo/
+redirect_from:
+  - /servizi/tinteggiature-complete-a-viterbo/
 layout: single
 in_home: false
 title: "Tinteggiature complete a Viterbo"

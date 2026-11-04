@@ -1,4 +1,7 @@
 ---
+permalink: /messa-in-sicurezza-a-viterbo/
+redirect_from:
+  - /servizi/messa-in-sicurezza-a-viterbo/
 layout: single
 in_home: false
 title: "Messa in sicurezza a Viterbo"

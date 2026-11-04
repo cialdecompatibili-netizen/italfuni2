@@ -1,4 +1,7 @@
 ---
+permalink: /impermeabilizzazione-su-fune-a-latina/
+redirect_from:
+  - /servizi/impermeabilizzazione-su-fune-a-latina/
 layout: single
 in_home: false
 title: "Impermeabilizzazione su fune a Latina"

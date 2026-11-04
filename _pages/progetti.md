@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /portfolio/
 layout: single
 title: "Lavori svolti"
 permalink: /progetti/

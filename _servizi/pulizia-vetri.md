@@ -72,17 +72,17 @@ Per vetrate alte o difficili da raggiungere la fune è più flessibile: arriva a
 
 ## Vetri, ma non solo
 
-Visto che siamo già in quota, possiamo occuparci anche di [grondaie e pluviali]({{ '/servizi/riparazione-e-pulizia-grondaie/' | relative_url }}), [pannelli fotovoltaici]({{ '/servizi/pulizia-pannelli-fotovoltaici/' | relative_url }}) e altri [elementi in quota]({{ '/servizi/pulizia-componenti-su-fune/' | relative_url }}) nello stesso accesso.
+Visto che siamo già in quota, possiamo occuparci anche di [grondaie e pluviali]({{ '/servizi/manutenzione-e-sostituzione-grondaie/' | relative_url }}), [pannelli fotovoltaici]({{ '/servizi/pulizia-pannelli-fotovoltaici/' | relative_url }}) e altri [elementi in quota]({{ '/servizi/pulizia-componenti-su-fune/' | relative_url }}) nello stesso accesso.
 
 ## Dove lavoriamo
 
 Facciamo pulizia vetri su fune in tutto il Lazio:
 
-- [Pulizia vetri a Roma]({{ '/servizi/pulizia-vetri-roma/' | relative_url }})
-- [Pulizia vetri a Viterbo]({{ '/servizi/pulizia-vetri-viterbo/' | relative_url }})
-- [Pulizia vetri a Frosinone]({{ '/servizi/pulizia-vetri-frosinone/' | relative_url }})
-- [Pulizia vetri a Latina]({{ '/servizi/pulizia-vetri-latina/' | relative_url }})
-- [Pulizia vetri a Rieti]({{ '/servizi/pulizia-vetri-rieti/' | relative_url }})
+- [Pulizia vetri a Roma]({{ '/pulizia-vetri-roma/' | relative_url }})
+- [Pulizia vetri a Viterbo]({{ '/pulizia-vetri-viterbo/' | relative_url }})
+- [Pulizia vetri a Frosinone]({{ '/pulizia-vetri-frosinone/' | relative_url }})
+- [Pulizia vetri a Latina]({{ '/pulizia-vetri-latina/' | relative_url }})
+- [Pulizia vetri a Rieti]({{ '/pulizia-vetri-rieti/' | relative_url }})
 
 ## Per un preventivo veloce, mandaci su WhatsApp
 

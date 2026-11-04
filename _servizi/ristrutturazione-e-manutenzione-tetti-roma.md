@@ -1,4 +1,7 @@
 ---
+permalink: /ristrutturazione-e-manutenzione-tetti-roma/
+redirect_from:
+  - /servizi/ristrutturazione-e-manutenzione-tetti-roma/
 layout: single
 in_home: false
 title: "Ristrutturazione e manutenzione tetto Roma"
@@ -49,9 +52,9 @@ E’ bene anche intervenire molto velocemente quando si hanno **grossi problemi 
 
 I nostri professionisti possono operare in tanti altri ambiti. La peculiarità del lavoro su fune è proprio quella di arrivare dove gli altri si fermano.
 
-Hai ad esempio problemi con la tua **grondaia**? Allora prova a leggere qui: [manutenzione, pulizia e sostituzione grondaia Roma e provincia]({{ '/servizi/manutenzione-e-sostituzioni-pulizia-grondaie-roma/' | relative_url }}).
+Hai ad esempio problemi con la tua **grondaia**? Allora prova a leggere qui: [manutenzione, pulizia e sostituzione grondaia Roma e provincia]({{ '/manutenzione-e-sostituzioni-pulizia-grondaie-roma/' | relative_url }}).
 
-Se invece hai **vetri** difficilmente raggiungibili o lucernari da pulire ecco il servizio che fa al caso tuo: [pulizia vetri su fune Roma]({{ '/servizi/pulizia-vetri-roma/' | relative_url }}).
+Se invece hai **vetri** difficilmente raggiungibili o lucernari da pulire ecco il servizio che fa al caso tuo: [pulizia vetri su fune Roma]({{ '/pulizia-vetri-roma/' | relative_url }}).
 
 ## Non sei di Roma: allora cerca qui
 

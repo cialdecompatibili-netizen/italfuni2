@@ -51,7 +51,7 @@ Chi sale su un tetto senza protezione rischia una caduta dall'alto. Un sistema i
 
 ## Lavori collegati
 
-Dopo l'installazione, la linea vita facilita lavori come [pulizia di grondaie]({{ '/servizi/riparazione-e-pulizia-grondaie/' | relative_url }}), [pannelli fotovoltaici]({{ '/servizi/pulizia-pannelli-fotovoltaici/' | relative_url }}) e [canne fumarie]({{ '/servizi/pulizia-manutenzione-e-installazione-canne-fumarie/' | relative_url }}).
+Dopo l'installazione, la linea vita facilita lavori come [pulizia di grondaie]({{ '/servizi/manutenzione-e-sostituzione-grondaie/' | relative_url }}), [pannelli fotovoltaici]({{ '/servizi/pulizia-pannelli-fotovoltaici/' | relative_url }}) e [canne fumarie]({{ '/servizi/manutenzione-e-installazione-canne-fumarie/' | relative_url }}).
 
 ## Per un preventivo veloce, mandaci su WhatsApp
 

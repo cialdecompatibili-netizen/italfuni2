@@ -1,4 +1,7 @@
 ---
+permalink: /messa-in-sicurezza-a-roma/
+redirect_from:
+  - /servizi/messa-in-sicurezza-a-roma/
 layout: single
 in_home: false
 title: "Messa in sicurezza a Roma"

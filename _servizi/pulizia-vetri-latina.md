@@ -1,4 +1,7 @@
 ---
+permalink: /pulizia-vetri-latina/
+redirect_from:
+  - /servizi/pulizia-vetri-latina/
 layout: single
 in_home: false
 title: "Pulizia vetri su fune a Latina e provincia"
@@ -64,16 +67,16 @@ I nostri operatori infatti grazie a corde e funi per fissarsi agli edifici in pi
 
 I nostri professionisti possono operare in tanti altri ambiti. La peculiarità del lavoro su fune è proprio quella di arrivare dove gli altri non arrivano.
 
-Hai ad esempio problemi con la tua **grondaia** e hai bisogno di riparazioni o manutenzione? Allora prova a leggere qui: [manutenzione, pulizia e sostituzione grondaia Latina e provincia]({{ '/servizi/pulizia-manutenzione-e-sostituzione-grondaie-su-fune-latina/' | relative_url }}).
+Hai ad esempio problemi con la tua **grondaia** e hai bisogno di riparazioni o manutenzione? Allora prova a leggere qui: [manutenzione, pulizia e sostituzione grondaia Latina e provincia]({{ '/pulizia-manutenzione-e-sostituzione-grondaie-su-fune-latina/' | relative_url }}).
 
 Se invece è il tuo tetto ad avere bisogno di un intervento ecco il servizio su misura: riparazione tetti Latina.
 
 ## Non sei di Latina? Prova qui allora
 
-- [pulizia vetri Roma]({{ '/servizi/pulizia-vetri-roma/' | relative_url }});
-- [pulizia vetri Viterbo;]({{ '/servizi/pulizia-vetri-viterbo/' | relative_url }})
-- [pulizia vetri Frosinone;]({{ '/servizi/pulizia-vetri-frosinone/' | relative_url }})
-- [pulizia vetri Rieti]({{ '/servizi/pulizia-vetri-rieti/' | relative_url }}).
+- [pulizia vetri Roma]({{ '/pulizia-vetri-roma/' | relative_url }});
+- [pulizia vetri Viterbo;]({{ '/pulizia-vetri-viterbo/' | relative_url }})
+- [pulizia vetri Frosinone;]({{ '/pulizia-vetri-frosinone/' | relative_url }})
+- [pulizia vetri Rieti]({{ '/pulizia-vetri-rieti/' | relative_url }}).
 
 Richiedi un **preventivo gratuito** per risparmiare sulla pulizia dei tuoi vetri ad alta quota grazie ad Italfuni.
 

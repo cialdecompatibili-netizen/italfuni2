@@ -1,4 +1,7 @@
 ---
+permalink: /potatura-alberi-latina/
+redirect_from:
+  - /servizi/potatura-alberi-latina/
 layout: single
 in_home: false
 title: "Potatura alberi Latina"

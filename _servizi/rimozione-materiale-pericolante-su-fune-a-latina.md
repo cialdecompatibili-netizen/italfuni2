@@ -1,4 +1,7 @@
 ---
+permalink: /rimozione-materiale-pericolante-su-fune-a-latina/
+redirect_from:
+  - /servizi/rimozione-materiale-pericolante-su-fune-a-latina/
 layout: single
 in_home: false
 title: "Rimozione materiale pericolante su fune a Latina"

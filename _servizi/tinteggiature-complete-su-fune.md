@@ -59,15 +59,15 @@ Per grandi facciate alte o difficili da raggiungere la fune è più flessibile e
 
 ## Insieme ad altri lavori in quota
 
-Nello stesso accesso possiamo occuparci di [ristrutturazione di balconi e facciate]({{ '/servizi/ristrutturazioni-balconi-e-facciate/' | relative_url }}), [grondaie]({{ '/servizi/riparazione-e-pulizia-grondaie/' | relative_url }}) e [vetrate]({{ '/servizi/pulizia-vetri/' | relative_url }}).
+Nello stesso accesso possiamo occuparci di [ristrutturazione di balconi e facciate]({{ '/servizi/ristrutturazioni-balconi-e-facciate/' | relative_url }}), [grondaie]({{ '/servizi/manutenzione-e-sostituzione-grondaie/' | relative_url }}) e [vetrate]({{ '/servizi/pulizia-vetri/' | relative_url }}).
 
 ## Dove lavoriamo
 
-- [Tinteggiature a Roma]({{ '/servizi/tinteggiature-complete-a-roma/' | relative_url }})
-- [Tinteggiature a Viterbo]({{ '/servizi/tinteggiature-complete-a-viterbo/' | relative_url }})
-- [Tinteggiature a Frosinone]({{ '/servizi/tinteggiature-complete-su-fune-a-frosinone/' | relative_url }})
-- [Tinteggiature a Latina]({{ '/servizi/tinteggiature-complete-su-fune-a-latina/' | relative_url }})
-- [Tinteggiature a Rieti]({{ '/servizi/tinteggiature-complete-su-fune-a-rieti/' | relative_url }})
+- [Tinteggiature a Roma]({{ '/tinteggiature-complete-a-roma/' | relative_url }})
+- [Tinteggiature a Viterbo]({{ '/tinteggiature-complete-a-viterbo/' | relative_url }})
+- [Tinteggiature a Frosinone]({{ '/tinteggiature-complete-su-fune-a-frosinone/' | relative_url }})
+- [Tinteggiature a Latina]({{ '/tinteggiature-complete-su-fune-a-latina/' | relative_url }})
+- [Tinteggiature a Rieti]({{ '/tinteggiature-complete-su-fune-a-rieti/' | relative_url }})
 
 ## Per un preventivo veloce, mandaci su WhatsApp
 

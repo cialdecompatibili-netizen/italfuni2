@@ -1,4 +1,7 @@
 ---
+permalink: /ristrutturazione-e-manutenzione-tetto-viterbo/
+redirect_from:
+  - /servizi/ristrutturazione-e-manutenzione-tetto-viterbo/
 layout: single
 in_home: false
 title: "Ristrutturazione e manutenzione tetto Viterbo"
@@ -49,9 +52,9 @@ Ci sono casi in cui un **intervento tempestivo è importantissimo**.
 
 I nostri professionisti possono operare in tante altre situazioni. La peculiarità del lavoro su fune è proprio quella di arrivare dove gli altri si fermano.
 
-Hai ad esempio bisogno di sostituire o riparare la tua **grondaia**? Allora prova a leggere questo articolo: [manutenzione, pulizia e sostituzione grondaia Viterbo e provincia]({{ '/servizi/grondaie-a-viterbo-vendita-installazione-manutenzione-pulizia/' | relative_url }}).
+Hai ad esempio bisogno di sostituire o riparare la tua **grondaia**? Allora prova a leggere questo articolo: [manutenzione, pulizia e sostituzione grondaia Viterbo e provincia]({{ '/grondaie-a-viterbo-vendita-installazione-manutenzione-pulizia/' | relative_url }}).
 
-Se invece hai **vetri** difficilmente raggiungibili o lucernari da pulire ecco il nostro servizio su misura per te: [pulizia vetri su fune Viterbo]({{ '/servizi/pulizia-vetri-viterbo/' | relative_url }}).
+Se invece hai **vetri** difficilmente raggiungibili o lucernari da pulire ecco il nostro servizio su misura per te: [pulizia vetri su fune Viterbo]({{ '/pulizia-vetri-viterbo/' | relative_url }}).
 
 ## Non sei di Viterbo? Allora leggi qui!
 

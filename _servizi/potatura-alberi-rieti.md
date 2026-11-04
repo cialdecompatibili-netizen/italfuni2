@@ -1,4 +1,7 @@
 ---
+permalink: /potatura-alberi-rieti/
+redirect_from:
+  - /servizi/potatura-alberi-rieti/
 layout: single
 in_home: false
 title: "Potatura alberi Rieti"

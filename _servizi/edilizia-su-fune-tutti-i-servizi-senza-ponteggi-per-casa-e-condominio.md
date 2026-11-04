@@ -32,13 +32,13 @@ Niente ingombro sul marciapiede, niente teli davanti alle finestre, niente balco
 
 - [Impermeabilizzazione su fune]({{ '/servizi/impermeabilizzazione-su-fune/' | relative_url }}): terrazzi, balconi, tetti e cornicioni con guaine e membrane liquide, per fermare le infiltrazioni prima che danneggino le strutture.
 - [Impermeabilizzazione tetti: quando serve davvero]({{ '/servizi/impermeabilizzazione-tetti-su-fune-quando-serve/' | relative_url }}): quando la fune conviene e quando serve il ponteggio.
-- [Riparazione e pulizia grondaie]({{ '/servizi/riparazione-e-pulizia-grondaie/' | relative_url }}): grondaie e pluviali puliti, riparati o sostituiti.
+- [Riparazione e pulizia grondaie]({{ '/servizi/manutenzione-e-sostituzione-grondaie/' | relative_url }}): grondaie e pluviali puliti, riparati o sostituiti.
 - [Montaggio isolanti]({{ '/servizi/montaggio-isolanti/' | relative_url }}): isolamento termico di facciate e coperture, senza cantieri invasivi.
 
 ### Manutenzione e sicurezza in quota
 
-- [Canne fumarie]({{ '/servizi/pulizia-manutenzione-e-installazione-canne-fumarie/' | relative_url }}): verifica, pulizia e installazione in quota.
-- [Dissuasori per piccioni]({{ '/servizi/installazione-e-manutenzione-dissuasori-per-piccioni/' | relative_url }}): sistemi anti-volatili su cornicioni, balconi e coperture.
+- [Canne fumarie]({{ '/servizi/manutenzione-e-installazione-canne-fumarie/' | relative_url }}): verifica, pulizia e installazione in quota.
+- [Dissuasori per piccioni]({{ '/servizi/installazione-e-manutenzione-dissuasori-volatili/' | relative_url }}): sistemi anti-volatili su cornicioni, balconi e coperture.
 - [Linee vita e ancoraggi]({{ '/servizi/montaggio-sistemi-di-sicurezza-su-fune/' | relative_url }}): per lavorare in sicurezza sui tetti in futuro.
 - [Messa in sicurezza]({{ '/servizi/rimozione-materiale-pericolante/' | relative_url }}): rimozione di intonaci e cornicioni a rischio caduta.
 

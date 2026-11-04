@@ -1,4 +1,7 @@
 ---
+permalink: /installazione-condizionatori-su-fune-a-roma/
+redirect_from:
+  - /servizi/installazione-condizionatori-su-fune-a-roma/
 layout: single
 in_home: false
 title: "Installazione condizionatori su fune a Roma e provincia"
@@ -53,9 +56,9 @@ In questo caso l’intervento di professionisti su fune abbatterebbe costi e tem
 
 I nostri professionisti possono operare in tanti altri ambiti. La peculiarità del lavoro su fune è proprio quella di arrivare dove gli altri si fermano.
 
-Hai ad esempio hai problemi con la tua **grondaia** o devi riparare il tuo tetto? Allora prova a leggere qui: [manutenzione, pulizia e sostituzione grondaia Roma e provincia]({{ '/servizi/manutenzione-e-sostituzioni-pulizia-grondaie-roma/' | relative_url }}). – Riparazione tetti a Roma.
+Hai ad esempio hai problemi con la tua **grondaia** o devi riparare il tuo tetto? Allora prova a leggere qui: [manutenzione, pulizia e sostituzione grondaia Roma e provincia]({{ '/manutenzione-e-sostituzioni-pulizia-grondaie-roma/' | relative_url }}). – Riparazione tetti a Roma.
 
-Se invece hai **vetri** difficilmente raggiungibili o lucernari da pulire ecco il servizio fatto apposta per te: [pulizia vetri su fune Roma]({{ '/servizi/pulizia-vetri-roma/' | relative_url }}).
+Se invece hai **vetri** difficilmente raggiungibili o lucernari da pulire ecco il servizio fatto apposta per te: [pulizia vetri su fune Roma]({{ '/pulizia-vetri-roma/' | relative_url }}).
 
 Chiamaci per un **preventivo gratuito e senza alcun impegno**. Lavoriamo con estrema serietà su tutto il territorio di Roma e provincia!
 

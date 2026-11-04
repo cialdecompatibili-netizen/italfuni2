@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /news/
 layout: single
 title: Blog
 permalink: /blog/

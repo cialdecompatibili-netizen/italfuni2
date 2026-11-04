@@ -55,7 +55,7 @@ Mentre puliamo vediamo da vicino lo stato di cornicioni e fregi. Se troviamo par
 
 ## Lavori collegati
 
-Nello stesso accesso possiamo occuparci anche di [vetrate]({{ '/servizi/pulizia-vetri/' | relative_url }}), [grondaie]({{ '/servizi/riparazione-e-pulizia-grondaie/' | relative_url }}) e [pannelli fotovoltaici]({{ '/servizi/pulizia-pannelli-fotovoltaici/' | relative_url }}).
+Nello stesso accesso possiamo occuparci anche di [vetrate]({{ '/servizi/pulizia-vetri/' | relative_url }}), [grondaie]({{ '/servizi/manutenzione-e-sostituzione-grondaie/' | relative_url }}) e [pannelli fotovoltaici]({{ '/servizi/pulizia-pannelli-fotovoltaici/' | relative_url }}).
 
 ## Per un preventivo veloce, mandaci su WhatsApp
 

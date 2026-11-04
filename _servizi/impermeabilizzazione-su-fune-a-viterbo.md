@@ -1,4 +1,7 @@
 ---
+permalink: /impermeabilizzazione-su-fune-a-viterbo/
+redirect_from:
+  - /servizi/impermeabilizzazione-su-fune-a-viterbo/
 layout: single
 in_home: false
 title: "Impermeabilizzazione su fune a Viterbo"

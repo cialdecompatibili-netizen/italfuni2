@@ -1,4 +1,7 @@
 ---
+permalink: /servizi/installazione-e-manutenzione-dissuasori-volatili/
+redirect_from:
+  - /servizi/installazione-e-manutenzione-dissuasori-per-piccioni/
 layout: single
 title: "Dissuasori per piccioni"
 description: "Installazione e manutenzione di sistemi anti-volatili su cornicioni, balconi e tetti."
@@ -61,7 +64,7 @@ Per proteggere solo cornicioni e davanzali, montare un ponteggio costa più dell
 
 ## Insieme ad altri lavori in quota
 
-Nello stesso accesso possiamo occuparci di [grondaie e pluviali]({{ '/servizi/riparazione-e-pulizia-grondaie/' | relative_url }}), [pannelli fotovoltaici]({{ '/servizi/pulizia-pannelli-fotovoltaici/' | relative_url }}) e [vetrate]({{ '/servizi/pulizia-vetri/' | relative_url }}).
+Nello stesso accesso possiamo occuparci di [grondaie e pluviali]({{ '/servizi/manutenzione-e-sostituzione-grondaie/' | relative_url }}), [pannelli fotovoltaici]({{ '/servizi/pulizia-pannelli-fotovoltaici/' | relative_url }}) e [vetrate]({{ '/servizi/pulizia-vetri/' | relative_url }}).
 
 ## Per un preventivo veloce, mandaci su WhatsApp
 

@@ -1,4 +1,7 @@
 ---
+permalink: /impermeabilizzazione-su-fune-a-frosinone/
+redirect_from:
+  - /servizi/impermeabilizzazione-su-fune-a-frosinone/
 layout: single
 in_home: false
 title: "Impermeabilizzazione su fune a Frosinone"

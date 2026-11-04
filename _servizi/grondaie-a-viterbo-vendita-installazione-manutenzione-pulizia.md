@@ -1,4 +1,7 @@
 ---
+permalink: /grondaie-a-viterbo-vendita-installazione-manutenzione-pulizia/
+redirect_from:
+  - /servizi/grondaie-a-viterbo-vendita-installazione-manutenzione-pulizia/
 layout: single
 in_home: false
 title: "Grondaie a Viterbo: vendita, installazione, manutenzione, pulizia"
@@ -59,4 +62,4 @@ Gli interventi potranno essere eseguiti in un qualunque periodo dell’anno, sal
 
 *Se desideri che ti forniamo un preventivo gratuito e senza impegno per il lavoro richiesto, puoi contattarci utilizzando i seguenti dettagli.*
 
-Per una panoramica completa leggi anche la pagina [pulizia, riparazione e sostituzione grondaie]({{ '/servizi/riparazione-e-pulizia-grondaie/' | relative_url }}).
+Per una panoramica completa leggi anche la pagina [pulizia, riparazione e sostituzione grondaie]({{ '/servizi/manutenzione-e-sostituzione-grondaie/' | relative_url }}).

@@ -1,4 +1,7 @@
 ---
+permalink: /potatura-alberi-roma/
+redirect_from:
+  - /servizi/potatura-alberi-roma/
 layout: single
 in_home: false
 title: "Potatura alberi Roma"

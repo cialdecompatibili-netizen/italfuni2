@@ -1,4 +1,7 @@
 ---
+permalink: /pulizia-pannelli-fotovoltaici-su-fune-a-latina/
+redirect_from:
+  - /servizi/pulizia-pannelli-fotovoltaici-su-fune-a-latina/
 layout: single
 in_home: false
 title: "Pulizia pannelli fotovoltaici su fune Latina: preventivi"
@@ -69,6 +72,6 @@ Per informazioni o avere un **preventivo con sopralluogo gratuiti** è semplicis
 
 Per velocizzare il tutto è possibile richiedere un preventivo gratuito anche tramite **WhatsApp** scattando delle foto ai vostri impianti da pulire.
 
-Non sei di Latina? Prova a leggere qui allora! Pulizia pannelli solari a [Roma]({{ '/servizi/pulizia-pannelli-fotovoltaici-su-fune-a-roma/' | relative_url }}) – [Frosinone]({{ '/servizi/pulizia-pannelli-fotovoltaici-su-fune-a-frosinone/' | relative_url }}) – [Rieti]({{ '/servizi/pulizia-pannelli-fotovoltaici-su-fune-a-rieti/' | relative_url }}) – [Viterbo]({{ '/servizi/pulizia-pannelli-fotovoltaici-a-viterbo/' | relative_url }}).
+Non sei di Latina? Prova a leggere qui allora! Pulizia pannelli solari a [Roma]({{ '/pulizia-pannelli-fotovoltaici-su-fune-a-roma/' | relative_url }}) – [Frosinone]({{ '/pulizia-pannelli-fotovoltaici-su-fune-a-frosinone/' | relative_url }}) – [Rieti]({{ '/pulizia-pannelli-fotovoltaici-su-fune-a-rieti/' | relative_url }}) – [Viterbo]({{ '/pulizia-pannelli-fotovoltaici-a-viterbo/' | relative_url }}).
 
 Per una panoramica completa leggi anche la pagina [pulizia pannelli fotovoltaici]({{ '/servizi/pulizia-pannelli-fotovoltaici/' | relative_url }}).

@@ -1,4 +1,7 @@
 ---
+permalink: /montaggio-isolanti-a-roma-con-italfuni/
+redirect_from:
+  - /servizi/montaggio-isolanti-a-roma-con-italfuni/
 layout: single
 in_home: false
 title: "Montaggio isolanti su fune a Roma"

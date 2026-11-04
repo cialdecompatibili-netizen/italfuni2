@@ -1,4 +1,7 @@
 ---
+permalink: /montaggio-isolanti-termici-su-fune-a-rieti/
+redirect_from:
+  - /servizi/montaggio-isolanti-termici-su-fune-a-rieti/
 layout: single
 in_home: false
 title: "Montaggio isolanti termici su fune a Rieti"

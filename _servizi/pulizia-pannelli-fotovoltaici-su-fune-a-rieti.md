@@ -1,4 +1,7 @@
 ---
+permalink: /pulizia-pannelli-fotovoltaici-su-fune-a-rieti/
+redirect_from:
+  - /servizi/pulizia-pannelli-fotovoltaici-su-fune-a-rieti/
 layout: single
 in_home: false
 title: "Pulizia pannelli fotovoltaici Rieti su fune"
@@ -79,6 +82,6 @@ La pulizia dei pannelli fotovoltaici viene eseguita come per qualsiasi altra sup
 
 Avere informazioni o **richiedere un preventivo con sopralluogo gratuito** è facilissimo. Basterà compilare il modulo “preventivo gratuito” qui in alto. Per velocizzare il tutto è possibile fare un preventivo gratuito anche tramite WhatsApp. scattando delle foto ai pannelli fotovoltaici da pulire ed inviandola i nostri esperti potranno aiutarti immediatamente.
 
-Se non sei di Rieti allora prova qui: pulizia pannelli fotovoltaici a [Roma]({{ '/servizi/pulizia-pannelli-fotovoltaici-su-fune-a-roma/' | relative_url }}) – [Latina]({{ '/servizi/pulizia-pannelli-fotovoltaici-su-fune-a-latina/' | relative_url }}) – [Frosinone]({{ '/servizi/pulizia-pannelli-fotovoltaici-su-fune-a-frosinone/' | relative_url }}) – [Viterbo]({{ '/servizi/pulizia-pannelli-fotovoltaici-a-viterbo/' | relative_url }}).
+Se non sei di Rieti allora prova qui: pulizia pannelli fotovoltaici a [Roma]({{ '/pulizia-pannelli-fotovoltaici-su-fune-a-roma/' | relative_url }}) – [Latina]({{ '/pulizia-pannelli-fotovoltaici-su-fune-a-latina/' | relative_url }}) – [Frosinone]({{ '/pulizia-pannelli-fotovoltaici-su-fune-a-frosinone/' | relative_url }}) – [Viterbo]({{ '/pulizia-pannelli-fotovoltaici-a-viterbo/' | relative_url }}).
 
 Per una panoramica completa leggi anche la pagina [pulizia pannelli fotovoltaici]({{ '/servizi/pulizia-pannelli-fotovoltaici/' | relative_url }}).

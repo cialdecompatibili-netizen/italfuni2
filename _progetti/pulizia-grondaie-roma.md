@@ -12,4 +12,4 @@ Tenere grondaie e pluviali puliti e liberi da detriti garantisce il corretto def
 
 Gli operatori **Italfuni** installano linee vita e punti di ancoraggio e sono operativi in **meno di un'ora**, lavorando con le corde. Così ripristiniamo la grondaia o rimuoviamo l'intasamento **a costi accessibili**, senza impalcature né ponteggi. Controlliamo anche giunti e staffe e, dove serve, sistemiamo o sostituiamo i tratti danneggiati.
 
-Vedi il servizio: [riparazione e pulizia grondaie]({{ '/servizi/riparazione-e-pulizia-grondaie/' | relative_url }}).
+Vedi il servizio: [riparazione e pulizia grondaie]({{ '/servizi/manutenzione-e-sostituzione-grondaie/' | relative_url }}).

@@ -73,7 +73,7 @@ La fune è la scelta migliore per **interventi mirati e punti difficili**. Per i
 
 ## Lavori collegati
 
-Nello stesso accesso possiamo occuparci di [grondaie e pluviali]({{ '/servizi/riparazione-e-pulizia-grondaie/' | relative_url }}), [balconi e facciate]({{ '/servizi/ristrutturazioni-balconi-e-facciate/' | relative_url }}) e [messa in sicurezza]({{ '/servizi/rimozione-materiale-pericolante/' | relative_url }}).
+Nello stesso accesso possiamo occuparci di [grondaie e pluviali]({{ '/servizi/manutenzione-e-sostituzione-grondaie/' | relative_url }}), [balconi e facciate]({{ '/servizi/ristrutturazioni-balconi-e-facciate/' | relative_url }}) e [messa in sicurezza]({{ '/servizi/rimozione-materiale-pericolante/' | relative_url }}).
 
 ## Per un preventivo veloce, mandaci su WhatsApp
 

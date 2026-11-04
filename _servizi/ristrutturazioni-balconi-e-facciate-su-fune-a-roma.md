@@ -1,4 +1,7 @@
 ---
+permalink: /ristrutturazioni-balconi-e-facciate-su-fune-a-roma/
+redirect_from:
+  - /servizi/ristrutturazioni-balconi-e-facciate-su-fune-a-roma/
 layout: single
 in_home: false
 title: "Ristrutturazioni balconi e facciate su fune a Roma"

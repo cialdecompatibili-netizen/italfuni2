@@ -1,4 +1,7 @@
 ---
+permalink: /montaggio-isolanti-termici-su-fune-a-latina/
+redirect_from:
+  - /servizi/montaggio-isolanti-termici-su-fune-a-latina/
 layout: single
 in_home: false
 title: "Montaggio isolanti termici su fune a Latina"

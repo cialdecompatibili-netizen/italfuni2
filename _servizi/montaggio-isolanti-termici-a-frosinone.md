@@ -1,4 +1,7 @@
 ---
+permalink: /montaggio-isolanti-termici-a-frosinone/
+redirect_from:
+  - /servizi/montaggio-isolanti-termici-a-frosinone/
 layout: single
 in_home: false
 title: "Montaggio isolanti termici a Frosinone"

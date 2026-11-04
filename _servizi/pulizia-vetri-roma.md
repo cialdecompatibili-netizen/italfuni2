@@ -1,4 +1,7 @@
 ---
+permalink: /pulizia-vetri-roma/
+redirect_from:
+  - /servizi/pulizia-vetri-roma/
 layout: single
 in_home: false
 title: "Pulizia vetri roma"
@@ -65,18 +68,18 @@ Quindi per la pulizia di vetrate di qualsiasi tipo e dimensione, **Italfuni** è
 
 I nostri professionisti possono operare in tanti altri ambiti. La peculiarità del lavoro su fune è proprio quella di arrivare dove gli altri non riescono.
 
-Hai ad esempio problemi con la tua **grondaia** e hai bisogno di **riparazioni o manutenzione**? Allora prova a leggere qui: [manutenzione, pulizia e sostituzione grondaia Roma e provincia]({{ '/servizi/pulizia-vetri-roma/' | relative_url }}).
+Hai ad esempio problemi con la tua **grondaia** e hai bisogno di **riparazioni o manutenzione**? Allora prova a leggere qui: [manutenzione, pulizia e sostituzione grondaia Roma e provincia]({{ '/pulizia-vetri-roma/' | relative_url }}).
 
-Se invece è il tuo tetto ad avere bisogno di un intervento ecco il servizio su misura per le tue esigenze: [riparazione tetti Roma]({{ '/servizi/pulizia-vetri-roma/' | relative_url }}).
+Se invece è il tuo tetto ad avere bisogno di un intervento ecco il servizio su misura per le tue esigenze: [riparazione tetti Roma]({{ '/pulizia-vetri-roma/' | relative_url }}).
 
 ### Non sei nella provincia di Roma allora prova qui
 
 La nostra azienda offre i suoi servizi su tutto il territorio della **regione Lazio**:
 
-- [pulizia vetri Viterbo]({{ '/servizi/pulizia-vetri-viterbo/' | relative_url }});
-- [pulizia vetri Rieti]({{ '/servizi/pulizia-vetri-rieti/' | relative_url }});
-- [pulizia vetri Frosinone]({{ '/servizi/pulizia-vetri-frosinone/' | relative_url }});
-- [pulizia vetri Latina]({{ '/servizi/pulizia-vetri-latina/' | relative_url }}).
+- [pulizia vetri Viterbo]({{ '/pulizia-vetri-viterbo/' | relative_url }});
+- [pulizia vetri Rieti]({{ '/pulizia-vetri-rieti/' | relative_url }});
+- [pulizia vetri Frosinone]({{ '/pulizia-vetri-frosinone/' | relative_url }});
+- [pulizia vetri Latina]({{ '/pulizia-vetri-latina/' | relative_url }}).
 
 Chiamaci per avere un **preventivo gratuito e senza impegno**. Ti sorprenderemo per la nostra professionalità e l’ottimo rapporto qualità-prezzo!
 

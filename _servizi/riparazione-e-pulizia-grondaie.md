@@ -1,4 +1,7 @@
 ---
+permalink: /servizi/manutenzione-e-sostituzione-grondaie/
+redirect_from:
+  - /servizi/riparazione-e-pulizia-grondaie/
 layout: single
 title: "Riparazione e pulizia grondaie"
 description: "Pulizia e riparazione di grondaie e pluviali dall'alto, senza ponteggi."

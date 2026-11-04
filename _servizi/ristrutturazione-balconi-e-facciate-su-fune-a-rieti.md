@@ -1,4 +1,7 @@
 ---
+permalink: /ristrutturazione-balconi-e-facciate-su-fune-a-rieti/
+redirect_from:
+  - /servizi/ristrutturazione-balconi-e-facciate-su-fune-a-rieti/
 layout: single
 in_home: false
 title: "Ristrutturazione balconi e facciate su fune a Rieti"

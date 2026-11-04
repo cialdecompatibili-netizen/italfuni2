@@ -54,7 +54,7 @@ Per **coperture da rifare per intero** o lavorazioni pesanti (sostituzione di gr
 
 ## Per saperne di più
 
-Leggi la pagina completa sull'[impermeabilizzazione su fune]({{ '/servizi/impermeabilizzazione-su-fune/' | relative_url }}) o scopri il servizio di [riparazione e pulizia grondaie]({{ '/servizi/riparazione-e-pulizia-grondaie/' | relative_url }}), spesso collegato alle infiltrazioni.
+Leggi la pagina completa sull'[impermeabilizzazione su fune]({{ '/servizi/impermeabilizzazione-su-fune/' | relative_url }}) o scopri il servizio di [riparazione e pulizia grondaie]({{ '/servizi/manutenzione-e-sostituzione-grondaie/' | relative_url }}), spesso collegato alle infiltrazioni.
 
 ## Per un preventivo veloce, mandaci su WhatsApp
 

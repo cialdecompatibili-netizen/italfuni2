@@ -1,4 +1,7 @@
 ---
+permalink: /pulizia-vetri-viterbo/
+redirect_from:
+  - /servizi/pulizia-vetri-viterbo/
 layout: single
 in_home: false
 title: "Pulizia vetri a Viterbo e provincia"
@@ -62,16 +65,16 @@ Eseguiamo lavori pubblici e privati, in subappalto per imprese di pulizia o dire
 
 I nostri professionisti possono operare in tanti altri ambiti. La peculiarità del lavoro su fune è proprio quella di arrivare dove gli altri non arrivano.
 
-Hai ad esempio problemi con la tua **grondaia** e hai bisogno di riparazioni o manutenzione? Allora prova a leggere qui: [manutenzione, pulizia e sostituzione grondaia Viterbo e provincia]({{ '/servizi/grondaie-a-viterbo-vendita-installazione-manutenzione-pulizia/' | relative_url }}).
+Hai ad esempio problemi con la tua **grondaia** e hai bisogno di riparazioni o manutenzione? Allora prova a leggere qui: [manutenzione, pulizia e sostituzione grondaia Viterbo e provincia]({{ '/grondaie-a-viterbo-vendita-installazione-manutenzione-pulizia/' | relative_url }}).
 
 Se invece è il tuo tetto ad avere bisogno di un intervento ecco il servizio su misura per le tue esigenze: riparazione tetti Viterbo.
 
 ## Non sei di Viterbo? allora prova qui
 
-- [pulizia vetri Roma]({{ '/servizi/pulizia-vetri-roma/' | relative_url }});
-- [pulizia vetri Latina]({{ '/servizi/pulizia-vetri-latina/' | relative_url }});
-- [pulizia vetri Rieti]({{ '/servizi/pulizia-vetri-rieti/' | relative_url }});
-- [pulizia vetri Frosinone]({{ '/servizi/pulizia-vetri-frosinone/' | relative_url }}).
+- [pulizia vetri Roma]({{ '/pulizia-vetri-roma/' | relative_url }});
+- [pulizia vetri Latina]({{ '/pulizia-vetri-latina/' | relative_url }});
+- [pulizia vetri Rieti]({{ '/pulizia-vetri-rieti/' | relative_url }});
+- [pulizia vetri Frosinone]({{ '/pulizia-vetri-frosinone/' | relative_url }}).
 
 Richiedi un **preventivo gratuito** per risparmiare sulla pulizia delle tue vetrate ad alta quota grazie ad **Italfuni**. Ti stupiremo per la nostra professionalità e per l’ottimo rapporto qualità-prezzo.
 

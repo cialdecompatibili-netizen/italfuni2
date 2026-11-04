@@ -1,4 +1,7 @@
 ---
+permalink: /tinteggiature-complete-a-roma/
+redirect_from:
+  - /servizi/tinteggiature-complete-a-roma/
 layout: single
 in_home: false
 title: "Tinteggiature complete a Roma"

@@ -1,4 +1,7 @@
 ---
+permalink: /tinteggiature-complete-su-fune-a-rieti/
+redirect_from:
+  - /servizi/tinteggiature-complete-su-fune-a-rieti/
 layout: single
 in_home: false
 title: "Tinteggiature complete su fune a Rieti"

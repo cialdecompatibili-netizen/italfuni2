@@ -1,4 +1,7 @@
 ---
+permalink: /rifacimento-tetti-rieti/
+redirect_from:
+  - /servizi/rifacimento-tetti-rieti/
 layout: single
 in_home: false
 title: "Riparazione tetti Rieti e provincia: preventivi"
@@ -34,9 +37,9 @@ I nostri professionisti **possono operare nelle situazioni più disparate**. Un 
 
 I nostri professionisti possono operare in tanti altri ambiti. La peculiarità del lavoro su fune è proprio quella di arrivare dove gli altri si fermano.
 
-Hai ad esempio problemi con la tua **grondaia**? Allora prova: [manutenzione, pulizia e sostituzione grondaia Rieti e provincia]({{ '/servizi/manutenzione-e-sostituzioni-pulizia-grondaie-roma/' | relative_url }}).
+Hai ad esempio problemi con la tua **grondaia**? Allora prova: [manutenzione, pulizia e sostituzione grondaia Rieti e provincia]({{ '/manutenzione-e-sostituzioni-pulizia-grondaie-roma/' | relative_url }}).
 
-Se invece hai **vetri** difficilmente raggiungibili o lucernari da pulire ecco l’articolo che fa al caso tuo: [pulizia vetri su fune Rieti]({{ '/servizi/pulizia-vetri-rieti/' | relative_url }}).
+Se invece hai **vetri** difficilmente raggiungibili o lucernari da pulire ecco l’articolo che fa al caso tuo: [pulizia vetri su fune Rieti]({{ '/pulizia-vetri-rieti/' | relative_url }}).
 
 ### Come lavoriamo
 

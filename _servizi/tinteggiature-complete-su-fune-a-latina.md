@@ -1,4 +1,7 @@
 ---
+permalink: /tinteggiature-complete-su-fune-a-latina/
+redirect_from:
+  - /servizi/tinteggiature-complete-su-fune-a-latina/
 layout: single
 in_home: false
 title: "Tinteggiature complete su fune a Latina"

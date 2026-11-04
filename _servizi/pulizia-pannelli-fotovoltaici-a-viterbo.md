@@ -1,4 +1,7 @@
 ---
+permalink: /pulizia-pannelli-fotovoltaici-a-viterbo/
+redirect_from:
+  - /servizi/pulizia-pannelli-fotovoltaici-a-viterbo/
 layout: single
 in_home: false
 title: "Pulizia pannelli fotovoltaici su fune a Viterbo"
@@ -69,6 +72,6 @@ Per **informazioni** o per richiedere un **preventivo con sopralluogo gratuiti**
 
 Utilizzando **WhatsApp** sarà ancora più facile e veloce. Scatta una foto ai tuoi pannelli e inviacele, ti risponderemo in maniera tempestiva.
 
-Se non sei di Viterbo o provincia prova a leggere qui. Pulizia pannelli solari a [Roma]({{ '/servizi/pulizia-pannelli-fotovoltaici-su-fune-a-roma/' | relative_url }}) – [Frosinone]({{ '/servizi/pulizia-pannelli-fotovoltaici-su-fune-a-frosinone/' | relative_url }}) – [Rieti]({{ '/servizi/pulizia-pannelli-fotovoltaici-su-fune-a-rieti/' | relative_url }}) – [Latina]({{ '/servizi/pulizia-pannelli-fotovoltaici-su-fune-a-latina/' | relative_url }}).
+Se non sei di Viterbo o provincia prova a leggere qui. Pulizia pannelli solari a [Roma]({{ '/pulizia-pannelli-fotovoltaici-su-fune-a-roma/' | relative_url }}) – [Frosinone]({{ '/pulizia-pannelli-fotovoltaici-su-fune-a-frosinone/' | relative_url }}) – [Rieti]({{ '/pulizia-pannelli-fotovoltaici-su-fune-a-rieti/' | relative_url }}) – [Latina]({{ '/pulizia-pannelli-fotovoltaici-su-fune-a-latina/' | relative_url }}).
 
 Per una panoramica completa leggi anche la pagina [pulizia pannelli fotovoltaici]({{ '/servizi/pulizia-pannelli-fotovoltaici/' | relative_url }}).

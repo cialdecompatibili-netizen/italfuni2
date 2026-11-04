@@ -1,4 +1,7 @@
 ---
+permalink: /rimozione-muffa-su-funi-preventivi-gratuiti/
+redirect_from:
+  - /servizi/rimozione-muffa-su-funi-preventivi-gratuiti/
 layout: single
 in_home: false
 title: "Rimozione muffa su funi: preventivi gratuiti"

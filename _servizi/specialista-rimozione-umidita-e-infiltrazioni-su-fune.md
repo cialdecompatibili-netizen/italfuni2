@@ -1,4 +1,7 @@
 ---
+permalink: /specialista-rimozione-umidita-e-infiltrazioni-su-fune/
+redirect_from:
+  - /servizi/specialista-rimozione-umidita-e-infiltrazioni-su-fune/
 layout: single
 in_home: false
 title: "Specialista rimozione umidità e infiltrazioni su fune"

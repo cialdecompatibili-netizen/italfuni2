@@ -1,4 +1,7 @@
 ---
+permalink: /ristrutturazioni-balconi-e-facciate-su-fune-a-viterbo/
+redirect_from:
+  - /servizi/ristrutturazioni-balconi-e-facciate-su-fune-a-viterbo/
 layout: single
 in_home: false
 title: "Ristrutturazioni balconi e facciate su fune a Viterbo"

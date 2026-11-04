@@ -1,4 +1,7 @@
 ---
+permalink: /impermeabilizzazione-su-fune-a-roma/
+redirect_from:
+  - /servizi/impermeabilizzazione-su-fune-a-roma/
 layout: single
 in_home: false
 title: "Impermeabilizzazione su fune a Roma"

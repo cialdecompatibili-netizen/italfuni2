@@ -1,4 +1,7 @@
 ---
+permalink: /messa-in-sicurezza-dei-lavoratori-latina/
+redirect_from:
+  - /servizi/messa-in-sicurezza-dei-lavoratori-latina/
 layout: single
 in_home: false
 title: "Messa in sicurezza dei lavoratori a Latina"

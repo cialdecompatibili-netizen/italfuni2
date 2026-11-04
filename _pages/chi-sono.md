@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /chi-siamo/
 layout: single
 title: "Chi sono"
 permalink: /chi-sono/

@@ -45,15 +45,15 @@ Senza impalcature e piattaforme aeree **non paghi il noleggio** né il personale
 
 ## Insieme ad altri lavori in quota
 
-Nello stesso accesso possiamo occuparci di [grondaie e pluviali]({{ '/servizi/riparazione-e-pulizia-grondaie/' | relative_url }}) e di [rimozione di materiale pericolante]({{ '/servizi/rimozione-materiale-pericolante/' | relative_url }}).
+Nello stesso accesso possiamo occuparci di [grondaie e pluviali]({{ '/servizi/manutenzione-e-sostituzione-grondaie/' | relative_url }}) e di [rimozione di materiale pericolante]({{ '/servizi/rimozione-materiale-pericolante/' | relative_url }}).
 
 ## Dove lavoriamo
 
-- [Ristrutturazione tetti a Roma]({{ '/servizi/ristrutturazione-e-manutenzione-tetti-roma/' | relative_url }})
-- [Ristrutturazione tetto a Viterbo]({{ '/servizi/ristrutturazione-e-manutenzione-tetto-viterbo/' | relative_url }})
-- [Ristrutturazione tetto a Latina]({{ '/servizi/ristrutturazione-e-manutenzione-tetto-latina/' | relative_url }})
-- [Ristrutturazione tetto a Frosinone]({{ '/servizi/rifacimento-e-manutenzione-tetto-a-frosinone/' | relative_url }})
-- [Rifacimento tetti a Rieti]({{ '/servizi/rifacimento-tetti-rieti/' | relative_url }})
+- [Ristrutturazione tetti a Roma]({{ '/ristrutturazione-e-manutenzione-tetti-roma/' | relative_url }})
+- [Ristrutturazione tetto a Viterbo]({{ '/ristrutturazione-e-manutenzione-tetto-viterbo/' | relative_url }})
+- [Ristrutturazione tetto a Latina]({{ '/ristrutturazione-e-manutenzione-tetto-latina/' | relative_url }})
+- [Ristrutturazione tetto a Frosinone]({{ '/rifacimento-e-manutenzione-tetto-a-frosinone/' | relative_url }})
+- [Rifacimento tetti a Rieti]({{ '/rifacimento-tetti-rieti/' | relative_url }})
 
 ## Per un preventivo veloce, mandaci su WhatsApp
 

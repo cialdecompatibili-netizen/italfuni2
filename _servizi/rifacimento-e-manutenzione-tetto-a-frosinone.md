@@ -1,4 +1,7 @@
 ---
+permalink: /rifacimento-e-manutenzione-tetto-a-frosinone/
+redirect_from:
+  - /servizi/rifacimento-e-manutenzione-tetto-a-frosinone/
 layout: single
 in_home: false
 title: "Rifacimento tetto Frosinone e provincia: preventivi"
@@ -43,9 +46,9 @@ Può capitare a causa di un temporale, che un albero possa perdere grossi rami o
 
 I nostri professionisti possono operare in tanti altri ambiti. La peculiarità del lavoro su fune è proprio quella di arrivare dove gli altri si fermano.
 
-Hai ad esempio bisogno di manutenzione per la **grondaia**? Allora leggi qui: [manutenzione, pulizia e sostituzione grondaia Frosinone e provincia]({{ '/servizi/pulizia-e-riparazione-grondaie-su-fune-a-frosinone/' | relative_url }}).
+Hai ad esempio bisogno di manutenzione per la **grondaia**? Allora leggi qui: [manutenzione, pulizia e sostituzione grondaia Frosinone e provincia]({{ '/pulizia-e-riparazione-grondaie-su-fune-a-frosinone/' | relative_url }}).
 
-Se invece hai **vetri** difficilmente raggiungibili o lucernari da pulire ecco il servizio che fa al caso tuo: [pulizia vetri su fune Frosinone]({{ '/servizi/pulizia-vetri-frosinone/' | relative_url }}).
+Se invece hai **vetri** difficilmente raggiungibili o lucernari da pulire ecco il servizio che fa al caso tuo: [pulizia vetri su fune Frosinone]({{ '/pulizia-vetri-frosinone/' | relative_url }}).
 
 ## Rifacimento tetto Frosinone: altre province
 

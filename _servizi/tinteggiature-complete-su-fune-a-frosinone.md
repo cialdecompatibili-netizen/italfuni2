@@ -1,4 +1,7 @@
 ---
+permalink: /tinteggiature-complete-su-fune-a-frosinone/
+redirect_from:
+  - /servizi/tinteggiature-complete-su-fune-a-frosinone/
 layout: single
 in_home: false
 title: "Tinteggiature complete su fune a Frosinone"
