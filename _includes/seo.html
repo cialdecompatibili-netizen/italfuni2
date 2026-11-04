@@ -24,9 +24,9 @@
 {% endif %}
 
 {% if seo_title %}
-  {% assign seo_brand = 'ItalFuni' %}{% if seo_title contains seo_brand %}{% assign seo_title_full = seo_title %}{% else %}{% assign seo_title_full = seo_title | append: ' - ' | append: seo_brand %}{% endif %}
+  {% assign seo_brand = 'Italfuni' %}{% if seo_title contains seo_brand %}{% assign seo_title_full = seo_title %}{% else %}{% assign seo_title_full = seo_title | append: ' - ' | append: seo_brand %}{% endif %}
 {% else %}
-  {% assign seo_title_full = 'ItalFuni' %}
+  {% assign seo_title_full = 'Italfuni' %}
 {% endif %}
 
 <!-- CMSPush SEO Plugin -->

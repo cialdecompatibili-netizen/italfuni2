@@ -7,7 +7,7 @@ in_home: false
 title: "Tinteggiature complete su fune a Rieti"
 citta: "Rieti"
 excerpt: "Tinteggiature complete di facciate a Rieti e provincia: lavori su fune senza ponteggi, con sopralluogo e preventivo gratuito."
-seo_title: "Tinteggiature complete su fune a Rieti - ItalFuni"
+seo_title: "Tinteggiature complete su fune a Rieti - Italfuni"
 seo_description: "Tinteggiature complete di facciate a Rieti e provincia con lavori su fune, senza ponteggi. Sopralluogo e preventivo gratuito con Italfuni."
 categories:
   - servizi

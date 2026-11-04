@@ -7,7 +7,7 @@ in_home: false
 title: "Rimozione muffa su funi: preventivi gratuiti"
 ordine: 20
 excerpt: "Rimozione muffa e umidità : lavori su fune senza ponteggi, con sopralluogo e preventivo gratuito."
-seo_title: "Rimozione muffa su funi: preventivi gratuiti - ItalFuni"
+seo_title: "Rimozione muffa su funi: preventivi gratuiti - Italfuni"
 seo_description: "Rimozione muffa e umidità con lavori su fune, senza ponteggi. Sopralluogo e preventivo gratuito con Italfuni."
 categories:
   - servizi

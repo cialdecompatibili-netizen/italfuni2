@@ -7,7 +7,7 @@ in_home: false
 title: "Tinteggiature complete su fune a Frosinone"
 citta: "Frosinone"
 excerpt: "Tinteggiature complete di facciate a Frosinone e provincia: lavori su fune senza ponteggi, con sopralluogo e preventivo gratuito."
-seo_title: "Tinteggiature complete su fune a Frosinone - ItalFuni"
+seo_title: "Tinteggiature complete su fune a Frosinone - Italfuni"
 seo_description: "Tinteggiature complete di facciate a Frosinone e provincia con lavori su fune, senza ponteggi. Sopralluogo e preventivo gratuito con Italfuni."
 categories:
   - servizi

@@ -7,7 +7,7 @@ in_home: false
 title: "Impermeabilizzazione su fune a Viterbo"
 citta: "Viterbo"
 excerpt: "Impermeabilizzazione di terrazzi, balconi e tetti a Viterbo e provincia: lavori su fune senza ponteggi, con sopralluogo e preventivo gratuito."
-seo_title: "Impermeabilizzazione su fune a Viterbo - ItalFuni"
+seo_title: "Impermeabilizzazione su fune a Viterbo - Italfuni"
 seo_description: "Impermeabilizzazione di terrazzi, balconi e tetti a Viterbo e provincia con lavori su fune, senza ponteggi. Sopralluogo e preventivo gratuito con Italfuni."
 categories:
   - servizi

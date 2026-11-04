@@ -7,7 +7,7 @@ in_home: false
 title: "Impermeabilizzazione su fune a Frosinone"
 citta: "Frosinone"
 excerpt: "Impermeabilizzazione di terrazzi, balconi e tetti a Frosinone e provincia: lavori su fune senza ponteggi, con sopralluogo e preventivo gratuito."
-seo_title: "Impermeabilizzazione su fune a Frosinone - ItalFuni"
+seo_title: "Impermeabilizzazione su fune a Frosinone - Italfuni"
 seo_description: "Impermeabilizzazione di terrazzi, balconi e tetti a Frosinone e provincia con lavori su fune, senza ponteggi. Sopralluogo e preventivo gratuito con Italfuni."
 categories:
   - servizi
