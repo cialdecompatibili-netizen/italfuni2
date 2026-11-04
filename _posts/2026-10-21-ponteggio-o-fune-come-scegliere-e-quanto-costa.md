@@ -1,6 +1,6 @@
 ---
 layout: single
-author_profile: false
+author_profile: true
 title: "Ponteggio o fune? Come scegliere, cosa chiedere nel preventivo e quanto costa davvero"
 date: 2026-10-21
 excerpt: "Ponteggio, fune o piattaforma: quando conviene ciascuno, i costi che nessuno ti elenca, cosa dice la legge e le 6 domande per decidere in cinque minuti."
