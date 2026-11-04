@@ -12,7 +12,19 @@
   {%- if tm == "team" -%}{%- assign pool = land | where: "team", true -%}
   {%- else -%}{%- assign pool = land | where_exp: "x", "x.t contains tm" | where: "team", false -%}{%- endif -%}
   {%- if pool.size == 0 -%}{%- assign pool = land | where_exp: "x", "x.t contains tm" -%}{%- endif -%}
-  {%- if pool.size > 0 -%}{%- assign cv = pool[0].f -%}{%- endif -%}
+  {%- comment -%} Varieta': ogni pagina con lo stesso tema prende la foto successiva del pool (posizione tra le pagine dello stesso tema) {%- endcomment -%}
+  {%- assign pos = 0 -%}{%- assign found = false -%}
+  {%- if page.collection and site[page.collection] -%}
+    {%- assign sib = site[page.collection] | sort: "slug" -%}
+    {%- for d in sib -%}
+      {%- if found == false -%}
+        {%- assign dt = site.data.foto_temi[d.slug] | split: "," | first | default: "team" -%}
+        {%- if d.slug == page.slug -%}{%- assign found = true -%}
+        {%- elsif dt == tm -%}{%- assign pos = pos | plus: 1 -%}{%- endif -%}
+      {%- endif -%}
+    {%- endfor -%}
+  {%- endif -%}
+  {%- if pool.size > 0 -%}{%- assign ix = pos | modulo: pool.size -%}{%- assign cv = pool[ix].f -%}{%- endif -%}
 {%- endif -%}
 {%- if cv and cv != "" -%}
   {%- assign cvd = site.data.foto | where: "f", cv | first -%}
