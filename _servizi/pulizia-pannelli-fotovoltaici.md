@@ -2,7 +2,7 @@
 layout: single
 title: "Pulizia pannelli fotovoltaici"
 description: "Pulizia dei pannelli su fune per mantenere alta la resa dell'impianto."
-seo_description: "Polvere, guano e residui riducono la resa: puliamo i pannelli fotovoltaici su fune, anche su tetti inclinati o difficili. Sopralluogo gratuito su WhatsApp."
+seo_description: "Pulizia pannelli fotovoltaici su fune, anche su tetti inclinati o difficili: polvere, guano e residui riducono la resa dell'impianto. Sopralluogo gratuito su WhatsApp."
 ordine: 10
 in_home: true
 foto: "pulizia-pannelli-solari-su-fune"
