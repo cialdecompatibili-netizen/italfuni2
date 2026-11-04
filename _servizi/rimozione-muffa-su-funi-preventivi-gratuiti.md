@@ -3,7 +3,7 @@ permalink: /rimozione-muffa-su-funi-preventivi-gratuiti/
 redirect_from:
   - /servizi/rimozione-muffa-su-funi-preventivi-gratuiti/
 layout: single
-in_home: false
+in_home: true
 title: "Rimozione muffa su fune: preventivi gratuiti"
 ordine: 20
 excerpt: "Rimozione muffa e umidità : lavori su fune senza ponteggi, con sopralluogo e preventivo gratuito."

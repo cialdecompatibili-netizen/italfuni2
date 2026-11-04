@@ -4,7 +4,7 @@ title: "Ricerca e riparazione infiltrazioni dal tetto"
 description: "Troviamo da dove entra l'acqua e ripariamo il punto giusto, senza rifare più del necessario."
 seo_description: "Infiltrazioni dal tetto? Cerchiamo da dove entra l'acqua e ripariamo su fune, senza ponteggio e senza rifare più del necessario. Sopralluogo gratuito."
 ordine: 26
-in_home: false
+in_home: true
 foto: "impermeabilizzazione-terrazzo-su-fune-3"
 categories:
   - servizi

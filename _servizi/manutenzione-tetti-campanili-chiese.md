@@ -4,7 +4,7 @@ title: "Manutenzione di tetti e campanili di chiese ed enti"
 description: "Ispezione, pulizia e piccole riparazioni su tetti, campanili e cornicioni di chiese ed edifici storici."
 seo_description: "Manutenzione di tetti e campanili di chiese ed edifici storici su fune, senza ponteggio: ispezione, pulizia e riparazioni. Sopralluogo gratuito su WhatsApp."
 ordine: 27
-in_home: false
+in_home: true
 foto: "drone-tetto-chiesa-campanili-manutenzione"
 categories:
   - servizi

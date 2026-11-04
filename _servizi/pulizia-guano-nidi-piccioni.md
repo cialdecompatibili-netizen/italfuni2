@@ -4,7 +4,7 @@ title: "Pulizia guano e nidi di piccioni"
 description: "Bonifica di guano e nidi su cornicioni, balconi e tetti, con dissuasori a seguire."
 seo_description: "Pulizia guano e nidi di piccioni su fune, senza ponteggio: bonifichiamo cornicioni, balconi e tetti e installiamo i dissuasori. Sopralluogo gratuito su WhatsApp."
 ordine: 23
-in_home: false
+in_home: true
 foto: "operai-su-fune-cornicione-grondaia"
 categories:
   - servizi

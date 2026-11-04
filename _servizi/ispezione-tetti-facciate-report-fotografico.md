@@ -4,7 +4,7 @@ title: "Ispezione tetti e facciate con report fotografico"
 description: "Controllo dello stato di tetto e facciata su fune, con foto e relazione sintetica."
 seo_description: "Ispezione di tetti e facciate su fune con report fotografico: scopri lo stato reale dell'edificio prima di spendere. Senza ponteggio. Sopralluogo gratuito."
 ordine: 21
-in_home: false
+in_home: true
 foto: "ispezione-tetto-coppi-chiesa-su-fune-andrew-arancione"
 categories:
   - servizi

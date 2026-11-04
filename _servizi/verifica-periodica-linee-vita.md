@@ -4,7 +4,7 @@ title: "Verifica periodica delle linee vita"
 description: "Controllo di ancoraggi e linee vita già installate, con report finale."
 seo_description: "Verifica periodica delle linee vita su fune: controlliamo ancoraggi, cavi e fissaggi sul tetto, senza ponteggio, e lasciamo un report. Scrivici su WhatsApp."
 ordine: 22
-in_home: false
+in_home: true
 foto: "ispezione-tetto-coppi-chiesa-su-fune-andrew-arancione"
 categories:
   - servizi

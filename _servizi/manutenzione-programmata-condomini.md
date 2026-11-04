@@ -4,7 +4,7 @@ title: "Manutenzione programmata per condomini"
 description: "Controlli e pulizie periodiche su fune per tenere sotto controllo tetto, grondaie e facciate."
 seo_description: "Manutenzione programmata su fune per condomini: grondaie, tetti, vetri e pannelli controllati a scadenze fisse, senza ponteggio. Preventivo gratuito."
 ordine: 20
-in_home: false
+in_home: true
 foto: "pulizia-gronda-su-fune-scala"
 categories:
   - servizi
