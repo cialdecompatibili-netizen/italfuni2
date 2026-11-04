@@ -201,6 +201,11 @@ body { font-size: calc(1rem * var(--t-font-scale)); }
 .article-auto-toc ol ol{margin:.05rem 0 .3rem .9rem;padding-left:.7rem}
 .article-auto-toc ol ol a{font-weight:400}
 @media (max-width:576px){.article-auto-toc{padding:1.2rem 1rem .9rem}}
+/* FOTO DI COPERTINA servizi/progetti (include copertina.html): larga come il testo, ritaglio 16:9 desktop / 4:3 mobile.
+   object-position tiene in alto la parte con le persone; cambia solo qui altezza e ritaglio. */
+.ex-cover{margin:0 0 1.5rem;padding:0;width:100%}
+.ex-cover img{display:block;width:100%;height:auto;aspect-ratio:16/9;max-height:460px;object-fit:cover;object-position:50% 35%;border-radius:10px}
+@media (max-width:576px){.ex-cover img{aspect-ratio:4/3;max-height:none}}
 </style>
 
 {% if site.integrations.ga4.enabled and site.integrations.ga4.id != "" %}

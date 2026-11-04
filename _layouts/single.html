@@ -40,6 +40,8 @@ layout: default
         </header>
       {% endunless %}
 
+      {%- comment -%} Foto di copertina (scelta da admin > Foto principale), vedi _includes/copertina.html {%- endcomment -%}
+      {% if page.collection == "servizi" or page.collection == "progetti" %}{% include copertina.html %}{% endif %}
       <section class="page__content e-content" itemprop="text">
         {%- comment -%} Indice sidebar disattivato 17/09/2026 — sostituito dall'indice inline stile Wikipedia via JS (solo H2, soglia >=3), vedi _includes/head/custom.html {%- endcomment -%}
         {%- assign show_toc = false -%}

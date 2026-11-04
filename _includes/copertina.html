@@ -1,0 +1,22 @@
+{%- comment -%}
+  FOTO DI COPERTINA delle pagine servizio/progetto (stile WordPress "immagine in evidenza").
+  - La scelta si fa dall'admin: campo "Foto principale" -> salva `foto: "slug-foto"` nel front matter.
+  - Se non e' scelta nessuna foto, ne prende una in automatico dal tema della pagina (_data/foto_temi.yml),
+    stessa logica di _includes/ex-lista.html, cosi' ogni pagina ha sempre la copertina.
+  - Look: vedi .ex-cover in _includes/head/custom.html. Incluso da _layouts/single.html.
+{%- endcomment -%}
+{%- assign cv = page.foto -%}
+{%- if cv == nil or cv == "" -%}
+  {%- assign tm = site.data.foto_temi[page.slug] | split: "," | first | default: "team" -%}
+  {%- assign land = site.data.foto | where_exp: "x", "x.w >= x.h" -%}
+  {%- if tm == "team" -%}{%- assign pool = land | where: "team", true -%}
+  {%- else -%}{%- assign pool = land | where_exp: "x", "x.t contains tm" | where: "team", false -%}{%- endif -%}
+  {%- if pool.size == 0 -%}{%- assign pool = land | where_exp: "x", "x.t contains tm" -%}{%- endif -%}
+  {%- if pool.size > 0 -%}{%- assign cv = pool[0].f -%}{%- endif -%}
+{%- endif -%}
+{%- if cv and cv != "" -%}
+  {%- assign cvd = site.data.foto | where: "f", cv | first -%}
+  <figure class="ex-cover">
+    <img src="{{ '/assets/foto/' | append: cv | append: '.jpg' | relative_url }}" alt="{{ page.title | escape }}" width="{{ cvd.w | default: 1400 }}" height="{{ cvd.h | default: 600 }}" fetchpriority="high" decoding="async">
+  </figure>
+{%- endif -%}
