@@ -57,7 +57,7 @@ Per **singoli balconi, cornicioni e porzioni di facciata** la fune è spesso la 
 
 ## Lavori collegati
 
-Possiamo abbinare [impermeabilizzazioni]({{ '/servizi/impermeabilizzazione-su-fune/' | relative_url }}), [messa in sicurezza]({{ '/servizi/rimozione-materiale-pericolante/' | relative_url }}), [isolamento]({{ '/servizi/montaggio-isolanti/' | relative_url }}) e [tinteggiature]({{ '/servizi/edilizia-su-fune-tutti-i-servizi-senza-ponteggi-per-casa-e-condominio/' | relative_url }}).
+Possiamo abbinare [impermeabilizzazioni]({{ '/servizi/impermeabilizzazione-su-fune/' | relative_url }}), [messa in sicurezza]({{ '/servizi/messa-in-sicurezza/' | relative_url }}), [isolamento]({{ '/servizi/montaggio-isolanti/' | relative_url }}) e [tinteggiature]({{ '/servizi/edilizia-su-fune-tutti-i-servizi-senza-ponteggi-per-casa-e-condominio/' | relative_url }}).
 
 ## Per un preventivo veloce, mandaci su WhatsApp
 

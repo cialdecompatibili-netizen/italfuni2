@@ -40,7 +40,7 @@ Niente ingombro sul marciapiede, niente teli davanti alle finestre, niente balco
 - [Canne fumarie]({{ '/servizi/manutenzione-e-installazione-canne-fumarie/' | relative_url }}): verifica, pulizia e installazione in quota.
 - [Dissuasori per piccioni]({{ '/servizi/installazione-e-manutenzione-dissuasori-volatili/' | relative_url }}): sistemi anti-volatili su cornicioni, balconi e coperture.
 - [Linee vita e ancoraggi]({{ '/servizi/montaggio-sistemi-di-sicurezza-su-fune/' | relative_url }}): per lavorare in sicurezza sui tetti in futuro.
-- [Messa in sicurezza]({{ '/servizi/rimozione-materiale-pericolante/' | relative_url }}): rimozione di intonaci e cornicioni a rischio caduta.
+- [Messa in sicurezza]({{ '/servizi/messa-in-sicurezza/' | relative_url }}): rimozione di intonaci e cornicioni a rischio caduta.
 
 ### Pulizia e cura del verde
 

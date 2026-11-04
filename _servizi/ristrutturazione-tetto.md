@@ -45,7 +45,7 @@ Senza impalcature e piattaforme aeree **non paghi il noleggio** né il personale
 
 ## Insieme ad altri lavori in quota
 
-Nello stesso accesso possiamo occuparci di [grondaie e pluviali]({{ '/servizi/manutenzione-e-sostituzione-grondaie/' | relative_url }}) e di [rimozione di materiale pericolante]({{ '/servizi/rimozione-materiale-pericolante/' | relative_url }}).
+Nello stesso accesso possiamo occuparci di [grondaie e pluviali]({{ '/servizi/manutenzione-e-sostituzione-grondaie/' | relative_url }}) e di [rimozione di materiale pericolante]({{ '/servizi/messa-in-sicurezza/' | relative_url }}).
 
 ## Dove lavoriamo
 

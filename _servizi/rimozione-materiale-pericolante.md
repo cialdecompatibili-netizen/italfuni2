@@ -1,4 +1,7 @@
 ---
+permalink: /servizi/messa-in-sicurezza/
+redirect_from:
+  - /servizi/rimozione-materiale-pericolante/
 layout: single
 title: "Messa in sicurezza"
 description: "Rimozione urgente di intonaco, cornicioni e materiale pericolante su fune."

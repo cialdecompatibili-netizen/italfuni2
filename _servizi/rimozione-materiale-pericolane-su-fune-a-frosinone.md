@@ -50,4 +50,4 @@ La nostra azienda offre **supporto professionale** durante le varie fasi, dallo 
 
 *Chiamaci senza impegno per un preventivo!*
 
-Per una panoramica completa leggi anche la pagina [rimozione materiale pericolante]({{ '/servizi/rimozione-materiale-pericolante/' | relative_url }}).
+Per una panoramica completa leggi anche la pagina [rimozione materiale pericolante]({{ '/servizi/messa-in-sicurezza/' | relative_url }}).

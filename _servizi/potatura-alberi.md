@@ -55,7 +55,7 @@ Alcuni alberi sono **tutelati** o richiedono permessi. Se la pianta è in area p
 
 ## Lavori collegati
 
-Se i rami arrivano sul tetto possiamo pulire [grondaie e pluviali]({{ '/servizi/manutenzione-e-sostituzione-grondaie/' | relative_url }}) e rimuovere [materiale pericolante]({{ '/servizi/rimozione-materiale-pericolante/' | relative_url }}) nello stesso accesso.
+Se i rami arrivano sul tetto possiamo pulire [grondaie e pluviali]({{ '/servizi/manutenzione-e-sostituzione-grondaie/' | relative_url }}) e rimuovere [materiale pericolante]({{ '/servizi/messa-in-sicurezza/' | relative_url }}) nello stesso accesso.
 
 ## Per un preventivo veloce, mandaci su WhatsApp
 

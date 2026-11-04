@@ -92,7 +92,7 @@ Sono i casi in cui, nella pratica, il vantaggio è più chiaro:
 - [pulizia e riparazione di grondaie e pluviali]({{ '/servizi/manutenzione-e-sostituzione-grondaie/' | relative_url }}), dove montare un ponteggio per mezza giornata di lavoro sarebbe assurdo
 - [infiltrazioni da cornicioni, terrazzi e balconi]({{ '/servizi/impermeabilizzazione-su-fune/' | relative_url }}), che vanno fermate subito
 - [tinteggiature e ripristini di facciata]({{ '/servizi/tinteggiature-complete-su-fune/' | relative_url }}) su edifici dove il ponteggio sarebbe invasivo
-- [messa in sicurezza di intonaci e parti pericolanti]({{ '/servizi/rimozione-materiale-pericolante/' | relative_url }}), perché si interviene in poche ore
+- [messa in sicurezza di intonaci e parti pericolanti]({{ '/servizi/messa-in-sicurezza/' | relative_url }}), perché si interviene in poche ore
 - [linee vita e sistemi di sicurezza]({{ '/servizi/montaggio-sistemi-di-sicurezza-su-fune/' | relative_url }}), pulizia di vetri e fotovoltaico, dissuasori per piccioni
 
 Per i tetti ti consiglio di leggere anche [quando serve davvero impermeabilizzare e con quale sistema]({{ '/servizi/impermeabilizzazione-tetti-su-fune-quando-serve/' | relative_url }}): è un caso in cui a volte ha senso il ponteggio.

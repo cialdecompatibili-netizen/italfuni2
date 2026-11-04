@@ -51,7 +51,7 @@ Insegne, cornicioni, balconi, fregi e altri elementi in alto si sporcano, ma rag
 
 ## Pulizia e controllo insieme
 
-Mentre puliamo vediamo da vicino lo stato di cornicioni e fregi. Se troviamo parti instabili ti avvisiamo, e se serve possiamo intervenire con la [messa in sicurezza]({{ '/servizi/rimozione-materiale-pericolante/' | relative_url }}).
+Mentre puliamo vediamo da vicino lo stato di cornicioni e fregi. Se troviamo parti instabili ti avvisiamo, e se serve possiamo intervenire con la [messa in sicurezza]({{ '/servizi/messa-in-sicurezza/' | relative_url }}).
 
 ## Lavori collegati
 
