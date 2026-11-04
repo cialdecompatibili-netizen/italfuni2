@@ -6,7 +6,7 @@ layout: single
 in_home: false
 title: "Manutenzione coperture capannoni su fune a Latina"
 citta: "Latina"
-foto: "pulizia-tetto-balcone-su-fune-andrew-arancione"
+foto: "impermeabilizzazione-terrazzo-guaina-ghiaia"
 excerpt: "Hai un capannone o un'azienda a Latina con la copertura da controllare? La manutenzione su fune di canali, lucernari e infiltrazioni si fa senza ponteggio e con il minimo disagio."
 seo_description: "Manutenzione coperture di capannoni e aziende a Latina e provincia, lavori su fune senza ponteggio. Sopralluogo e preventivo gratuito con Italfuni."
 categories:

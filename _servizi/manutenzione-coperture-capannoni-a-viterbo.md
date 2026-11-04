@@ -6,7 +6,7 @@ layout: single
 in_home: false
 title: "Manutenzione coperture capannoni su fune a Viterbo"
 citta: "Viterbo"
-foto: "riparazione-tetti-su-fune"
+foto: "rifacimento-tetto-guaina-tegole-panorama"
 excerpt: "Hai un capannone o un'azienda a Viterbo con la copertura da controllare? La manutenzione su fune di canali, lucernari e infiltrazioni si fa senza ponteggio e con il minimo disagio."
 seo_description: "Manutenzione coperture di capannoni e aziende a Viterbo e provincia, lavori su fune senza ponteggio. Sopralluogo e preventivo gratuito con Italfuni."
 categories:

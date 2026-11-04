@@ -6,7 +6,7 @@ layout: single
 in_home: false
 title: "Manutenzione coperture capannoni su fune a Roma"
 citta: "Roma"
-foto: "rifacimento-tetto-guaina-tegole-panorama"
+foto: "tetto-lamiera-ondulata-capannone"
 excerpt: "Hai un capannone o un'azienda a Roma con la copertura da controllare? La manutenzione su fune di canali, lucernari e infiltrazioni si fa senza ponteggio e con il minimo disagio."
 seo_description: "Manutenzione coperture di capannoni e aziende a Roma e provincia, lavori su fune senza ponteggio. Sopralluogo e preventivo gratuito con Italfuni."
 categories:

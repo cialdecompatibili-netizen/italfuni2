@@ -6,7 +6,7 @@ layout: single
 in_home: false
 title: "Lattoneria, ringhiere e ferri su fune a Frosinone"
 citta: "Frosinone"
-foto: "operai-balconi-su-fune"
+foto: "lavori-su-fune-sotto-balcone-andrew-arancione"
 excerpt: "Grondaie, ringhiere o parapetti rovinati a Frosinone? Facciamo lattoneria e trattamento dei ferri su fune, senza ponteggio, nella stessa uscita."
 seo_description: "Lattoneria, ringhiere e trattamento ferri a Frosinone e provincia, lavori su fune senza ponteggio. Sopralluogo e preventivo gratuito con Italfuni."
 categories:

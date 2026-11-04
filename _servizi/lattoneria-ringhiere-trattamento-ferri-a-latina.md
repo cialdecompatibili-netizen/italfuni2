@@ -6,7 +6,7 @@ layout: single
 in_home: false
 title: "Lattoneria, ringhiere e ferri su fune a Latina"
 citta: "Latina"
-foto: "lavori-su-fune-sotto-balcone-andrew-arancione"
+foto: "grondaie-su-fune-italfuni"
 excerpt: "Grondaie, ringhiere o parapetti rovinati a Latina? Facciamo lattoneria e trattamento dei ferri su fune, senza ponteggio, nella stessa uscita."
 seo_description: "Lattoneria, ringhiere e trattamento ferri a Latina e provincia, lavori su fune senza ponteggio. Sopralluogo e preventivo gratuito con Italfuni."
 categories:

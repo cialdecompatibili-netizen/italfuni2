@@ -5,7 +5,7 @@ description: "Controllo e manutenzione di canali, lucernari e coperture di capan
 seo_description: "Manutenzione di coperture di capannoni e aziende su fune: canali, lucernari e infiltrazioni, senza ponteggio. Sopralluogo gratuito su WhatsApp."
 ordine: 24
 in_home: true
-foto: "rifacimento-tetto-guaina-tegole-panorama"
+foto: "tetto-lamiera-ondulata-capannone"
 categories:
   - servizi
 faq:

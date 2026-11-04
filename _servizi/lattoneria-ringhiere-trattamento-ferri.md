@@ -5,7 +5,7 @@ description: "Riparazione di grondaie e scossaline, trattamento di ferri e ringh
 seo_description: "Lattoneria, ringhiere e trattamento ferri su fune, senza ponteggio: grondaie, scossaline e parapetti sistemati e protetti dalla ruggine. Sopralluogo gratuito."
 ordine: 28
 in_home: true
-foto: "pulizia-gronda-su-fune-scala"
+foto: "ringhiera-ferro-battuto-scala"
 categories:
   - servizi
 faq:

@@ -6,7 +6,7 @@ layout: single
 in_home: false
 title: "Manutenzione coperture capannoni su fune a Frosinone"
 citta: "Frosinone"
-foto: "rifacimento-tetto-guaina-tegole-panorama"
+foto: "pulizia-tetto-balcone-su-fune-andrew-arancione"
 excerpt: "Hai un capannone o un'azienda a Frosinone con la copertura da controllare? La manutenzione su fune di canali, lucernari e infiltrazioni si fa senza ponteggio e con il minimo disagio."
 seo_description: "Manutenzione coperture di capannoni e aziende a Frosinone e provincia, lavori su fune senza ponteggio. Sopralluogo e preventivo gratuito con Italfuni."
 categories:

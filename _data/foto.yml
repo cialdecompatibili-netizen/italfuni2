@@ -355,3 +355,15 @@
   team: false
   w: 705
   h: 296
+- f: "ringhiera-ferro-battuto-scala"
+  cap: "Ringhiera in ferro battuto di una scala"
+  t: [facciate]
+  team: false
+  w: 1024
+  h: 683
+- f: "tetto-lamiera-ondulata-capannone"
+  cap: "Copertura in lamiera ondulata di un capannone"
+  t: [tetti]
+  team: false
+  w: 960
+  h: 640

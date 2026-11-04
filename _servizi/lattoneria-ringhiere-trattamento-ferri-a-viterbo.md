@@ -6,7 +6,7 @@ layout: single
 in_home: false
 title: "Lattoneria, ringhiere e ferri su fune a Viterbo"
 citta: "Viterbo"
-foto: "tinteggiatura-facciata-gronda-su-fune"
+foto: "pulizia-gronda-su-fune-scala"
 excerpt: "Grondaie, ringhiere o parapetti rovinati a Viterbo? Facciamo lattoneria e trattamento dei ferri su fune, senza ponteggio, nella stessa uscita."
 seo_description: "Lattoneria, ringhiere e trattamento ferri a Viterbo e provincia, lavori su fune senza ponteggio. Sopralluogo e preventivo gratuito con Italfuni."
 categories:
