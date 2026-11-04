@@ -19,7 +19,7 @@
   h: 687
 - f: "operai-su-fune-cornicione-palazzo"
   cap: "Operai su fune cornicione palazzo"
-  t: [facciate]
+  t: [facciate, dissuasori]
   team: false
   w: 1060
   h: 751
@@ -31,13 +31,13 @@
   h: 713
 - f: "ispezione-tetto-coppi-chiesa-su-fune-andrew-arancione"
   cap: "Ispezione tetto coppi chiesa su fune"
-  t: [tetti, team]
+  t: [tetti, team, dissuasori]
   team: true
   w: 1400
   h: 788
 - f: "drone-tetto-chiesa-campanili-manutenzione"
   cap: "Drone tetto chiesa campanili manutenzione"
-  t: [tetti]
+  t: [tetti, dissuasori]
   team: false
   w: 1400
   h: 788
@@ -285,13 +285,13 @@
   h: 640
 - f: "pannelli-fotovoltaici-su-fune"
   cap: "Pulizia pannelli fotovoltaici su fune"
-  t: [tetti]
+  t: [tetti, pannelli]
   team: false
   w: 300
   h: 300
 - f: "pulizia-pannelli-solari-su-fune"
   cap: "Pulizia pannelli solari su fune"
-  t: [tetti]
+  t: [tetti, pannelli]
   team: false
   w: 660
   h: 400
@@ -327,7 +327,7 @@
   h: 601
 - f: "operai-su-fune-cornicione-grondaia"
   cap: "Operai su fune su cornicione e grondaia"
-  t: [facciate, grondaie]
+  t: [facciate, grondaie, dissuasori]
   team: false
   w: 1030
   h: 730

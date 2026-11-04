@@ -9,6 +9,7 @@ seo_title: "Dissuasori per piccioni: installazione su fune, senza ponteggio"
 seo_description: "Piccioni su cornicioni, balconi e tetti? Installiamo dissuasori e reti anti-volatili su fune, senza ponteggio, anche in condominio. Sopralluogo gratuito su WhatsApp."
 ordine: 5
 in_home: true
+foto: "operai-su-fune-cornicione-grondaia"
 categories:
   - servizi
 faq:

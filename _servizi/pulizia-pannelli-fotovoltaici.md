@@ -6,6 +6,7 @@ seo_title: "Pulizia pannelli fotovoltaici su fune, anche su tetti inclinati"
 seo_description: "Polvere, guano e residui riducono la resa dei pannelli. Li puliamo su fune, anche su coperture inclinate o difficili. Sopralluogo gratuito. Scrivici su WhatsApp."
 ordine: 10
 in_home: true
+foto: "pulizia-pannelli-solari-su-fune"
 categories:
   - servizi
 faq:
