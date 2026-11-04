@@ -88,13 +88,19 @@
             {%- if kids.size > 8 -%}{%- assign wide = true -%}{%- endif -%}
             {%- capture dd_html -%}
               {%- if kids -%}
+                {%- assign nv_open = false -%}
                 {%- for k in kids -%}
-                  {%- if k.divider -%}
+                  {%- if k.heading -%}
+                    {%- if nv_open -%}</div>{%- endif -%}
+                    <div class="nv__col"><div class="nv__head">{{ k.heading }}</div>
+                    {%- assign nv_open = true -%}
+                  {%- elsif k.divider -%}
                     <div class="nv__divider" role="separator"></div>
                   {%- elsif k.title and k.url -%}
                     <a class="nv__dd-item" href="{% if k.url contains '://' %}{{ k.url }}{% else %}{{ k.url | relative_url }}{% endif %}">{{ k.title }}</a>
                   {%- endif -%}
                 {%- endfor -%}
+                {%- if nv_open -%}</div>{%- endif -%}
               {%- elsif item.title == 'Shop' -%}
                 {%- for c in site.data.shop_nav.categories -%}
                   {%- if c.title and c.url -%}<a class="nv__dd-item" href="{{ c.url | relative_url }}">{{ c.title }}</a>{%- endif -%}

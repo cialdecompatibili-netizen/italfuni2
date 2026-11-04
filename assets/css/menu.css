@@ -102,3 +102,18 @@ a.nv__dd-item.active, a.nv__dd-item.active:visited, a.nv__dd-item.active:hover {
 /* logo EX accanto al titolo */
 .nv__brand{display:inline-flex;align-items:center;gap:.6rem}
 .nv__logo{width:34px;height:34px;border-radius:8px;display:block;flex:none}
+
+/* =====================================================================
+   MEGA MENU (04/11/2026): tendina larga con gruppi in colonne, simmetrica e centrata
+   sotto la barra. I gruppi si scrivono in _data/sottomenu.yml con "- heading: Nome"
+   (ogni heading apre una colonna). Prima voce = link a tutta larghezza in alto.
+   ===================================================================== */
+@media (min-width: 768px) {
+  .nv__dd--wide { left: 1rem; right: 1rem; width: auto; max-width: 62rem; margin: 0 auto; columns: auto; padding: .9rem 1.1rem 1rem; }
+  .nv__item.show > .nv__dd--wide { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: .25rem 1.4rem; }
+  .nv__dd--wide > .nv__dd-item:first-child { grid-column: 1 / -1; text-align: center; padding: .55rem 1rem; margin-bottom: .35rem; border-bottom: 1px solid #e8e8e8; }
+  .nv__col { min-width: 0; }
+}
+.nv__head { font-size: .72rem; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; color: var(--t-accent, #8a6400); padding: .3rem 1rem .4rem; margin-bottom: .2rem; border-bottom: 2px solid #efbb20; }
+.nv__dd--wide .nv__col .nv__dd-item { padding: .38rem 1rem; font-size: .9rem; line-height: 1.35; }
+@media (max-width: 767.98px) { .nv__col { margin-bottom: .4rem; } .nv__head { padding-left: .9rem; } .nv__dd--wide > .nv__dd-item:first-child { text-align: left; } }
