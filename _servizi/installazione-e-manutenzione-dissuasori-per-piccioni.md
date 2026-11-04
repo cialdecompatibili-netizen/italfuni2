@@ -66,6 +66,14 @@ Per proteggere solo cornicioni e davanzali, montare un ponteggio costa più dell
 
 Nello stesso accesso possiamo occuparci di [grondaie e pluviali]({{ '/servizi/manutenzione-e-sostituzione-grondaie/' | relative_url }}), [pannelli fotovoltaici]({{ '/servizi/pulizia-pannelli-fotovoltaici/' | relative_url }}) e [vetrate]({{ '/servizi/pulizia-vetri/' | relative_url }}).
 
+## Perché installare i dissuasori
+
+Il guano non è solo un problema di decoro: **emana cattivi odori**, può corrodere cornicioni e strutture favorendo infiltrazioni e contiene agenti patogeni che possono essere un rischio per la salute di chi vive o lavora nell'edificio.
+
+## Prima la pulizia, poi il sistema
+
+Iniziamo con la pulizia accurata dell'area e la rimozione completa del guano, con il ripristino della struttura se danneggiata. Solo dopo montiamo il sistema scelto, sempre da funi e senza impalcature. I dissuasori ad aghi, per esempio, hanno la punta arrotondata: scoraggiano i volatili senza ferirli.
+
 ## Per un preventivo veloce, mandaci su WhatsApp
 
 - 2 o 3 foto dei punti dove si posano gli uccelli

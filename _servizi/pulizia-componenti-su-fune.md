@@ -57,6 +57,14 @@ Mentre puliamo vediamo da vicino lo stato di cornicioni e fregi. Se troviamo par
 
 Nello stesso accesso possiamo occuparci anche di [vetrate]({{ '/servizi/pulizia-vetri/' | relative_url }}), [grondaie]({{ '/servizi/manutenzione-e-sostituzione-grondaie/' | relative_url }}) e [pannelli fotovoltaici]({{ '/servizi/pulizia-pannelli-fotovoltaici/' | relative_url }}).
 
+## Controllo e sigillatura insieme alla pulizia
+
+Non ci limitiamo a svuotare: verifichiamo il corretto funzionamento di tutte le componenti, sigilliamo eventuali parti disgiunte e puliamo con cura. L'intervento dura in genere poche ore, secondo la dimensione dell'edificio, ed è silenzioso.
+
+## Manutenzione programmata e urgenze
+
+Possiamo concordare pulizie periodiche in quota con un contratto di manutenzione ordinaria, così non si arriva all'emergenza. Per le situazioni urgenti, come un pluviale otturato in piena stagione di pioggia, cerchiamo di intervenire il prima possibile.
+
 ## Per un preventivo veloce, mandaci su WhatsApp
 
 - una foto di **cosa va pulito**

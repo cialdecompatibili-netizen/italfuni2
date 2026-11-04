@@ -54,6 +54,14 @@ Il lavoro in copertura è breve, e montare un ponteggio per mezza giornata di pu
 
 Molti condomini non hanno un accesso comune al tetto e non vogliono far salire i singoli inquilini. Con l'accesso dall'alto **non serve passare dai lucernari privati né montare impalcature**. Ti mandiamo un preventivo chiaro e scritto da portare in assemblea, con il dettaglio di cosa facciamo su ogni canna.
 
+## Perché la fuliggine è un rischio
+
+Nella canna si depositano polveri, ceneri e catrami sotto forma di fuliggine. Se occlude il comignolo, riduce l'efficienza di caminetti, stufe e caldaie; se lo chiude del tutto, può causare surriscaldamenti e, nei casi gravi, incendi.
+
+## Installazione e tiraggio
+
+Per installare bene una canna fumaria conta il tiraggio già in fase di progetto: i fumi devono uscire all'esterno in sicurezza. Prima del lavoro facciamo una verifica di fattibilità e possiamo programmare insieme le pulizie periodiche, per evitare interventi urgenti e costosi.
+
 ## Per un preventivo veloce, mandaci su WhatsApp
 
 - una foto del **comignolo e del tetto** (anche da terra, con lo zoom)

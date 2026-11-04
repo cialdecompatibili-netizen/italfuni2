@@ -69,6 +69,14 @@ Nello stesso accesso possiamo occuparci di [ristrutturazione di balconi e faccia
 - [Tinteggiature a Latina]({{ '/tinteggiature-complete-su-fune-a-latina/' | relative_url }})
 - [Tinteggiature a Rieti]({{ '/tinteggiature-complete-su-fune-a-rieti/' | relative_url }})
 
+## Niente ponteggio, niente suolo pubblico
+
+Senza ponteggio non si paga l'affitto e non serve occupare il suolo pubblico, quindi meno burocrazia e meno costi. Il sistema a fune si monta e si smonta in fretta: spesso in meno di un'ora gli operatori sono già al lavoro sulla facciata.
+
+## Valutazione e vernici
+
+Prima valutiamo lo stato delle superfici e quanto è esteso il deterioramento, poi consigliamo il tipo di tinteggiatura. Usiamo vernici di qualità, per una protezione più duratura dagli agenti atmosferici.
+
 ## Per un preventivo veloce, mandaci su WhatsApp
 
 - una foto della **facciata intera**

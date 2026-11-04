@@ -57,6 +57,14 @@ Il ponteggio richiede tempo, permessi e occupazione di suolo. Su fune partiamo *
 
 Se serve il ripristino, possiamo occuparci di [balconi e facciate]({{ '/servizi/ristrutturazioni-balconi-e-facciate/' | relative_url }}) e di [impermeabilizzazioni]({{ '/servizi/impermeabilizzazione-su-fune/' | relative_url }}) per evitare nuovi distacchi.
 
+## Cosa facciamo in cantiere
+
+Se serve, delimitiamo temporaneamente l'area di lavoro e rimuoviamo le parti con segni di cedimento. Prima del lavoro prepariamo il piano operativo di sicurezza (D.Lgs. 81/08) da consegnare a committente o responsabile dei lavori.
+
+## Dallo studio di fattibilità alla fine lavori
+
+Ti seguiamo in tutte le fasi, dalla valutazione iniziale alla pianificazione e al monitoraggio dell'avanzamento, con personale specializzato e dispositivi di protezione certificati UNI EN.
+
 ## Per un intervento veloce, mandaci su WhatsApp
 
 - 2 o 3 foto del **punto pericoloso**

@@ -75,6 +75,14 @@ La fune è la scelta migliore per **interventi mirati e punti difficili**. Per i
 
 Nello stesso accesso possiamo occuparci di [grondaie e pluviali]({{ '/servizi/manutenzione-e-sostituzione-grondaie/' | relative_url }}), [balconi e facciate]({{ '/servizi/ristrutturazioni-balconi-e-facciate/' | relative_url }}) e [messa in sicurezza]({{ '/servizi/messa-in-sicurezza/' | relative_url }}).
 
+## Come troviamo l'origine dell'infiltrazione
+
+La macchia sul soffitto spesso non è sotto il punto in cui entra l'acqua. Dopo una prima valutazione dell'edificio, cerchiamo la perdita con strumenti di rilevazione, anche nelle zone che a occhio nudo non si vedono. Poi si applica il primer e la nuova guaina, bituminosa o liquida, solo sulla superficie usurata; si può scegliere il colore in base alla tonalità dell'edificio.
+
+## Perché la guaina cede
+
+Le cause più comuni sono prodotti di bassa qualità, una sigillatura inadeguata della pavimentazione, una guaina difettosa o il semplice invecchiamento. Se l'acqua raggiunge il cemento, i ferri arrugginiscono e possono staccarsi pezzi di materiale: intervenire presto costa meno e mette in sicurezza lo stabile.
+
 ## Per un preventivo veloce, mandaci su WhatsApp
 
 - 2 o 3 foto del **punto che perde** e della zona intorno

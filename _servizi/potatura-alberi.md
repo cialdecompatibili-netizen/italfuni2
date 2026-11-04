@@ -57,6 +57,14 @@ Alcuni alberi sono **tutelati** o richiedono permessi. Se la pianta è in area p
 
 Se i rami arrivano sul tetto possiamo pulire [grondaie e pluviali]({{ '/servizi/manutenzione-e-sostituzione-grondaie/' | relative_url }}) e rimuovere [materiale pericolante]({{ '/servizi/messa-in-sicurezza/' | relative_url }}) nello stesso accesso.
 
+## Perché potare con regolarità
+
+Rami troppo cresciuti tolgono luce al tronco e alle piante sottostanti, **graffiano il tetto** causando danni e perdite e possono cadere provocando incidenti.
+
+## Tree climbing: arrivare in cima senza gru
+
+Con le tecniche di arrampicata su albero raggiungiamo qualsiasi altezza, lavoriamo da vicino sulla pianta e caliamo i rami a pezzi con attrezzature apposite. Si evitano gru e piattaforme che ingombrano il cortile. Durante la potatura lavorano due operatori: uno in pianta e uno a terra, che gestisce le movimentazioni e può prestare il primo soccorso.
+
 ## Per un preventivo veloce, mandaci su WhatsApp
 
 - una foto dell'**albero intero** e dello spazio attorno

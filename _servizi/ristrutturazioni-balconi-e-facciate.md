@@ -59,6 +59,14 @@ Per **singoli balconi, cornicioni e porzioni di facciata** la fune è spesso la 
 
 Possiamo abbinare [impermeabilizzazioni]({{ '/servizi/impermeabilizzazione-su-fune/' | relative_url }}), [messa in sicurezza]({{ '/servizi/messa-in-sicurezza/' | relative_url }}), [isolamento]({{ '/servizi/montaggio-isolanti/' | relative_url }}) e [tinteggiature]({{ '/servizi/edilizia-su-fune-tutti-i-servizi-senza-ponteggi-per-casa-e-condominio/' | relative_url }}).
 
+## Perché intervenire in tempo
+
+Pioggia, smog e sole consumano nel tempo ogni superficie: oltre al danno estetico, possono staccarsi pezzi dall'alto. Arriviamo con le funi anche nelle zone dove ponteggi e impalcature sarebbero lenti o costosi.
+
+## Tempi e sicurezza
+
+Rispettiamo i tempi concordati e lavoriamo con valutazione dei rischi del cantiere e personale formato. La sicurezza viene prima del resto.
+
 ## Per un preventivo veloce, mandaci su WhatsApp
 
 - 2 o 3 foto dei **balconi o della facciata**

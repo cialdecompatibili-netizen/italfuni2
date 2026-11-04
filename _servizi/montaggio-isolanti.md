@@ -33,12 +33,20 @@ Montare pannelli isolanti in facciata o in copertura **operando su corda** signi
 - facciate o porzioni **difficili da raggiungere** con un ponteggio
 - edifici dove **non si può occupare** marciapiede o cortile
 
+## Perché isolare bene conviene
+
+Un edificio poco isolato **disperde in inverno il calore** che paghi per produrre e in estate si surriscalda. Le pareti fredde favoriscono **condensa e muffa**, perché l'aria calda a contatto con la superficie si raffredda e lascia umidità. Un buon isolamento riduce i consumi, migliora il **comfort acustico** (utile se vivi su una strada trafficata) e può far salire la **classe energetica** e il valore dell'immobile.
+
+## Facciate e tetti: piani o a falde
+
+Applichiamo i pannelli **all'esterno o all'interno** delle pareti e anche **sulle coperture**, con una soluzione diversa se il tetto è piano o a falde. Lo spessore e il tipo di pannello si scelgono in base al supporto e al risultato che vuoi ottenere: più strato isolante, più risparmio energetico.
+
 ## Come lavoriamo
 
 1. **Sopralluogo gratuito**: verifichiamo supporto, altezze e punti di ancoraggio.
 2. **Preparazione** della superficie, con pulizia e rimozione delle parti instabili.
 3. **Posa dei pannelli** su doppia fune (D.Lgs. 81/2008, art. 116), con fissaggi adatti al supporto.
-4. **Finitura e sigillature** dei punti critici, per evitare infiltrazioni.
+4. **Finitura e sigillature**: intonaco, pittura e sigillatura attorno agli infissi, per evitare infiltrazioni.
 5. **Controllo finale** insieme a te o al tuo tecnico.
 
 ## Fune, ponteggio o soluzione mista?

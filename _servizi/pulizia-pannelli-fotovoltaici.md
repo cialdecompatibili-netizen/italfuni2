@@ -53,6 +53,14 @@ Confronta la produzione dell'impianto **prima e dopo** la pulizia, a parità di 
 
 Se siamo già sul tetto possiamo anche pulire [grondaie e pluviali]({{ '/servizi/manutenzione-e-sostituzione-grondaie/' | relative_url }}), installare [dissuasori per piccioni]({{ '/servizi/installazione-e-manutenzione-dissuasori-volatili/' | relative_url }}) e montare una [linea vita]({{ '/servizi/montaggio-sistemi-di-sicurezza-su-fune/' | relative_url }}).
 
+## Perché la pulizia conta
+
+Polline, escrementi di volatili, terra e foglie ostacolano l'assorbimento dei raggi solari e **riducono la resa dell'impianto**, anche in modo sensibile. Conviene controllarli periodicamente e pulirli dopo eventi particolari: piogge sabbiose, neve, forte inquinamento.
+
+## Come li puliamo senza rovinarli
+
+Usiamo **spazzole rotanti in microfibra**, non abrasive, e **acqua deionizzata**, senza detergenti: niente macchie, striature o aloni, e più rispetto per superfici e ambiente. Ci caliamo con la doppia fune, senza ponteggi.
+
 ## Per un preventivo veloce, mandaci su WhatsApp
 
 - una foto dell'**impianto**

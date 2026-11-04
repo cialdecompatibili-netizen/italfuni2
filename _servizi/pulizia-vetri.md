@@ -84,6 +84,14 @@ Facciamo pulizia vetri su fune in tutto il Lazio:
 - [Pulizia vetri a Latina]({{ '/pulizia-vetri-latina/' | relative_url }})
 - [Pulizia vetri a Rieti]({{ '/pulizia-vetri-rieti/' | relative_url }})
 
+## Cosa puliamo
+
+Finestre, vetrate, tetti di vetro e lucernari, a qualsiasi altezza e in qualsiasi posizione, anche dove una scala o un cestello non arrivano.
+
+## Perché la fune conviene
+
+Si risparmia sul noleggio del ponteggio e sui tempi di montaggio e smontaggio. Il lavoro è più silenzioso, disturba meno e garantisce più privacy a chi è dentro. Per lo sporco ostinato usiamo macchinari rotanti e, per le superfici, niente sostanze chimiche dannose per l'ambiente.
+
 ## Per un preventivo veloce, mandaci su WhatsApp
 
 - una foto della **facciata intera**

@@ -62,6 +62,14 @@ Su edifici di più piani, per grondaie e pluviali, la fune è quasi sempre più 
 
 Se gestisci un condominio, ti mandiamo un **preventivo scritto e chiaro** da portare in assemblea, con cosa facciamo e dove. Un lavoro puntuale alle gronde non ha bisogno di mesi di cantiere.
 
+## Perché pulirle almeno una volta l'anno
+
+Foglie e detriti accumulati e un deflusso scorretto dell'acqua provocano nel tempo infiltrazioni e danni strutturali. Una gronda che scarica bene evita macchie, muffa, intonaco che si deteriora, insetti e cattivi odori.
+
+## Ispezione prima e dopo
+
+In sopralluogo controlliamo da vicino canali e pluviali e indichiamo cosa serve in base a copertura e facciata. A fine lavoro facciamo una seconda ispezione sul tetto, per intervenire di nuovo se resta qualche otturazione. Si può lavorare tutto l'anno, salvo giornate di forte pioggia o vento.
+
 ## Per un preventivo veloce, mandaci su WhatsApp
 
 - una foto dell'**edificio intero** da terra

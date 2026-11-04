@@ -53,6 +53,14 @@ Chi sale su un tetto senza protezione rischia una caduta dall'alto. Un sistema i
 
 Dopo l'installazione, la linea vita facilita lavori come [pulizia di grondaie]({{ '/servizi/manutenzione-e-sostituzione-grondaie/' | relative_url }}), [pannelli fotovoltaici]({{ '/servizi/pulizia-pannelli-fotovoltaici/' | relative_url }}) e [canne fumarie]({{ '/servizi/manutenzione-e-installazione-canne-fumarie/' | relative_url }}).
 
+## Documentazione e metodo
+
+Prima di lavorare facciamo un sopralluogo tecnico e prepariamo il piano operativo di sicurezza (D.Lgs. 81/08), da consegnare al committente o al responsabile dei lavori. Operiamo con dispositivi di protezione individuale certificati UNI EN.
+
+## Dove gli altri metodi non arrivano
+
+Risolviamo problemi di accesso complessi, dove i metodi tradizionali sono impraticabili o troppo costosi. Spesso si evitano così noleggi di gru e chiusure stradali, con meno tempo e meno spese in cantiere.
+
 ## Per un preventivo veloce, mandaci su WhatsApp
 
 - una foto del **tetto** (anche da terra o da una finestra)

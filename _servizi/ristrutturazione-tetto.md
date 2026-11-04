@@ -55,6 +55,14 @@ Nello stesso accesso possiamo occuparci di [grondaie e pluviali]({{ '/servizi/ma
 - [Ristrutturazione tetto a Frosinone]({{ '/rifacimento-e-manutenzione-tetto-a-frosinone/' | relative_url }})
 - [Rifacimento tetti a Rieti]({{ '/rifacimento-tetti-rieti/' | relative_url }})
 
+## Perché un tetto fatto bene
+
+Il tetto ripara dalle intemperie, isola e tiene l'ambiente sano. Se è fatto a regola d'arte, riduce le dispersioni e quindi la bolletta, ed evita infiltrazioni e umidità.
+
+## Da una tegola a tutto il tetto
+
+Possiamo sostituire una singola tegola come rifare tutta la copertura, cambiare travi pericolanti, rimuovere materiale a rischio caduta o sistemare grondaie danneggiate. Prima di lavorare installiamo linee vita e punti di ancoraggio, poi preventivo dopo il sopralluogo gratuito.
+
 ## Per un preventivo veloce, mandaci su WhatsApp
 
 - 2 o 3 foto del **tetto** e dei punti con problemi
