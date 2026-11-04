@@ -6,8 +6,8 @@ layout: single
 in_home: false
 title: "Potatura alberi Rieti"
 citta: "Rieti"
-excerpt: "Potatura alberi su fune a Rieti e provincia: lavori su fune senza ponteggi, con sopralluogo e preventivo gratuito."
-seo_description: "Potatura alberi su fune a Rieti e provincia con lavori su fune, senza ponteggi. Sopralluogo e preventivo gratuito con Italfuni."
+excerpt: "Potatura alberi a Rieti e provincia: lavori su fune senza ponteggi, con sopralluogo e preventivo gratuito."
+seo_description: "Potatura alberi a Rieti e provincia con lavori su fune, senza ponteggi. Sopralluogo e preventivo gratuito con Italfuni."
 categories:
   - servizi
 faq:

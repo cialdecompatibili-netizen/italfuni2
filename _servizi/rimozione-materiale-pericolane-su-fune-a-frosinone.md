@@ -1,10 +1,10 @@
 ---
-permalink: /rimozione-materiale-pericolane-su-fune-a-frosinone/
+permalink: /rimozione-materiale-pericolante-su-fune-a-frosinone/
 redirect_from:
-  - /servizi/rimozione-materiale-pericolane-su-fune-a-frosinone/
+  - /servizi/rimozione-materiale-pericolante-su-fune-a-frosinone/
 layout: single
 in_home: false
-title: "Rimozione materiale pericolane su fune a Frosinone"
+title: "Rimozione materiale pericolante su fune a Frosinone"
 citta: "Frosinone"
 excerpt: "Rimozione materiale pericolante a Frosinone e provincia: lavori su fune senza ponteggi, con sopralluogo e preventivo gratuito."
 seo_description: "Rimozione materiale pericolante a Frosinone e provincia con lavori su fune, senza ponteggi. Sopralluogo e preventivo gratuito con Italfuni."
@@ -25,7 +25,7 @@ faq:
     a: "Sì. Dopo aver tolto il materiale instabile possiamo ripristinare la parte con interventi di facciata, cornicioni e frontalini, nello stesso accesso o in uno successivo."
 ---
 
-![Rimozione materiale pericolane su fune a Frosinone]({{ '/assets/foto/rimozione-materiale-pericolante-su-fune.jpg' | relative_url }})
+![Rimozione materiale pericolante su fune a Frosinone]({{ '/assets/foto/rimozione-materiale-pericolante-su-fune.jpg' | relative_url }})
 
 Spesso negli edifici, in particolar modo quelli più vecchi, sono presenti pezzi di intonaco o parti di casa pericolanti che potrebbero cadere causando danni anche importanti a persone e oggetti: occorre dunque contattare esperti per la rimozione di questi materiali pericolanti.
 

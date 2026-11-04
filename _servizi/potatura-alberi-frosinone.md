@@ -6,8 +6,8 @@ layout: single
 in_home: false
 title: "Potatura alberi Frosinone"
 citta: "Frosinone"
-excerpt: "Potatura alberi su fune a Frosinone e provincia: lavori su fune senza ponteggi, con sopralluogo e preventivo gratuito."
-seo_description: "Potatura alberi su fune a Frosinone e provincia con lavori su fune, senza ponteggi. Sopralluogo e preventivo gratuito con Italfuni."
+excerpt: "Potatura alberi a Frosinone e provincia: lavori su fune senza ponteggi, con sopralluogo e preventivo gratuito."
+seo_description: "Potatura alberi a Frosinone e provincia con lavori su fune, senza ponteggi. Sopralluogo e preventivo gratuito con Italfuni."
 categories:
   - servizi
 faq:

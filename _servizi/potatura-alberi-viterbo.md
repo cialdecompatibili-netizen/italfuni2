@@ -6,8 +6,8 @@ layout: single
 in_home: false
 title: "Potatura alberi Viterbo"
 citta: "Viterbo"
-excerpt: "Potatura alberi su fune a Viterbo e provincia: lavori su fune senza ponteggi, con sopralluogo e preventivo gratuito."
-seo_description: "Potatura alberi su fune a Viterbo e provincia con lavori su fune, senza ponteggi. Sopralluogo e preventivo gratuito con Italfuni."
+excerpt: "Potatura alberi a Viterbo e provincia: lavori su fune senza ponteggi, con sopralluogo e preventivo gratuito."
+seo_description: "Potatura alberi a Viterbo e provincia con lavori su fune, senza ponteggi. Sopralluogo e preventivo gratuito con Italfuni."
 categories:
   - servizi
 faq:
