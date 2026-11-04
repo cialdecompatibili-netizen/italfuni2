@@ -35,7 +35,7 @@ A Viterbo controlliamo edifici di ogni tipo: il centro storico, le case in pietr
 - grondaie, pluviali e scossaline
 - crepe e infiltrazioni visibili in facciata
 
-## Perche' su fune
+## Perché su fune
 
 Da vicino si vedono distacchi e crepe che dal basso passano inosservati, senza il costo di un ponteggio.
 

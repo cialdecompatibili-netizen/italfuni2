@@ -38,7 +38,7 @@ Su un tetto in coppi o tegole **camminare rompe e sposta gli elementi**, e con i
 - in primavera, prima che il muschio cresca con l'umido
 - quando noti macchie verdi sul manto o grondaie che traboccano
 
-## Perche' su fune
+## Perché su fune
 
 Senza appoggiarci al manto non rompiamo coppi e tegole, e non serve nessun ponteggio.
 

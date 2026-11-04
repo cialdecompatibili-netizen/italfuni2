@@ -37,7 +37,7 @@ Un ponteggio su un edificio storico è costoso e può intralciare cerimonie, ing
 
 Prepariamo un **preventivo scritto e dettagliato**, con interventi e costi separati, e concordiamo giorni e orari che disturbano meno la vita dell'edificio.
 
-## Perche' su fune
+## Perché su fune
 
 Si arriva in alto con poco impatto e senza ponteggi che intralciano ingressi e vie pubbliche.
 

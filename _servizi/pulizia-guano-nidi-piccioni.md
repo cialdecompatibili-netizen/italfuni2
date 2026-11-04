@@ -36,7 +36,7 @@ Se togli il guano e non metti nulla, **i piccioni tornano** nello stesso punto. 
 
 Operiamo con protezioni adeguate, teniamo libere le zone sotto i punti di lavoro e smaltiamo i residui in modo corretto.
 
-## Perche' su fune
+## Perché su fune
 
 Raggiungere cornicioni e sottogronda senza ponteggio abbassa il costo e permette di pulire e proteggere nella stessa uscita.
 

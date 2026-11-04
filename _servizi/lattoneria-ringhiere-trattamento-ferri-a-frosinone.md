@@ -36,7 +36,7 @@ A Frosinone lavoriamo su edifici di questo tipo: palazzi, case e zone produttive
 - verniciatura protettiva di parapetti, ringhiere e inferriate
 - controllo dei fissaggi di balconi e parapetti
 
-## Perche' su fune
+## Perché su fune
 
 Lattoneria, ferri e tinteggiatura si fanno nella stessa uscita, senza ponteggi da montare tra un lavoro e l'altro.
 

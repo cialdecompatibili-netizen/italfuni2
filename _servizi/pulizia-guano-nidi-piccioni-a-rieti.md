@@ -35,7 +35,7 @@ A Rieti il problema dei piccioni si vede soprattutto qui: case, palazzi e tetti 
 - lavaggio e igienizzazione delle superfici sporche
 - dissuasori, reti o punte a seguire
 
-## Perche' su fune
+## Perché su fune
 
 Raggiungere cornicioni e sottogronda senza ponteggio abbassa il costo e permette di pulire e proteggere nella stessa uscita.
 

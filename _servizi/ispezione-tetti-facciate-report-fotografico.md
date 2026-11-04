@@ -36,7 +36,7 @@ Un report con **foto dei punti critici**, una breve descrizione di ogni problema
 
 Vedere un cornicione a distanza non basta: da vicino si notano crepe, distacchi e infiltrazioni che dal basso non si vedono. Con la fune arriviamo ovunque **senza montare ponteggi**, quindi il controllo costa poco e si fa in poche ore.
 
-## Perche' su fune
+## Perché su fune
 
 Da vicino si vedono distacchi e crepe che dal basso passano inosservati, senza il costo di un ponteggio.
 

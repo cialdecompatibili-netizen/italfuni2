@@ -36,7 +36,7 @@ A Roma lavoriamo su edifici di questo tipo: condomini e palazzi di ogni epoca, d
 - verniciatura protettiva di parapetti, ringhiere e inferriate
 - controllo dei fissaggi di balconi e parapetti
 
-## Perche' su fune
+## Perché su fune
 
 Lattoneria, ferri e tinteggiatura si fanno nella stessa uscita, senza ponteggi da montare tra un lavoro e l'altro.
 

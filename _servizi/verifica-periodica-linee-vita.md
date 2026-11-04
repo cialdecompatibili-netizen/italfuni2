@@ -39,7 +39,7 @@ Una **linea vita** non è un impianto da installare e dimenticare: ancoraggi, ca
 
 Un **report con foto** e l'indicazione di cosa è a posto e cosa va sistemato. Se serve intervenire, ti facciamo un preventivo separato. Le prescrizioni della tua linea vita vanno sempre verificate sul manuale e sulla documentazione dell'impianto.
 
-## Perche' su fune
+## Perché su fune
 
 Sul tetto serve un controllo accurato punto per punto: con la fune arriviamo agli ancoraggi senza ponteggio.
 

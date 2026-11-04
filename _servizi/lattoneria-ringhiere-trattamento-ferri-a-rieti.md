@@ -36,7 +36,7 @@ A Rieti lavoriamo su edifici di questo tipo: case, palazzi e tetti in coppi dell
 - verniciatura protettiva di parapetti, ringhiere e inferriate
 - controllo dei fissaggi di balconi e parapetti
 
-## Perche' su fune
+## Perché su fune
 
 Lattoneria, ferri e tinteggiatura si fanno nella stessa uscita, senza ponteggi da montare tra un lavoro e l'altro.
 

@@ -35,7 +35,7 @@ A Rieti molti tetti soffrono l'umidità e la vegetazione: case, palazzi e tetti 
 - controllo di tegole smosse o rotte
 - trattamento antimuschio sulle superfici pulite
 
-## Perche' su fune
+## Perché su fune
 
 Senza appoggiarci al manto non rompiamo coppi e tegole, e non serve nessun ponteggio.
 

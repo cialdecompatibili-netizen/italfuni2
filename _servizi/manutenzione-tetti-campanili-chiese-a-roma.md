@@ -36,7 +36,7 @@ A Roma lavoriamo anche su chiese, campanili ed edifici storici: condomini e pala
 - messa in sicurezza di intonaci e cornicioni che si staccano
 - dissuasori per i volatili
 
-## Perche' su fune
+## Perché su fune
 
 Si arriva in alto con poco impatto e senza ponteggi che intralciano ingressi e vie pubbliche.
 

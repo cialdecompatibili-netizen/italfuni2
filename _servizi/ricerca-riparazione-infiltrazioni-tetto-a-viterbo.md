@@ -36,7 +36,7 @@ A Viterbo vediamo infiltrazioni soprattutto su questi edifici: il centro storico
 - guaine e giunti su terrazzi e tetti piani
 - lucernari e abbaini
 
-## Perche' su fune
+## Perché su fune
 
 Si arriva al punto esatto da cui entra l'acqua senza ponteggio, e si ripara solo quello che serve.
 

@@ -40,7 +40,7 @@ Interventi pianificati significano **meno urgenze** e nessun ponteggio da montar
 3. **Preventivo unico**, con il costo di ogni intervento.
 4. Dopo ogni uscita, un **breve report con foto**.
 
-## Perche' su fune
+## Perché su fune
 
 Niente ponteggi da montare e smontare a ogni intervento: le uscite diventano rapide e prevedibili.
 

@@ -37,7 +37,7 @@ La ruggine **avanza dall'interno**: se la blocchi presto basta carteggiare e pro
 
 Con la fune sistemiamo **lattonerie, ferri e tinteggiatura** nella stessa uscita, senza montare e smontare ponteggi tra un lavoro e l'altro. Il preventivo è unico.
 
-## Perche' su fune
+## Perché su fune
 
 Lattoneria, ferri e tinteggiatura si fanno nella stessa uscita, senza ponteggi da montare tra un lavoro e l'altro.
 

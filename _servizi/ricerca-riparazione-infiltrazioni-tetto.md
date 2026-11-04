@@ -37,7 +37,7 @@ Prima **cerchiamo la causa**, con foto dei punti critici. Poi ripariamo solo ci�
 
 Se l'umido è già dentro, la riparazione esterna è il primo passo: finché l'acqua entra, pitturare non basta. Per muffa e umidità leggi anche la pagina [rimozione muffa e umidità]({{ '/specialista-rimozione-umidita-e-infiltrazioni-su-fune/' | relative_url }}).
 
-## Perche' su fune
+## Perché su fune
 
 Si arriva al punto esatto da cui entra l'acqua senza ponteggio, e si ripara solo quello che serve.
 

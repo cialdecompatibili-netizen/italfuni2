@@ -35,7 +35,7 @@ A Frosinone lavoriamo su coperture di aziende e immobili produttivi: palazzi, ca
 - ricerca e riparazione di infiltrazioni
 - impermeabilizzazione di giunti e tratti di copertura
 
-## Perche' su fune
+## Perché su fune
 
 Piazzali e accessi restano liberi e i tempi si accorciano, perché non c'è un ponteggio da montare.
 

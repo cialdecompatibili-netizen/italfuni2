@@ -35,7 +35,7 @@ A Latina molti tetti soffrono l'umidità e la vegetazione: gli edifici della cit
 - controllo di tegole smosse o rotte
 - trattamento antimuschio sulle superfici pulite
 
-## Perche' su fune
+## Perché su fune
 
 Senza appoggiarci al manto non rompiamo coppi e tegole, e non serve nessun ponteggio.
 

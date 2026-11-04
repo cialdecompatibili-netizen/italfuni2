@@ -35,7 +35,7 @@ A Roma il problema dei piccioni si vede soprattutto qui: condomini e palazzi di 
 - lavaggio e igienizzazione delle superfici sporche
 - dissuasori, reti o punte a seguire
 
-## Perche' su fune
+## Perché su fune
 
 Raggiungere cornicioni e sottogronda senza ponteggio abbassa il costo e permette di pulire e proteggere nella stessa uscita.
 

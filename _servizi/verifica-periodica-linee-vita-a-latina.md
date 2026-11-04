@@ -35,7 +35,7 @@ A Latina verifichiamo linee vita su edifici civili e aziendali: gli edifici dell
 - documentazione e targhe dell'impianto
 - segni di corrosione, urti o allentamenti
 
-## Perche' su fune
+## Perché su fune
 
 Sul tetto serve un controllo accurato punto per punto: con la fune arriviamo agli ancoraggi senza ponteggio.
 

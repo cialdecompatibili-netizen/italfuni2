@@ -36,7 +36,7 @@ A Frosinone il piano si adatta al tipo di edificio e alle scadenze dell'amminist
 - pulizia dei pannelli fotovoltaici
 - piccole riparazioni segnalate durante i controlli
 
-## Perche' su fune
+## Perché su fune
 
 Niente ponteggi da montare e smontare a ogni intervento: le uscite diventano rapide e prevedibili.
 

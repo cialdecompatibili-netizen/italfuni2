@@ -36,7 +36,7 @@ Un ponteggio su un capannone costa tanto e occupa piazzali e accessi. **Su fune*
 
 Per aziende e proprietari di più immobili possiamo concordare **controlli periodici** della copertura, con un preventivo unico e un report con foto dopo ogni uscita.
 
-## Perche' su fune
+## Perché su fune
 
 Piazzali e accessi restano liberi e i tempi si accorciano, perché non c'è un ponteggio da montare.
 
