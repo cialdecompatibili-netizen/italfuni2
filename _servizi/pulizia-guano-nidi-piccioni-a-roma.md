@@ -1,4 +1,4 @@
----
+﻿---
 permalink: /pulizia-guano-nidi-piccioni-a-roma/
 redirect_from:
   - /servizi/pulizia-guano-nidi-piccioni-a-roma/
@@ -6,7 +6,7 @@ layout: single
 in_home: false
 title: "Pulizia guano e nidi di piccioni su fune a Roma"
 citta: "Roma"
-foto: "operai-su-fune-cornicione-grondaia"
+foto: "piccioni-guano-nido-grondaia-cornicione"
 excerpt: "Piccioni su cornicioni e balconi a Roma? Facciamo la pulizia di guano e nidi su fune e, se vuoi, montiamo subito i dissuasori, senza ponteggio."
 seo_description: "Pulizia guano e nidi di piccioni a Roma e provincia, lavori su fune senza ponteggio. Sopralluogo e preventivo gratuito con Italfuni."
 categories:

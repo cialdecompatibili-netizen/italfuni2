@@ -1,4 +1,4 @@
----
+﻿---
 permalink: /verifica-periodica-linee-vita-a-frosinone/
 redirect_from:
   - /servizi/verifica-periodica-linee-vita-a-frosinone/
@@ -6,7 +6,7 @@ layout: single
 in_home: false
 title: "Verifica linee vita su fune a Frosinone"
 citta: "Frosinone"
-foto: "ispezione-tetto-coppi-chiesa-su-fune-andrew-arancione"
+foto: "linea-vita-ancoraggi-tetto-coppi"
 excerpt: "Hai una linea vita a Frosinone e non sai quando è stata controllata? La verifica periodica su fune controlla ancoraggi, cavi e fissaggi e ti lascia un report, senza ponteggio."
 seo_description: "Verifica periodica delle linee vita a Frosinone e provincia, lavori su fune senza ponteggio. Sopralluogo e preventivo gratuito con Italfuni."
 categories:

@@ -1,4 +1,4 @@
----
+﻿---
 permalink: /verifica-periodica-linee-vita-a-latina/
 redirect_from:
   - /servizi/verifica-periodica-linee-vita-a-latina/
@@ -6,7 +6,7 @@ layout: single
 in_home: false
 title: "Verifica linee vita su fune a Latina"
 citta: "Latina"
-foto: "drone-tetto-chiesa-campanili-manutenzione"
+foto: "linea-vita-ancoraggi-tetto-coppi"
 excerpt: "Hai una linea vita a Latina e non sai quando è stata controllata? La verifica periodica su fune controlla ancoraggi, cavi e fissaggi e ti lascia un report, senza ponteggio."
 seo_description: "Verifica periodica delle linee vita a Latina e provincia, lavori su fune senza ponteggio. Sopralluogo e preventivo gratuito con Italfuni."
 categories:

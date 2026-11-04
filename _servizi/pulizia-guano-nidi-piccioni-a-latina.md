@@ -1,4 +1,4 @@
----
+﻿---
 permalink: /pulizia-guano-nidi-piccioni-a-latina/
 redirect_from:
   - /servizi/pulizia-guano-nidi-piccioni-a-latina/
@@ -6,7 +6,7 @@ layout: single
 in_home: false
 title: "Pulizia guano e nidi di piccioni su fune a Latina"
 citta: "Latina"
-foto: "bonifica-comignolo-tetto-tuta-bianca"
+foto: "piccioni-guano-nido-grondaia-cornicione"
 excerpt: "Piccioni su cornicioni e balconi a Latina? Facciamo la pulizia di guano e nidi su fune e, se vuoi, montiamo subito i dissuasori, senza ponteggio."
 seo_description: "Pulizia guano e nidi di piccioni a Latina e provincia, lavori su fune senza ponteggio. Sopralluogo e preventivo gratuito con Italfuni."
 categories:

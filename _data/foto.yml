@@ -367,3 +367,15 @@
   team: false
   w: 960
   h: 640
+- f: "piccioni-guano-nido-grondaia-cornicione"
+  cap: "Piccioni su un cornicione con guano e nido nella grondaia"
+  t: [facciate, grondaie, dissuasori]
+  team: false
+  w: 1200
+  h: 670
+- f: "linea-vita-ancoraggi-tetto-coppi"
+  cap: "Ancoraggi e cavo di linea vita su tetto in coppi"
+  t: [tetti]
+  team: false
+  w: 1200
+  h: 670

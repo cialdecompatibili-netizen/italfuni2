@@ -1,4 +1,4 @@
----
+﻿---
 permalink: /verifica-periodica-linee-vita-a-roma/
 redirect_from:
   - /servizi/verifica-periodica-linee-vita-a-roma/
@@ -6,7 +6,7 @@ layout: single
 in_home: false
 title: "Verifica linee vita su fune a Roma"
 citta: "Roma"
-foto: "ispezione-tetto-coppi-chiesa-su-fune-andrew-arancione"
+foto: "linea-vita-ancoraggi-tetto-coppi"
 excerpt: "Hai una linea vita a Roma e non sai quando è stata controllata? La verifica periodica su fune controlla ancoraggi, cavi e fissaggi e ti lascia un report, senza ponteggio."
 seo_description: "Verifica periodica delle linee vita a Roma e provincia, lavori su fune senza ponteggio. Sopralluogo e preventivo gratuito con Italfuni."
 categories:

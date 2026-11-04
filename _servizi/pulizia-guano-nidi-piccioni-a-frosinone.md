@@ -1,4 +1,4 @@
----
+﻿---
 permalink: /pulizia-guano-nidi-piccioni-a-frosinone/
 redirect_from:
   - /servizi/pulizia-guano-nidi-piccioni-a-frosinone/
@@ -6,7 +6,7 @@ layout: single
 in_home: false
 title: "Pulizia guano e nidi di piccioni su fune a Frosinone"
 citta: "Frosinone"
-foto: "drone-tetto-chiesa-campanili-manutenzione"
+foto: "piccioni-guano-nido-grondaia-cornicione"
 excerpt: "Piccioni su cornicioni e balconi a Frosinone? Facciamo la pulizia di guano e nidi su fune e, se vuoi, montiamo subito i dissuasori, senza ponteggio."
 seo_description: "Pulizia guano e nidi di piccioni a Frosinone e provincia, lavori su fune senza ponteggio. Sopralluogo e preventivo gratuito con Italfuni."
 categories:

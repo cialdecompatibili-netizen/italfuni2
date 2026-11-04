@@ -1,4 +1,4 @@
----
+﻿---
 permalink: /pulizia-guano-nidi-piccioni-a-viterbo/
 redirect_from:
   - /servizi/pulizia-guano-nidi-piccioni-a-viterbo/
@@ -6,7 +6,7 @@ layout: single
 in_home: false
 title: "Pulizia guano e nidi di piccioni su fune a Viterbo"
 citta: "Viterbo"
-foto: "operai-su-fune-cornicione-palazzo"
+foto: "piccioni-guano-nido-grondaia-cornicione"
 excerpt: "Piccioni su cornicioni e balconi a Viterbo? Facciamo la pulizia di guano e nidi su fune e, se vuoi, montiamo subito i dissuasori, senza ponteggio."
 seo_description: "Pulizia guano e nidi di piccioni a Viterbo e provincia, lavori su fune senza ponteggio. Sopralluogo e preventivo gratuito con Italfuni."
 categories:
