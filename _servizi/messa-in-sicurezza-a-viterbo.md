@@ -4,7 +4,7 @@ redirect_from:
   - /servizi/messa-in-sicurezza-a-viterbo/
 layout: single
 in_home: false
-title: "Messa in sicurezza a Viterbo"
+title: "Linee vita e messa in sicurezza su fune a Viterbo"
 citta: "Viterbo"
 excerpt: "Messa in sicurezza e linee vita a Viterbo e provincia: lavori su fune senza ponteggi, con sopralluogo e preventivo gratuito."
 seo_description: "Messa in sicurezza e linee vita a Viterbo e provincia con lavori su fune, senza ponteggi. Sopralluogo e preventivo gratuito con Italfuni."

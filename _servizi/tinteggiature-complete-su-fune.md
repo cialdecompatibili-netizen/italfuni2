@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Tinteggiature complete su fune"
+title: "Tinteggiature complete di facciate su fune"
 description: "Tinteggiatura di facciate ed edifici in quota, senza ponteggio e senza permessi comunali."
 seo_description: "Tinteggiature complete di facciate di qualsiasi altezza su fune, senza ponteggio né occupazione di suolo pubblico. Sopralluogo gratuito su WhatsApp."
 ordine: 12

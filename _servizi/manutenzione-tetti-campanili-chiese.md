@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Manutenzione di tetti e campanili di chiese ed enti"
+title: "Manutenzione tetti e campanili di chiese su fune"
 description: "Ispezione, pulizia e piccole riparazioni su tetti, campanili e cornicioni di chiese ed edifici storici."
 seo_description: "Manutenzione di tetti e campanili di chiese ed edifici storici su fune, senza ponteggio: ispezione, pulizia e riparazioni. Sopralluogo gratuito su WhatsApp."
 ordine: 27

@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Pulizia vetri in altezza"
+title: "Pulizia vetri e vetrate in quota su fune"
 description: "Vetrate, facciate vetrate e finestre in quota lavate dall'alto, senza piattaforme."
 seo_description: "Pulizia di vetri e facciate vetrate in quota su fune, senza piattaforme ingombranti. Sopralluogo gratuito. Scrivici su WhatsApp."
 foto: "pulizia-vetri-facciata-su-fune-giallo"

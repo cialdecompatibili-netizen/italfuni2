@@ -3,7 +3,7 @@ permalink: /servizi/manutenzione-e-sostituzione-grondaie/
 redirect_from:
   - /servizi/riparazione-e-pulizia-grondaie/
 layout: single
-title: "Riparazione e pulizia grondaie"
+title: "Pulizia e riparazione grondaie su fune"
 description: "Pulizia e riparazione di grondaie e pluviali dall'alto, senza ponteggi."
 seo_description: "Grondaie e pluviali intasati o rotti? Pulizia e riparazione su fune, senza ponteggio. Sopralluogo gratuito e preventivo chiaro su WhatsApp."
 foto: "pulizia-gronda-su-fune-scala"

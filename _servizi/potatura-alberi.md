@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Potatura alberi"
+title: "Potatura alberi alti e abbattimento controllato"
 description: "Potatura e abbattimento controllato di alberi alti e difficili da raggiungere, con tree climbing."
 seo_description: "Potatura e abbattimento controllato di alberi alti o in spazi stretti, su fune con tecniche di tree climbing e senza piattaforma aerea. Sopralluogo gratuito su WhatsApp."
 foto: "potatura-albero-su-fune"
