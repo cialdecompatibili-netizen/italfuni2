@@ -50,7 +50,7 @@ Conviene controllare l'impianto prima di ogni lavoro in copertura e comunque all
 
 La pagina completa del servizio: [Verifica periodica delle linee vita]({{ '/servizi/verifica-periodica-linee-vita/' | relative_url }}).
 
-## Lavoriamo anche in
+## Offriamo questo servizio anche in queste province
 
 - [Verifica periodica delle linee vita a Roma]({{ '/verifica-periodica-linee-vita-a-roma/' | relative_url }})
 - [Verifica periodica delle linee vita a Rieti]({{ '/verifica-periodica-linee-vita-a-rieti/' | relative_url }})

@@ -50,7 +50,7 @@ L'ispezione conviene prima di un lavoro importante, dopo un temporale forte o qu
 
 La pagina completa del servizio: [Ispezione tetti e facciate con report fotografico]({{ '/servizi/ispezione-tetti-facciate-report-fotografico/' | relative_url }}).
 
-## Lavoriamo anche in
+## Offriamo questo servizio anche in queste province
 
 - [Ispezione di tetti e facciate con report fotografico a Roma]({{ '/ispezione-tetti-facciate-report-fotografico-a-roma/' | relative_url }})
 - [Ispezione di tetti e facciate con report fotografico a Rieti]({{ '/ispezione-tetti-facciate-report-fotografico-a-rieti/' | relative_url }})

@@ -50,7 +50,7 @@ Conviene partire prima dell'autunno con grondaie e tetto, e ripetere un controll
 
 La pagina completa del servizio: [Manutenzione programmata per condomini]({{ '/servizi/manutenzione-programmata-condomini/' | relative_url }}).
 
-## Lavoriamo anche in
+## Offriamo questo servizio anche in queste province
 
 - [Manutenzione programmata per condomini a Roma]({{ '/manutenzione-programmata-condomini-a-roma/' | relative_url }})
 - [Manutenzione programmata per condomini a Rieti]({{ '/manutenzione-programmata-condomini-a-rieti/' | relative_url }})

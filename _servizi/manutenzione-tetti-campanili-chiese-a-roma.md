@@ -50,7 +50,7 @@ Conviene controllare tetto e canali ogni anno: l'acqua che passa dal tetto è il
 
 La pagina completa del servizio: [Manutenzione di tetti e campanili di chiese ed enti]({{ '/servizi/manutenzione-tetti-campanili-chiese/' | relative_url }}).
 
-## Lavoriamo anche in
+## Offriamo questo servizio anche in queste province
 
 - [Manutenzione di tetti e campanili di chiese ed enti a Viterbo]({{ '/manutenzione-tetti-campanili-chiese-a-viterbo/' | relative_url }})
 - [Manutenzione di tetti e campanili di chiese ed enti a Rieti]({{ '/manutenzione-tetti-campanili-chiese-a-rieti/' | relative_url }})

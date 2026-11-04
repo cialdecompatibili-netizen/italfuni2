@@ -50,7 +50,7 @@ Conviene intervenire quando la ruggine è ancora superficiale e le lattonerie ha
 
 La pagina completa del servizio: [Lattoneria, ringhiere e trattamento ferri su fune]({{ '/servizi/lattoneria-ringhiere-trattamento-ferri/' | relative_url }}).
 
-## Lavoriamo anche in
+## Offriamo questo servizio anche in queste province
 
 - [Lattoneria, ringhiere e trattamento ferri a Roma]({{ '/lattoneria-ringhiere-trattamento-ferri-a-roma/' | relative_url }})
 - [Lattoneria, ringhiere e trattamento ferri a Viterbo]({{ '/lattoneria-ringhiere-trattamento-ferri-a-viterbo/' | relative_url }})

@@ -50,7 +50,7 @@ Conviene intervenire appena compare la prima macchia: un coppo smosso oggi costa
 
 La pagina completa del servizio: [Ricerca e riparazione infiltrazioni dal tetto]({{ '/servizi/ricerca-riparazione-infiltrazioni-tetto/' | relative_url }}).
 
-## Lavoriamo anche in
+## Offriamo questo servizio anche in queste province
 
 - [Ricerca e riparazione infiltrazioni dal tetto a Roma]({{ '/ricerca-riparazione-infiltrazioni-tetto-a-roma/' | relative_url }})
 - [Ricerca e riparazione infiltrazioni dal tetto a Rieti]({{ '/ricerca-riparazione-infiltrazioni-tetto-a-rieti/' | relative_url }})

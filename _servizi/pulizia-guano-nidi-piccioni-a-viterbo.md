@@ -50,7 +50,7 @@ Conviene intervenire prima che il guano ostruisca grondaie e pluviali, e sempre 
 
 La pagina completa del servizio: [Pulizia guano e nidi di piccioni]({{ '/servizi/pulizia-guano-nidi-piccioni/' | relative_url }}).
 
-## Lavoriamo anche in
+## Offriamo questo servizio anche in queste province
 
 - [Pulizia guano e nidi di piccioni a Roma]({{ '/pulizia-guano-nidi-piccioni-a-roma/' | relative_url }})
 - [Pulizia guano e nidi di piccioni a Rieti]({{ '/pulizia-guano-nidi-piccioni-a-rieti/' | relative_url }})

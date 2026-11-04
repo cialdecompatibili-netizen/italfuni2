@@ -50,7 +50,7 @@ Conviene pianificare i controlli due volte l'anno e dopo eventi forti: un canale
 
 La pagina completa del servizio: [Manutenzione coperture di capannoni e aziende]({{ '/servizi/manutenzione-coperture-capannoni/' | relative_url }}).
 
-## Lavoriamo anche in
+## Offriamo questo servizio anche in queste province
 
 - [Manutenzione coperture di capannoni e aziende a Roma]({{ '/manutenzione-coperture-capannoni-a-roma/' | relative_url }})
 - [Manutenzione coperture di capannoni e aziende a Rieti]({{ '/manutenzione-coperture-capannoni-a-rieti/' | relative_url }})
