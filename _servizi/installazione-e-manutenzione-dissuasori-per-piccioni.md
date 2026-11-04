@@ -3,7 +3,7 @@ permalink: /servizi/installazione-e-manutenzione-dissuasori-volatili/
 redirect_from:
   - /servizi/installazione-e-manutenzione-dissuasori-per-piccioni/
 layout: single
-title: "Dissuasori per piccioni"
+title: "Installazione e manutenzione dissuasori per piccioni"
 description: "Installazione e manutenzione di sistemi anti-volatili su cornicioni, balconi e tetti."
 seo_description: "Installazione e manutenzione dissuasori per piccioni su fune, senza ponteggio: reti e sistemi anti-volatili su cornicioni, balconi e tetti, anche in condominio. Sopralluogo gratuito su WhatsApp."
 ordine: 5
