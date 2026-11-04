@@ -24,7 +24,16 @@ jobs:
           bundler-cache: true
       - name: Build
         run: |
-          printf 'url: "%s"\nbaseurl: "%s"\n' "${{ steps.pages.outputs.origin }}" "${{ steps.pages.outputs.base_path }}" > _ci.yml
+          # baseurl/url deterministici: se nel repo c'e' un file CNAME (dominio proprio) -> baseurl vuoto e url del dominio,
+          # indipendentemente dal momento in cui il dominio viene registrato in Settings > Pages. Altrimenti si usa quanto
+          # rilevato da configure-pages (github.io/<repo>/).
+          if [ -s CNAME ]; then
+            DOM=$(head -n1 CNAME | tr -d '\r\n ')
+            URL="https://$DOM"; BASE=""
+          else
+            URL="${{ steps.pages.outputs.origin }}"; BASE="${{ steps.pages.outputs.base_path }}"
+          fi
+          printf 'url: "%s"\nbaseurl: "%s"\n' "$URL" "$BASE" > _ci.yml
           bundle exec jekyll build --config _config.yml,_ci.yml
         env:
           JEKYLL_ENV: production
