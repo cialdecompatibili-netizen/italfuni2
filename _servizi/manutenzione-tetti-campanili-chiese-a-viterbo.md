@@ -26,19 +26,25 @@ Hai una chiesa, un campanile o un edificio storico a **Viterbo**? La **manutenzi
 
 {% include servizio-cta.html tipo="mini" %}
 
-A Viterbo lavoriamo anche su chiese, campanili ed edifici storici: il centro storico, le case in pietra e i tetti in coppi della Tuscia.
+Lavoriamo a **Viterbo** e in provincia, dal capoluogo ai paesi del lago di Bolsena e dei Cimini. Chiese, canoniche e campanili della zona hanno tetti antichi, esposti a inverni umidi e freddi. Facciamo ispezioni, pulizie e piccole riparazioni su fune, con attenzione a materiali e superfici storiche, e documentiamo tutto con foto per la parrocchia e per la Soprintendenza. Tra il centro storico medievale, con vicoli stretti e murature in pietra, i borghi della Tuscia e le case sparse in campagna, ogni edificio ha esigenze diverse: per questo partiamo sempre da un sopralluogo gratuito.
 
 ## Cosa facciamo
 
-- ispezione di tetto, campanile e cupola con foto
-- pulizia di grondaie, canali e coperture
-- rimozione di guano, nidi e vegetazione
-- messa in sicurezza di intonaci e cornicioni che si staccano
-- dissuasori per i volatili
+- ispezione di tetto, cupola e campanile con foto
+- pulizia di grondaie, canali e pluviali in rame
+- coppi smossi riposizionati, rotti sostituiti con materiali compatibili
+- guano e nidi rimossi, con dissuasori sulle celle campanarie
 
-## Perché su fune
+## Come lavoriamo a Viterbo
 
-Si arriva in alto con poco impatto e senza ponteggi che intralciano ingressi e vie pubbliche.
+1. Sopralluogo gratuito e foto di tetto, campanile e cornicioni.
+2. Ispezione su fune e report con priorità: urgente, da programmare, da tenere d'occhio.
+3. Interventi solo entro quanto autorizzato dalla Soprintendenza e concordato con la parrocchia.
+4. Foto prima e dopo e preventivo a voci.
+
+## Quando conviene
+
+Conviene controllare tetto e canali ogni anno: l'acqua che passa dal tetto è il danno più grave per volte, affreschi e capriate.
 
 ## Per saperne di più
 

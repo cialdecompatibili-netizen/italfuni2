@@ -26,19 +26,25 @@ Amministri o abiti in un condominio a **Frosinone**? Con la **manutenzione progr
 
 {% include servizio-cta.html tipo="mini" %}
 
-A Frosinone il piano si adatta al tipo di edificio e alle scadenze dell'amministratore: palazzi, case e zone produttive di Frosinone e della Ciociaria.
+Lavoriamo a **Frosinone** e in provincia, dal capoluogo ai borghi della Ciociaria. Per condomini e amministratori della zona proponiamo un calendario semplice di controlli, pensato su sole forte d'estate e piogge intense in autunno: grondaie in autunno, verifica del tetto e delle facciate dopo l'inverno e interventi mirati dopo eventi eccezionali. Tra il capoluogo, i borghi collinari della Ciociaria e le zone produttive della valle del Sacco, ogni edificio ha esigenze diverse: per questo partiamo sempre da un sopralluogo gratuito.
 
 ## Cosa facciamo
 
-- grondaie e pluviali prima della stagione delle piogge
-- controllo visivo di tetto, comignoli e cornicioni
-- pulizia di vetri e vetrate
-- pulizia dei pannelli fotovoltaici
-- piccole riparazioni segnalate durante i controlli
+- pulizia di grondaie e pluviali, due volte l'anno se serve
+- controllo di tetto, colmi e scossaline
+- verifica di cornicioni, frontalini e balconi
+- report fotografico dopo ogni visita
 
-## Perché su fune
+## Come lavoriamo a Frosinone
 
-Niente ponteggi da montare e smontare a ogni intervento: le uscite diventano rapide e prevedibili.
+1. Sopralluogo gratuito con l'amministratore.
+2. Proposta scritta con voci, cadenze e importi, senza obblighi lunghi.
+3. Visite concordate con report fotografico.
+4. Segnalazione immediata di eventuali urgenze, con foto.
+
+## Quando conviene
+
+Conviene partire prima dell'autunno con grondaie e tetto, e ripetere un controllo dopo l'inverno, così i lavori grossi si pianificano e non arrivano all'improvviso.
 
 ## Per saperne di più
 

@@ -26,18 +26,25 @@ Muschio e foglie sul tetto a **Roma**? Facciamo la **pulizia del tetto e il trat
 
 {% include servizio-cta.html tipo="mini" %}
 
-A Roma molti tetti soffrono l'umidità e la vegetazione: condomini e palazzi di ogni epoca, dal centro storico alle periferie.
+Lavoriamo a **Roma** e in provincia, dal centro storico alla periferia e ai Castelli Romani. Con acquazzoni autunnali e vento, muschio e licheni attecchiscono dove il tetto resta umido e in ombra. Trattiamo e puliamo con cura per non rompere i coppi, e ti diciamo come ridurre la ricrescita. Tra palazzi di fine Ottocento, condomini del Novecento e un centro storico fatto di cornicioni, coppi e terrazze a tetto, ogni edificio ha esigenze diverse: per questo partiamo sempre da un sopralluogo gratuito.
 
 ## Cosa facciamo
 
-- rimozione di muschio, licheni e vegetazione da coppi e tegole
-- pulizia di foglie e detriti da grondaie e pluviali
-- controllo di tegole smosse o rotte
-- trattamento antimuschio sulle superfici pulite
+- rimozione di muschio, licheni e alghe dal manto
+- trattamento biocida e protettivo idrorepellente
+- pulizia di grondaie, compluvi e canali
+- sostituzione dei coppi rotti nello stesso intervento
 
-## Perché su fune
+## Come lavoriamo a Roma
 
-Senza appoggiarci al manto non rompiamo coppi e tegole, e non serve nessun ponteggio.
+1. Sopralluogo gratuito e foto del tetto, con segnalazione dei coppi rotti.
+2. Trattamento biocida a bassa pressione e tempo di posa.
+3. Rimozione delicata con pressione controllata e pulizia delle grondaie.
+4. Protettivo idrorepellente, se serve, e foto finali.
+
+## Quando conviene
+
+Conviene intervenire quando il muschio inizia a coprire le falde e prima che le grondaie si ostruiscano: il gelo e l'umidità fanno il resto.
 
 ## Per saperne di più
 

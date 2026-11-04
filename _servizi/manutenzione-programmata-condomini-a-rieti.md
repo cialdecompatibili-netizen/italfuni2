@@ -26,19 +26,25 @@ Amministri o abiti in un condominio a **Rieti**? Con la **manutenzione programma
 
 {% include servizio-cta.html tipo="mini" %}
 
-A Rieti il piano si adatta al tipo di edificio e alle scadenze dell'amministratore: case, palazzi e tetti in coppi della Valle Reatina, anche in zone collinari.
+Lavoriamo a **Rieti** e in provincia, dalla piana reatina ai paesi di montagna. Per condomini e amministratori della zona proponiamo un calendario semplice di controlli, pensato su gelate e neve, che mettono alla prova coppi, grondaie e giunti: grondaie in autunno, verifica del tetto e delle facciate dopo l'inverno e interventi mirati dopo eventi eccezionali. Tra il centro storico, i paesi della Sabina e le località di montagna intorno al Terminillo, ogni edificio ha esigenze diverse: per questo partiamo sempre da un sopralluogo gratuito.
 
 ## Cosa facciamo
 
-- grondaie e pluviali prima della stagione delle piogge
-- controllo visivo di tetto, comignoli e cornicioni
-- pulizia di vetri e vetrate
-- pulizia dei pannelli fotovoltaici
-- piccole riparazioni segnalate durante i controlli
+- pulizia di grondaie e pluviali, due volte l'anno se serve
+- controllo di tetto, colmi e scossaline
+- verifica di cornicioni, frontalini e balconi
+- report fotografico dopo ogni visita
 
-## Perché su fune
+## Come lavoriamo a Rieti
 
-Niente ponteggi da montare e smontare a ogni intervento: le uscite diventano rapide e prevedibili.
+1. Sopralluogo gratuito con l'amministratore.
+2. Proposta scritta con voci, cadenze e importi, senza obblighi lunghi.
+3. Visite concordate con report fotografico.
+4. Segnalazione immediata di eventuali urgenze, con foto.
+
+## Quando conviene
+
+Conviene partire prima dell'autunno con grondaie e tetto, e ripetere un controllo dopo l'inverno, così i lavori grossi si pianificano e non arrivano all'improvviso.
 
 ## Per saperne di più
 

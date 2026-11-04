@@ -26,18 +26,25 @@ Hai un capannone o un'azienda a **Rieti** con la copertura da controllare? La **
 
 {% include servizio-cta.html tipo="mini" %}
 
-A Rieti lavoriamo su coperture di aziende e immobili produttivi: case, palazzi e tetti in coppi della Valle Reatina, anche in zone collinari.
+Lavoriamo a **Rieti** e in provincia, dalla piana reatina ai paesi di montagna. Aziende e magazzini della zona hanno coperture ampie esposte a gelate e neve, che mettono alla prova coppi, grondaie e giunti: viti allentate, sormonti che si aprono, lucernari che invecchiano. Interveniamo sul tetto senza fermare l'attività e lasciamo un report con foto per il vostro piano di manutenzione. Tra il centro storico, i paesi della Sabina e le località di montagna intorno al Terminillo, ogni edificio ha esigenze diverse: per questo partiamo sempre da un sopralluogo gratuito.
 
 ## Cosa facciamo
 
-- pulizia di canali di gronda e pluviali di grandi dimensioni
-- controllo di lucernari, lastre e sigillature
-- ricerca e riparazione di infiltrazioni
-- impermeabilizzazione di giunti e tratti di copertura
+- canali di gronda, bocchettoni e pluviali
+- lastre, pannelli, sormonti, viti e guarnizioni
+- lucernari, cupolini e raccordi
+- scossaline, colmi, sfiati e guaine
 
-## Perché su fune
+## Come lavoriamo a Rieti
 
-Piazzali e accessi restano liberi e i tempi si accorciano, perché non c'è un ponteggio da montare.
+1. Sopralluogo e foto della copertura, con accessi e zone sensibili.
+2. Accordo su orari e perimetri per non fermare l'attività.
+3. Intervento su fune: pulizia, serraggio, sigillature, piccole sostituzioni.
+4. Report con foto per il piano di manutenzione.
+
+## Quando conviene
+
+Conviene pianificare i controlli due volte l'anno e dopo eventi forti: un canale pulito o una vite serrata costano molto meno di un danno alla merce.
 
 ## Per saperne di più
 

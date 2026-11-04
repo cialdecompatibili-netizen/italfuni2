@@ -26,18 +26,25 @@ Hai un capannone o un'azienda a **Viterbo** con la copertura da controllare? La 
 
 {% include servizio-cta.html tipo="mini" %}
 
-A Viterbo lavoriamo su coperture di aziende e immobili produttivi: il centro storico, le case in pietra e i tetti in coppi della Tuscia.
+Lavoriamo a **Viterbo** e in provincia, dal capoluogo ai paesi del lago di Bolsena e dei Cimini. Aziende e magazzini della zona hanno coperture ampie esposte a inverni umidi e freddi: viti allentate, sormonti che si aprono, lucernari che invecchiano. Interveniamo sul tetto senza fermare l'attività e lasciamo un report con foto per il vostro piano di manutenzione. Tra il centro storico medievale, con vicoli stretti e murature in pietra, i borghi della Tuscia e le case sparse in campagna, ogni edificio ha esigenze diverse: per questo partiamo sempre da un sopralluogo gratuito.
 
 ## Cosa facciamo
 
-- pulizia di canali di gronda e pluviali di grandi dimensioni
-- controllo di lucernari, lastre e sigillature
-- ricerca e riparazione di infiltrazioni
-- impermeabilizzazione di giunti e tratti di copertura
+- canali di gronda, bocchettoni e pluviali
+- lastre, pannelli, sormonti, viti e guarnizioni
+- lucernari, cupolini e raccordi
+- scossaline, colmi, sfiati e guaine
 
-## Perché su fune
+## Come lavoriamo a Viterbo
 
-Piazzali e accessi restano liberi e i tempi si accorciano, perché non c'è un ponteggio da montare.
+1. Sopralluogo e foto della copertura, con accessi e zone sensibili.
+2. Accordo su orari e perimetri per non fermare l'attività.
+3. Intervento su fune: pulizia, serraggio, sigillature, piccole sostituzioni.
+4. Report con foto per il piano di manutenzione.
+
+## Quando conviene
+
+Conviene pianificare i controlli due volte l'anno e dopo eventi forti: un canale pulito o una vite serrata costano molto meno di un danno alla merce.
 
 ## Per saperne di più
 

@@ -26,18 +26,25 @@ Vuoi sapere in che stato è il tetto o la facciata del tuo edificio a **Viterbo*
 
 {% include servizio-cta.html tipo="mini" %}
 
-A Viterbo controlliamo edifici di ogni tipo: il centro storico, le case in pietra e i tetti in coppi della Tuscia.
+Lavoriamo a **Viterbo** e in provincia, dal capoluogo ai paesi del lago di Bolsena e dei Cimini. Con inverni umidi e freddi, un controllo su fune prima della stagione critica aiuta a trovare coppi smossi e giunti aperti prima che l'acqua entri. Il report con foto ti dà un documento chiaro da portare in assemblea, a un tecnico o a chi deve fare i lavori. Tra il centro storico medievale, con vicoli stretti e murature in pietra, i borghi della Tuscia e le case sparse in campagna, ogni edificio ha esigenze diverse: per questo partiamo sempre da un sopralluogo gratuito.
 
 ## Cosa facciamo
 
-- manto di copertura, coppi o tegole smosse, colmi e comignoli
+- manto di copertura, coppi e tegole smosse, colmi e comignoli
 - cornicioni, frontalini e balconi con intonaco che si stacca
 - grondaie, pluviali e scossaline
-- crepe e infiltrazioni visibili in facciata
+- crepe e infiltrazioni visibili in facciata, con report e foto numerate
 
-## Perché su fune
+## Come lavoriamo a Viterbo
 
-Da vicino si vedono distacchi e crepe che dal basso passano inosservati, senza il costo di un ponteggio.
+1. Sopralluogo gratuito e chiarimento dell'obiettivo (condominio, compravendita, maltempo).
+2. Ispezione su doppia fune con foto ravvicinate di ogni punto critico.
+3. Report con foto numerate, descrizione e priorità: urgente, da programmare, da tenere d'occhio.
+4. Confronto insieme e, se vuoi, preventivo a parte per i lavori.
+
+## Quando conviene
+
+L'ispezione conviene prima di un lavoro importante, dopo un temporale forte o quando serve un documento chiaro da portare in assemblea o a chi deve fare i preventivi.
 
 ## Per saperne di più
 

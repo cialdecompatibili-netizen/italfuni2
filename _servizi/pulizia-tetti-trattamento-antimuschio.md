@@ -15,32 +15,49 @@ faq:
     a: "No: lavoriamo con attrezzi adatti e senza appoggiarci al manto, per non rompere né spostare gli elementi. I prodotti sono scelti in base al materiale."
   - q: "Ogni quanto va pulito il tetto?"
     a: "Dipende da alberi vicini, esposizione e umidità. Dopo il primo intervento ti consigliamo la cadenza adatta al tuo tetto."
+  - q: "Rovinate i coppi?"
+    a: "No: usiamo prodotti per coperture, pressione controllata e spazzole adatte. I coppi già rotti li segnaliamo e, se vuoi, li sostituiamo."
+  - q: "Sostituite anche i coppi rotti?"
+    a: "Sì, nello stesso intervento, con preventivo a parte. Così il tetto resta pulito e a tenuta."
 ---
 
-Muschio, licheni, foglie e sporco sul tetto **trattengono l'umidità**, ostruiscono le grondaie e con il tempo rovinano coppi e tegole. Puliamo **su fune, senza ponteggio e senza camminare sul manto**, e a fine pulizia possiamo applicare un **trattamento antimuschio**.
+Muschio, licheni e alghe sul tetto non sono solo un fatto estetico: **trattengono l'umidità**, ostruiscono grondaie e compluvi, rendono scivolosi i coppi e, con il gelo, rovinano il manto. Pulirli bene significa **non rompere le tegole** e **trattare la superficie**, perché non ricrescano dopo due stagioni.
 
 {% include servizio-cta.html tipo="mini" %}
 
-## Cosa facciamo
+## Perché il muschio cresce proprio lì
 
-- rimozione di muschio, licheni e vegetazione da coppi e tegole
-- pulizia di foglie e detriti da grondaie e pluviali
-- controllo di tegole smosse o rotte
-- trattamento antimuschio sulle superfici pulite
+Muschi e licheni si sviluppano dove la copertura resta umida e poco soleggiata: falde esposte a nord, ombra di alberi vicini, foglie che ristagnano, tetti poco inclinati, coppi e tegole porosi. Più l'acqua rimane sul manto, più la crescita si consolida.
 
-## Perché non camminare sul tetto
+## Come lavoriamo
 
-Su un tetto in coppi o tegole **camminare rompe e sposta gli elementi**, e con il muschio bagnato si scivola. Calandoci in fune lavoriamo **senza appoggiarci al manto**, con più sicurezza per noi e meno rischi per il tetto.
+1. **Ispezione e foto prima**: coppi rotti o smossi vanno segnalati, non calpestati.
+2. **Trattamento biocida** specifico per coperture, spruzzato a bassa pressione, che devitalizza muschio, licheni e spore.
+3. **Tempo di posa**: si attende quanto indicato dal prodotto.
+4. **Rimozione delicata** con spazzole e pressione controllata, senza consumare la superficie dei coppi.
+5. **Pulizia di grondaie e compluvi** e raccolta dei residui.
+6. **Trattamento protettivo** idrorepellente, se serve, per rallentare la ricrescita.
 
-## Quando pulire
+Evitiamo i getti ad alta pressione sul manto: possono rovinare la superficie dei coppi, spostare gli elementi e spingere l'acqua sotto le tegole.
 
-- dopo l'autunno, quando le foglie hanno riempito grondaie e falde
-- in primavera, prima che il muschio cresca con l'umido
-- quando noti macchie verdi sul manto o grondaie che traboccano
+## Come si cammina su un tetto senza rompere nulla
 
-## Perché su fune
+Coppi e tegole antiche sono fragili. Con la fune parte del peso resta sull'attrezzatura e ci si muove appoggiando i piedi nei punti di appoggio giusti, così non si incrinano elementi che reggevano benissimo prima del nostro passaggio.
 
-Senza appoggiarci al manto non rompiamo coppi e tegole, e non serve nessun ponteggio.
+## Prevenzione: strisce di rame o zinco
+
+Un'opzione per rallentare la ricrescita sono le **strisce di rame o zinco** sotto il colmo: l'acqua piovana porta sul manto piccole quantità di metallo che ostacolano muschi e alghe. Non sostituiscono la pulizia, ma aiutano a ripassare meno spesso.
+
+## Quando ripetere
+
+Dipende da ombra, alberi vicini e zona: in genere si ripassa a distanza di anni, non ogni stagione. Dopo il primo lavoro ti diciamo quando conviene ricontrollare. La pulizia di grondaie e pluviali, invece, va fatta più spesso.
+
+## Perché conviene toglierlo
+
+- il manto non trattiene più l'acqua, quindi soffre meno il gelo
+- grondaie e compluvi restano liberi
+- il tetto è meno scivoloso per chi dovrà salirci
+- è più facile accorgersi di coppi rotti o smossi
 
 ## Servizi collegati
 

@@ -1,4 +1,4 @@
-﻿---
+---
 permalink: /pulizia-guano-nidi-piccioni-a-viterbo/
 redirect_from:
   - /servizi/pulizia-guano-nidi-piccioni-a-viterbo/
@@ -26,18 +26,25 @@ Piccioni su cornicioni e balconi a **Viterbo**? Facciamo la **pulizia di guano e
 
 {% include servizio-cta.html tipo="mini" %}
 
-A Viterbo il problema dei piccioni si vede soprattutto qui: il centro storico, le case in pietra e i tetti in coppi della Tuscia.
+Lavoriamo a **Viterbo** e in provincia, dal capoluogo ai paesi del lago di Bolsena e dei Cimini. Dove ci sono cornicioni, balconi e sottotetti, i piccioni trovano facilmente riparo, soprattutto tra il centro storico medievale, con vicoli stretti e murature in pietra, i borghi della Tuscia e le case sparse in campagna. Interveniamo con protezioni adeguate e, dopo la pulizia, montiamo dissuasori adatti alla superficie, così non devi ripetere il lavoro ogni stagione.
 
 ## Cosa facciamo
 
-- rimozione di guano e nidi da cornicioni, balconi e davanzali
+- rimozione di guano e nidi da cornicioni, balconi e sottotetti
 - pulizia di grondaie e pluviali ostruiti
-- lavaggio e igienizzazione delle superfici sporche
-- dissuasori, reti o punte a seguire
+- controllo dei danni su metalli e pietra
+- dissuasori montati a pulizia finita
 
-## Perché su fune
+## Come lavoriamo a Viterbo
 
-Raggiungere cornicioni e sottogronda senza ponteggio abbassa il costo e permette di pulire e proteggere nella stessa uscita.
+1. Sopralluogo gratuito e foto delle zone interessate.
+2. Inumidimento e rimozione con tute, guanti e maschere FFP3.
+3. Pulizia e controllo delle superfici, raccolta in sacchi chiusi.
+4. Montaggio dei dissuasori adatti alla superficie.
+
+## Quando conviene
+
+Conviene intervenire prima che il guano ostruisca grondaie e pluviali, e sempre abbinare i dissuasori: senza, i piccioni tornano nel giro di poco.
 
 ## Per saperne di più
 

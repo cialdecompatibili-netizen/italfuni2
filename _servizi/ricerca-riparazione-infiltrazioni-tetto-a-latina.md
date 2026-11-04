@@ -26,19 +26,25 @@ Infiltrazioni dal tetto a **Latina**? Troviamo da dove entra l'acqua e ripariamo
 
 {% include servizio-cta.html tipo="mini" %}
 
-A Latina vediamo infiltrazioni soprattutto su questi edifici: gli edifici della città e della zona costiera, dove salsedine e vento consumano di più.
+Lavoriamo a **Latina** e in provincia, dal capoluogo ai centri del litorale e dell'Agro Pontino. Con salsedine, umidità e vento del litorale, i punti deboli del tetto vengono fuori all'improvviso. Se in casa gocciola, cerchiamo il punto d'ingresso dall'alto e ripariamo solo quello che serve, con foto prima e dopo. Tra gli edifici di fondazione degli anni Trenta, i condomini moderni e i centri della costa pontina, ogni edificio ha esigenze diverse: per questo partiamo sempre da un sopralluogo gratuito.
 
 ## Cosa facciamo
 
-- tegole o coppi rotti o smossi
-- scossaline, camini e comignoli mal sigillati
-- grondaie e pluviali ostruiti o staccati
-- guaine e giunti su terrazzi e tetti piani
-- lucernari e abbaini
+- coppi, tegole e colmi rotti o smossi
+- scossaline, converse, comignoli e sfiati
+- grondaie intasate e lucernari
+- guaine e bocchettoni su parti piane
 
-## Perché su fune
+## Come lavoriamo a Latina
 
-Si arriva al punto esatto da cui entra l'acqua senza ponteggio, e si ripara solo quello che serve.
+1. Sopralluogo gratuito: dove compare la macchia, quando e da quanto.
+2. Ispezione dall'alto con foto, risalendo il percorso dell'acqua.
+3. Prova controllata con acqua, se serve, per individuare il punto.
+4. Riparazione mirata e foto prima e dopo.
+
+## Quando conviene
+
+Conviene intervenire appena compare la prima macchia: un coppo smosso oggi costa poco, un solaio bagnato per mesi molto di più.
 
 ## Per saperne di più
 

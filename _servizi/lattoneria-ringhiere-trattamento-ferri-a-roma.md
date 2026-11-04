@@ -26,19 +26,25 @@ Grondaie, ringhiere o parapetti rovinati a **Roma**? Facciamo **lattoneria e tra
 
 {% include servizio-cta.html tipo="mini" %}
 
-A Roma lavoriamo su edifici di questo tipo: condomini e palazzi di ogni epoca, dal centro storico alle periferie.
+Lavoriamo a **Roma** e in provincia, dal centro storico alla periferia e ai Castelli Romani. Con acquazzoni autunnali e vento, grondaie, scossaline e ferri sono i primi a risentirne: giunti che si aprono, staffe che cedono, ringhiere che arrugginiscono. Ripariamo e trattiamo sul posto, in quota, senza montare impalcature. Tra palazzi di fine Ottocento, condomini del Novecento e un centro storico fatto di cornicioni, coppi e terrazze a tetto, ogni edificio ha esigenze diverse: per questo partiamo sempre da un sopralluogo gratuito.
 
 ## Cosa facciamo
 
-- riparazione e sostituzione di grondaie, pluviali e scossaline
-- sigillatura di giunti e raccordi che perdono
-- carteggiatura e trattamento di ferri e ringhiere arrugginiti
-- verniciatura protettiva di parapetti, ringhiere e inferriate
-- controllo dei fissaggi di balconi e parapetti
+- grondaie, pluviali e scossaline: giunti, staffe, raccordi
+- comignoli, cappelli e bordi di terrazzi
+- ringhiere, cancelli e parapetti con ruggine
+- trattamento antiruggine e finitura con smalto per esterni
 
-## Perché su fune
+## Come lavoriamo a Roma
 
-Lattoneria, ferri e tinteggiatura si fanno nella stessa uscita, senza ponteggi da montare tra un lavoro e l'altro.
+1. Sopralluogo gratuito e foto dei punti da trattare o riparare.
+2. Pulizia e rimozione della ruggine fino al metallo sano.
+3. Antiruggine, sigillatura dei raccordi e riparazione della lattoneria.
+4. Finitura per esterni e foto prima e dopo.
+
+## Quando conviene
+
+Conviene intervenire quando la ruggine è ancora superficiale e le lattonerie hanno solo piccoli giochi: si risolve con un trattamento, senza sostituire il pezzo.
 
 ## Per saperne di più
 

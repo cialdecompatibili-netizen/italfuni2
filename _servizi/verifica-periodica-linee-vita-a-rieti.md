@@ -1,4 +1,4 @@
-﻿---
+---
 permalink: /verifica-periodica-linee-vita-a-rieti/
 redirect_from:
   - /servizi/verifica-periodica-linee-vita-a-rieti/
@@ -26,18 +26,25 @@ Hai una **linea vita a Rieti** e non sai quando è stata controllata? La **verif
 
 {% include servizio-cta.html tipo="mini" %}
 
-A Rieti verifichiamo linee vita su edifici civili e aziendali: case, palazzi e tetti in coppi della Valle Reatina, anche in zone collinari.
+Lavoriamo a **Rieti** e in provincia, dalla piana reatina ai paesi di montagna. Condomini, aziende e privati della zona hanno impianti montati in anni diversi, spesso senza documentazione a portata di mano, tra il centro storico, i paesi della Sabina e le località di montagna intorno al Terminillo. Controlliamo ancoraggi, cavo e fissaggi su fune e ti lasciamo un report scritto da tenere nel fascicolo dell'edificio.
 
 ## Cosa facciamo
 
-- stato di ancoraggi, piastre e fissaggi alla copertura
-- cavo, tenditori e morsetti
-- documentazione e targhe dell'impianto
-- segni di corrosione, urti o allentamenti
+- ancoraggi, piastre e fissaggi alla struttura
+- cavo, tenditori, assorbitori e morsetti
+- marcature, documenti e percorso di accesso
+- report con foto ed esito per ogni elemento
 
-## Perché su fune
+## Come lavoriamo a Rieti
 
-Sul tetto serve un controllo accurato punto per punto: con la fune arriviamo agli ancoraggi senza ponteggio.
+1. Sopralluogo gratuito e richiesta dei documenti dell'impianto.
+2. Ispezione su fune di ancoraggi, cavo e fissaggi, con foto.
+3. Report scritto con esito per ogni elemento: in ordine, da riparare, da sostituire.
+4. Indicazione della prossima scadenza di controllo.
+
+## Quando conviene
+
+Conviene controllare l'impianto prima di ogni lavoro in copertura e comunque alle scadenze indicate dal manuale, di norma entro due anni.
 
 ## Per saperne di più
 

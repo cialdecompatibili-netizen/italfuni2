@@ -15,30 +15,48 @@ faq:
     a: "Servono procedure e imprese autorizzate. Se hai dubbi sul materiale, fallo verificare prima di far salire chiunque in copertura."
   - q: "Fate anche piccoli interventi?"
     a: "Sì, dalla pulizia di un canale alla riparazione di un punto di infiltrazione. Per più interventi nell'anno conviene un piano programmato."
+  - q: "Dovete fermare la produzione?"
+    a: "Di norma no: lavoriamo sul tetto e in un perimetro concordato. Se per un'operazione serve interdire un'area lo definiamo in anticipo."
+  - q: "Riparate anche una perdita urgente?"
+    a: "Mandaci foto e posizione: ti diciamo se è un intervento rapido (sigillatura, sostituzione di una lastra o di un giunto) o se serve un lavoro più ampio. Il sopralluogo è gratuito."
 ---
 
-Su un capannone una **copertura trascurata** vuol dire infiltrazioni, merce rovinata e fermi. Lavoriamo **su fune, senza ponteggio** e con il minimo disagio per chi lavora sotto: controlliamo e puliamo canali di gronda, lucernari e lastre, cerchiamo le perdite e ripariamo i punti critici.
+Il tetto di un capannone è grande, poco accessibile e quasi mai guardato, finché non gocciola sulla merce. Il punto è intervenire **senza fermare la produzione** e senza noleggiare una piattaforma per ogni lavoro. Facciamo controlli e manutenzioni **su fune**, con il minimo disagio per chi lavora sotto.
 
 {% include servizio-cta.html tipo="mini" %}
 
-## Cosa facciamo
+## Cosa controlliamo sulla copertura
 
-- pulizia di canali di gronda e pluviali di grandi dimensioni
-- controllo di lucernari, lastre e sigillature
-- ricerca e riparazione di infiltrazioni
-- impermeabilizzazione di giunti e tratti di copertura
+- **canali di gronda e bocchettoni**: foglie, detriti e ristagni (in molti piani di manutenzione si prevede la pulizia ogni sei mesi)
+- **lastre e pannelli**: lamiera grecata, pannelli sandwich, sormonti, viti e guarnizioni
+- **lucernari e cupolini**: fissaggi, tenuta, stato del materiale traslucido
+- **scossaline, colmi e raccordi** con muri, camini e sfiati
+- **torrini, aspiratori e impianti** sul tetto
+- **guaine** su parti piane e relative sovrapposizioni
+- **linee vita e punti di accesso**, se presenti
 
-## Perché la fune per un'azienda
+## I problemi più comuni
 
-Un ponteggio su un capannone costa tanto e occupa piazzali e accessi. **Su fune** i passaggi restano liberi, lavorano meno persone e i tempi si accorciano.
+Con il caldo e il freddo la lamiera si dilata e le viti si allentano; i sormonti si aprono e fanno passare acqua; i canali pieni di foglie traboccano e inzuppano le pareti; i lucernari, con gli anni, perdono trasparenza e diventano fragili. Sono guasti piccoli all'inizio, costosi quando l'acqua arriva su macchinari e scorte.
 
-## Controlli periodici
+## Attenzione ai lucernari
 
-Per aziende e proprietari di più immobili possiamo concordare **controlli periodici** della copertura, con un preventivo unico e un report con foto dopo ogni uscita.
+Un lucernario vecchio può cedere sotto il peso di una persona, ed è una causa nota di cadute dall'alto. Per questo sul tetto si lavora **sempre ancorati** e senza mai appoggiare i piedi su lucernari o lastre non portanti.
 
-## Perché su fune
+## Coperture in fibrocemento (eternit)
 
-Piazzali e accessi restano liberi e i tempi si accorciano, perché non c'è un ponteggio da montare.
+Se la copertura è in lastre contenenti amianto, lo diciamo subito: **non le rimuoviamo e non le lavoriamo**. La bonifica spetta a imprese autorizzate, con un piano di lavoro. Quello che possiamo fare è un'**ispezione visiva con foto**, utile per seguire lo stato della copertura nel tempo e per decidere con un tecnico cosa fare.
+
+## Come lavoriamo senza fermarti
+
+1. **Sopralluogo** e foto della copertura, con indicazione di accessi e zone sensibili.
+2. **Accordo su orari e perimetri**, per non interferire con carico, scarico e produzione.
+3. **Intervento su fune**: pulizia dei canali, serraggio e sigillatura, sostituzione di piccole parti, ripristino di raccordi.
+4. **Report con foto**, da allegare al vostro piano o fascicolo di manutenzione.
+
+## Per chi
+
+Aziende, artigiani, magazzini e logistica, capannoni agricoli, amministratori di aree produttive e proprietari di immobili con coperture estese.
 
 ## Servizi collegati
 

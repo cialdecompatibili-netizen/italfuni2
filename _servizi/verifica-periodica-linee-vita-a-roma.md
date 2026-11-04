@@ -1,4 +1,4 @@
-﻿---
+---
 permalink: /verifica-periodica-linee-vita-a-roma/
 redirect_from:
   - /servizi/verifica-periodica-linee-vita-a-roma/
@@ -26,18 +26,25 @@ Hai una **linea vita a Roma** e non sai quando è stata controllata? La **verifi
 
 {% include servizio-cta.html tipo="mini" %}
 
-A Roma verifichiamo linee vita su edifici civili e aziendali: condomini e palazzi di ogni epoca, dal centro storico alle periferie.
+Lavoriamo a **Roma** e in provincia, dal centro storico alla periferia e ai Castelli Romani. Condomini, aziende e privati della zona hanno impianti montati in anni diversi, spesso senza documentazione a portata di mano, tra palazzi di fine Ottocento, condomini del Novecento e un centro storico fatto di cornicioni, coppi e terrazze a tetto. Controlliamo ancoraggi, cavo e fissaggi su fune e ti lasciamo un report scritto da tenere nel fascicolo dell'edificio.
 
 ## Cosa facciamo
 
-- stato di ancoraggi, piastre e fissaggi alla copertura
-- cavo, tenditori e morsetti
-- documentazione e targhe dell'impianto
-- segni di corrosione, urti o allentamenti
+- ancoraggi, piastre e fissaggi alla struttura
+- cavo, tenditori, assorbitori e morsetti
+- marcature, documenti e percorso di accesso
+- report con foto ed esito per ogni elemento
 
-## Perché su fune
+## Come lavoriamo a Roma
 
-Sul tetto serve un controllo accurato punto per punto: con la fune arriviamo agli ancoraggi senza ponteggio.
+1. Sopralluogo gratuito e richiesta dei documenti dell'impianto.
+2. Ispezione su fune di ancoraggi, cavo e fissaggi, con foto.
+3. Report scritto con esito per ogni elemento: in ordine, da riparare, da sostituire.
+4. Indicazione della prossima scadenza di controllo.
+
+## Quando conviene
+
+Conviene controllare l'impianto prima di ogni lavoro in copertura e comunque alle scadenze indicate dal manuale, di norma entro due anni.
 
 ## Per saperne di più
 

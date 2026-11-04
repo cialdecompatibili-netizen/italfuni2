@@ -1,4 +1,4 @@
-﻿---
+---
 permalink: /pulizia-guano-nidi-piccioni-a-latina/
 redirect_from:
   - /servizi/pulizia-guano-nidi-piccioni-a-latina/
@@ -26,18 +26,25 @@ Piccioni su cornicioni e balconi a **Latina**? Facciamo la **pulizia di guano e 
 
 {% include servizio-cta.html tipo="mini" %}
 
-A Latina il problema dei piccioni si vede soprattutto qui: gli edifici della città e della zona costiera, dove salsedine e vento consumano di più.
+Lavoriamo a **Latina** e in provincia, dal capoluogo ai centri del litorale e dell'Agro Pontino. Dove ci sono cornicioni, balconi e sottotetti, i piccioni trovano facilmente riparo, soprattutto tra gli edifici di fondazione degli anni Trenta, i condomini moderni e i centri della costa pontina. Interveniamo con protezioni adeguate e, dopo la pulizia, montiamo dissuasori adatti alla superficie, così non devi ripetere il lavoro ogni stagione.
 
 ## Cosa facciamo
 
-- rimozione di guano e nidi da cornicioni, balconi e davanzali
+- rimozione di guano e nidi da cornicioni, balconi e sottotetti
 - pulizia di grondaie e pluviali ostruiti
-- lavaggio e igienizzazione delle superfici sporche
-- dissuasori, reti o punte a seguire
+- controllo dei danni su metalli e pietra
+- dissuasori montati a pulizia finita
 
-## Perché su fune
+## Come lavoriamo a Latina
 
-Raggiungere cornicioni e sottogronda senza ponteggio abbassa il costo e permette di pulire e proteggere nella stessa uscita.
+1. Sopralluogo gratuito e foto delle zone interessate.
+2. Inumidimento e rimozione con tute, guanti e maschere FFP3.
+3. Pulizia e controllo delle superfici, raccolta in sacchi chiusi.
+4. Montaggio dei dissuasori adatti alla superficie.
+
+## Quando conviene
+
+Conviene intervenire prima che il guano ostruisca grondaie e pluviali, e sempre abbinare i dissuasori: senza, i piccioni tornano nel giro di poco.
 
 ## Per saperne di più
 

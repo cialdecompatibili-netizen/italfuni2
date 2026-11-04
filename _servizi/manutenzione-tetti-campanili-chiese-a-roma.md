@@ -26,19 +26,25 @@ Hai una chiesa, un campanile o un edificio storico a **Roma**? La **manutenzione
 
 {% include servizio-cta.html tipo="mini" %}
 
-A Roma lavoriamo anche su chiese, campanili ed edifici storici: condomini e palazzi di ogni epoca, dal centro storico alle periferie.
+Lavoriamo a **Roma** e in provincia, dal centro storico alla periferia e ai Castelli Romani. Chiese, canoniche e campanili della zona hanno tetti antichi, esposti a acquazzoni autunnali e vento. Facciamo ispezioni, pulizie e piccole riparazioni su fune, con attenzione a materiali e superfici storiche, e documentiamo tutto con foto per la parrocchia e per la Soprintendenza. Tra palazzi di fine Ottocento, condomini del Novecento e un centro storico fatto di cornicioni, coppi e terrazze a tetto, ogni edificio ha esigenze diverse: per questo partiamo sempre da un sopralluogo gratuito.
 
 ## Cosa facciamo
 
-- ispezione di tetto, campanile e cupola con foto
-- pulizia di grondaie, canali e coperture
-- rimozione di guano, nidi e vegetazione
-- messa in sicurezza di intonaci e cornicioni che si staccano
-- dissuasori per i volatili
+- ispezione di tetto, cupola e campanile con foto
+- pulizia di grondaie, canali e pluviali in rame
+- coppi smossi riposizionati, rotti sostituiti con materiali compatibili
+- guano e nidi rimossi, con dissuasori sulle celle campanarie
 
-## Perché su fune
+## Come lavoriamo a Roma
 
-Si arriva in alto con poco impatto e senza ponteggi che intralciano ingressi e vie pubbliche.
+1. Sopralluogo gratuito e foto di tetto, campanile e cornicioni.
+2. Ispezione su fune e report con priorità: urgente, da programmare, da tenere d'occhio.
+3. Interventi solo entro quanto autorizzato dalla Soprintendenza e concordato con la parrocchia.
+4. Foto prima e dopo e preventivo a voci.
+
+## Quando conviene
+
+Conviene controllare tetto e canali ogni anno: l'acqua che passa dal tetto è il danno più grave per volte, affreschi e capriate.
 
 ## Per saperne di più
 

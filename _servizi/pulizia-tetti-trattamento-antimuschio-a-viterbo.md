@@ -26,18 +26,25 @@ Muschio e foglie sul tetto a **Viterbo**? Facciamo la **pulizia del tetto e il t
 
 {% include servizio-cta.html tipo="mini" %}
 
-A Viterbo molti tetti soffrono l'umidità e la vegetazione: il centro storico, le case in pietra e i tetti in coppi della Tuscia.
+Lavoriamo a **Viterbo** e in provincia, dal capoluogo ai paesi del lago di Bolsena e dei Cimini. Con inverni umidi e freddi, muschio e licheni attecchiscono dove il tetto resta umido e in ombra. Trattiamo e puliamo con cura per non rompere i coppi, e ti diciamo come ridurre la ricrescita. Tra il centro storico medievale, con vicoli stretti e murature in pietra, i borghi della Tuscia e le case sparse in campagna, ogni edificio ha esigenze diverse: per questo partiamo sempre da un sopralluogo gratuito.
 
 ## Cosa facciamo
 
-- rimozione di muschio, licheni e vegetazione da coppi e tegole
-- pulizia di foglie e detriti da grondaie e pluviali
-- controllo di tegole smosse o rotte
-- trattamento antimuschio sulle superfici pulite
+- rimozione di muschio, licheni e alghe dal manto
+- trattamento biocida e protettivo idrorepellente
+- pulizia di grondaie, compluvi e canali
+- sostituzione dei coppi rotti nello stesso intervento
 
-## Perché su fune
+## Come lavoriamo a Viterbo
 
-Senza appoggiarci al manto non rompiamo coppi e tegole, e non serve nessun ponteggio.
+1. Sopralluogo gratuito e foto del tetto, con segnalazione dei coppi rotti.
+2. Trattamento biocida a bassa pressione e tempo di posa.
+3. Rimozione delicata con pressione controllata e pulizia delle grondaie.
+4. Protettivo idrorepellente, se serve, e foto finali.
+
+## Quando conviene
+
+Conviene intervenire quando il muschio inizia a coprire le falde e prima che le grondaie si ostruiscano: il gelo e l'umidità fanno il resto.
 
 ## Per saperne di più
 

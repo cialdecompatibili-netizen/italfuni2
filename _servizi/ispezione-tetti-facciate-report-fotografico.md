@@ -15,30 +15,58 @@ faq:
     a: "No. È un controllo visivo con documentazione fotografica. Per valutazioni strutturali serve un tecnico abilitato, con cui collaboriamo volentieri."
   - q: "Se trovate problemi, intervenite voi?"
     a: "Se vuoi sì, con un preventivo a parte. Il report puoi comunque usarlo anche per chiedere altri preventivi."
+  - q: "Quanto dura l'ispezione?"
+    a: "Per un edificio di dimensioni normali bastano poche ore su fune; dipende da altezza, accessi e numero di fronti. Il report lo consegniamo nei tempi concordati dopo il sopralluogo."
+  - q: "Posso usare il report con l'assicurazione?"
+    a: "Le foto datate dei danni aiutano a documentare l'evento, ma l'esito dipende dalla polizza e dalla perizia dell'assicurazione: noi forniamo la documentazione fotografica."
 ---
 
-Prima di decidere un lavoro conviene sapere **in che condizioni è davvero l'edificio**. Ci caliamo **su fune, senza ponteggio**, controlliamo da vicino tetto, cornicioni, facciata e grondaie e ti consegniamo un **report con foto**: dove ci sono problemi, quanto sono urgenti e cosa serve fare. Dove le condizioni lo permettono aggiungiamo riprese con drone.
+Prima di spendere migliaia di euro su un tetto o una facciata conviene sapere **cosa c'è davvero da fare e cosa può aspettare**. L'ispezione su fune porta un tecnico a pochi centimetri da coppi, cornicioni, grondaie e intonaci: ogni punto critico viene fotografato, localizzato e classificato per urgenza.
+
+Il risultato è un **report fotografico** che puoi usare per decidere, per confrontare preventivi, per l'assemblea di condominio o per documentare lo stato di un immobile. Lavoriamo **senza ponteggio**, quindi il controllo si fa in poche ore e costa poco.
 
 {% include servizio-cta.html tipo="mini" %}
 
-## Cosa facciamo
+## Perché dal basso non basta
 
-- manto di copertura, coppi o tegole smosse, colmi e comignoli
-- cornicioni, frontalini e balconi con intonaco che si stacca
-- grondaie, pluviali e scossaline
-- crepe e infiltrazioni visibili in facciata
+Da terra si vede poco. Un binocolo o un drone mostrano l'insieme, ma non le crepe sottili, i coppi che si muovono sotto il piede, l'intonaco che suona a vuoto o la scossalina staccata. Molti danni partono da dettagli piccoli: un coppo scivolato di pochi centimetri lascia entrare acqua per anni, prima che la macchia compaia sul soffitto. Con la fune arriviamo ovunque, da vicino.
 
-## Cosa ricevi
+## Cosa controlliamo
 
-Un report con **foto dei punti critici**, una breve descrizione di ogni problema e un ordine di priorità: urgente, da programmare, da tenere d'occhio. È utile all'amministratore, a chi compra o vende un immobile e a chi deve chiedere più preventivi con le idee chiare.
+- **manto di copertura**: coppi e tegole rotti, smossi o mancanti, colmi, compluvi e displuvi
+- **comignoli, sfiati e lucernari**: malte ammalorate, cappelli, guarnizioni, raccordi
+- **grondaie, pluviali e scossaline**: ostruzioni, giunti aperti, staffe cedute, ruggine
+- **cornicioni, frontalini e balconi**: intonaco che suona a vuoto, ferri a vista, distacchi
+- **facciata**: crepe, fessurazioni, efflorescenze, macchie di umidità
+- **presenze indesiderate**: nidi, guano, vegetazione, muschio
+- **sicurezza**: ancoraggi e linee vita presenti sul tetto, se ci sono
 
-## Perché farla su fune
+## Come si svolge
 
-Vedere un cornicione a distanza non basta: da vicino si notano crepe, distacchi e infiltrazioni che dal basso non si vedono. Con la fune arriviamo ovunque **senza montare ponteggi**, quindi il controllo costa poco e si fa in poche ore.
+1. **Sopralluogo gratuito**: capiamo cosa ti serve (compravendita, condominio, danni da maltempo, controllo generale).
+2. **Ispezione su doppia fune** con foto ravvicinate di ogni punto critico. Dove le condizioni e le regole sul volo lo permettono, aggiungiamo riprese con drone per la visione d'insieme.
+3. **Report**: foto numerate, posizione sul prospetto, descrizione del problema, priorità e tipo di intervento consigliato.
+4. **Confronto**: lo guardiamo insieme. Se vuoi, ti facciamo anche un preventivo per i lavori, separato dal report.
 
-## Perché su fune
+## Cosa contiene il report
 
-Da vicino si vedono distacchi e crepe che dal basso passano inosservati, senza il costo di un ponteggio.
+- **foto numerate e localizzate** (quale falda, quale balcone, quale cornicione)
+- una **descrizione breve** di ogni problema, scritta per essere capita anche da chi non è del mestiere
+- una **priorità** per ogni voce: urgente (pericolo di caduta o acqua che entra), da programmare nei prossimi mesi, da tenere sotto controllo
+- l'**indicazione di massima dell'intervento** necessario
+- le note su cosa conviene far verificare a un tecnico abilitato
+
+## A chi serve
+
+- **Condomini e amministratori**: per decidere in assemblea con le foto in mano, non a sensazione.
+- **Chi compra o vende un immobile**: per conoscere o documentare lo stato di tetto e facciate.
+- **Dopo grandine, vento o temporali**: le foto datate aiutano a documentare i danni per l'amministratore o l'assicurazione (l'esito dipende dalla polizza e dalla perizia).
+- **Prima di un lavoro importante**: per capire se serve rifare tutto o basta un intervento mirato, e chiedere più preventivi sullo stesso documento.
+- **Parrocchie ed enti** con budget da pianificare nel tempo.
+
+## Cosa non è
+
+L'ispezione è un **controllo visivo documentato**: non sostituisce la perizia statica, il collaudo o la verifica degli impianti. Se emerge un dubbio sulla struttura ti indichiamo di coinvolgere un tecnico abilitato, e il nostro report diventa il materiale di partenza per il suo lavoro.
 
 ## Servizi collegati
 

@@ -15,34 +15,51 @@ faq:
     a: "Sì. Ti prepariamo un preventivo scritto con interventi e scadenze, utile all'amministratore da presentare in assemblea."
   - q: "Il prezzo è fisso?"
     a: "Il preventivo indica il costo di ogni intervento previsto. I lavori non previsti li concordiamo prima di eseguirli, senza sorprese."
+  - q: "Serve un contratto annuale?"
+    a: "No: puoi partire con un singolo controllo e decidere dopo. Se preferisci un programma ricorrente lo mettiamo per iscritto, con voci e importi chiari."
+  - q: "Chi decide gli interventi?"
+    a: "Gli interventi sulle parti comuni si decidono in assemblea o dall'amministratore nei limiti del suo mandato. Noi forniamo preventivo e documentazione chiari; la decisione resta al condominio."
 ---
 
-Aspettare che una grondaia si intasi o che il tetto perda acqua costa più che prevenire. Con la **manutenzione programmata** concordiamo con l'amministratore pochi interventi l'anno, a date fisse, **su fune e senza ponteggio**: grondaie e pluviali, controllo di tetto e cornicioni, pulizia di vetri e pannelli.
+Tetto, grondaie e facciate di un condominio non si guardano finché non c'è un problema: una macchia in un appartamento, una grondaia che trabocca, un pezzo di cornicione che cade. Con una **manutenzione programmata** l'emergenza diventa un calendario: pochi controlli ben fatti, documentati, e lavori scelti con calma.
+
+Lavoriamo **su fune, senza ponteggio**, quindi anche i controlli periodici restano leggeri per il bilancio condominiale.
 
 {% include servizio-cta.html tipo="mini" %}
 
-## Cosa facciamo
+## Cosa include il programma
 
-- grondaie e pluviali prima della stagione delle piogge
-- controllo visivo di tetto, comignoli e cornicioni
-- pulizia di vetri e vetrate
-- pulizia dei pannelli fotovoltaici
-- piccole riparazioni segnalate durante i controlli
+- **grondaie e pluviali**: pulizia in autunno dopo la caduta delle foglie e, se serve, in primavera
+- **tetto**: controllo di manto, colmi e scossaline, anche dopo temporali e grandinate forti
+- **cornicioni, frontalini e balconi**: verifica di intonaci e distacchi
+- **comignoli e canne fumarie**: controllo visivo di cappelli e malte
+- **nidi e guano**: monitoraggio e interventi prima che il problema cresca
+- **linee vita**: promemoria per le scadenze delle ispezioni
+- **lucernari e terrazzi condominiali**: sigillature e scarichi
 
-## Perché conviene a un condominio
+## Perché conviene
 
-Interventi pianificati significano **meno urgenze** e nessun ponteggio da montare ogni volta. L'amministratore ha un preventivo chiaro per tutto l'anno e può presentarlo in assemblea, invece di trovarsi davanti a un'emergenza.
+- **Spese prevedibili**: interventi piccoli e programmati costano meno dell'urgenza dopo un danno.
+- **Documentazione**: ogni visita lascia un report con foto, utile in assemblea e per lo storico del fabbricato.
+- **Meno discussioni**: le infiltrazioni sono tra le cause più frequenti di litigio tra vicini. Sapere da dove nascono aiuta a chiarire (il tetto è in genere parte comune dell'edificio, art. 1117 del Codice civile).
+- **Nessun ponteggio** e nessuna occupazione di suolo pubblico.
 
 ## Come funziona
 
-1. **Sopralluogo gratuito** e controllo dell'edificio.
-2. **Piano su misura** con interventi e scadenze.
-3. **Preventivo unico**, con il costo di ogni intervento.
-4. Dopo ogni uscita, un **breve report con foto**.
+1. **Sopralluogo gratuito** con l'amministratore.
+2. **Proposta scritta** con voci, cadenze e importi per ogni intervento, senza obbligo di contratti lunghi.
+3. **Visite concordate**, ognuna con report fotografico.
+4. **Segnalazioni intermedie**: se vediamo qualcosa di urgente lo comunichiamo subito, con foto.
 
-## Perché su fune
+## Un calendario tipo
 
-Niente ponteggi da montare e smontare a ogni intervento: le uscite diventano rapide e prevedibili.
+- **Autunno**: pulizia di grondaie e pluviali e controllo del tetto prima delle piogge.
+- **Primavera**: verifica dopo l'inverno (gelo, vento) su cornicioni, balconi e facciate.
+- **Dopo eventi eccezionali**: controllo su richiesta, con foto dei punti colpiti.
+
+## Per l'assemblea
+
+Possiamo preparare una **relazione fotografica breve** da allegare all'ordine del giorno, con priorità e voci di spesa separate, così l'assemblea decide sui dati e non a sensazione.
 
 ## Servizi collegati
 

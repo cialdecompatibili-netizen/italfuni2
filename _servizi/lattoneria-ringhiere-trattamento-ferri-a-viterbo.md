@@ -26,19 +26,25 @@ Grondaie, ringhiere o parapetti rovinati a **Viterbo**? Facciamo **lattoneria e 
 
 {% include servizio-cta.html tipo="mini" %}
 
-A Viterbo lavoriamo su edifici di questo tipo: il centro storico, le case in pietra e i tetti in coppi della Tuscia.
+Lavoriamo a **Viterbo** e in provincia, dal capoluogo ai paesi del lago di Bolsena e dei Cimini. Con inverni umidi e freddi, grondaie, scossaline e ferri sono i primi a risentirne: giunti che si aprono, staffe che cedono, ringhiere che arrugginiscono. Ripariamo e trattiamo sul posto, in quota, senza montare impalcature. Tra il centro storico medievale, con vicoli stretti e murature in pietra, i borghi della Tuscia e le case sparse in campagna, ogni edificio ha esigenze diverse: per questo partiamo sempre da un sopralluogo gratuito.
 
 ## Cosa facciamo
 
-- riparazione e sostituzione di grondaie, pluviali e scossaline
-- sigillatura di giunti e raccordi che perdono
-- carteggiatura e trattamento di ferri e ringhiere arrugginiti
-- verniciatura protettiva di parapetti, ringhiere e inferriate
-- controllo dei fissaggi di balconi e parapetti
+- grondaie, pluviali e scossaline: giunti, staffe, raccordi
+- comignoli, cappelli e bordi di terrazzi
+- ringhiere, cancelli e parapetti con ruggine
+- trattamento antiruggine e finitura con smalto per esterni
 
-## Perché su fune
+## Come lavoriamo a Viterbo
 
-Lattoneria, ferri e tinteggiatura si fanno nella stessa uscita, senza ponteggi da montare tra un lavoro e l'altro.
+1. Sopralluogo gratuito e foto dei punti da trattare o riparare.
+2. Pulizia e rimozione della ruggine fino al metallo sano.
+3. Antiruggine, sigillatura dei raccordi e riparazione della lattoneria.
+4. Finitura per esterni e foto prima e dopo.
+
+## Quando conviene
+
+Conviene intervenire quando la ruggine è ancora superficiale e le lattonerie hanno solo piccoli giochi: si risolve con un trattamento, senza sostituire il pezzo.
 
 ## Per saperne di più
 

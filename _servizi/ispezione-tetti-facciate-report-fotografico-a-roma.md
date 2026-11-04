@@ -26,18 +26,25 @@ Vuoi sapere in che stato è il tetto o la facciata del tuo edificio a **Roma**? 
 
 {% include servizio-cta.html tipo="mini" %}
 
-A Roma controlliamo edifici di ogni tipo: condomini e palazzi di ogni epoca, dal centro storico alle periferie.
+Lavoriamo a **Roma** e in provincia, dal centro storico alla periferia e ai Castelli Romani. Con acquazzoni autunnali e vento, un controllo su fune prima della stagione critica aiuta a trovare coppi smossi e giunti aperti prima che l'acqua entri. Il report con foto ti dà un documento chiaro da portare in assemblea, a un tecnico o a chi deve fare i lavori. Tra palazzi di fine Ottocento, condomini del Novecento e un centro storico fatto di cornicioni, coppi e terrazze a tetto, ogni edificio ha esigenze diverse: per questo partiamo sempre da un sopralluogo gratuito.
 
 ## Cosa facciamo
 
-- manto di copertura, coppi o tegole smosse, colmi e comignoli
+- manto di copertura, coppi e tegole smosse, colmi e comignoli
 - cornicioni, frontalini e balconi con intonaco che si stacca
 - grondaie, pluviali e scossaline
-- crepe e infiltrazioni visibili in facciata
+- crepe e infiltrazioni visibili in facciata, con report e foto numerate
 
-## Perché su fune
+## Come lavoriamo a Roma
 
-Da vicino si vedono distacchi e crepe che dal basso passano inosservati, senza il costo di un ponteggio.
+1. Sopralluogo gratuito e chiarimento dell'obiettivo (condominio, compravendita, maltempo).
+2. Ispezione su doppia fune con foto ravvicinate di ogni punto critico.
+3. Report con foto numerate, descrizione e priorità: urgente, da programmare, da tenere d'occhio.
+4. Confronto insieme e, se vuoi, preventivo a parte per i lavori.
+
+## Quando conviene
+
+L'ispezione conviene prima di un lavoro importante, dopo un temporale forte o quando serve un documento chiaro da portare in assemblea o a chi deve fare i preventivi.
 
 ## Per saperne di più
 

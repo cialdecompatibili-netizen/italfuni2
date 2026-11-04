@@ -1,4 +1,4 @@
-﻿---
+---
 permalink: /verifica-periodica-linee-vita-a-viterbo/
 redirect_from:
   - /servizi/verifica-periodica-linee-vita-a-viterbo/
@@ -26,18 +26,25 @@ Hai una **linea vita a Viterbo** e non sai quando è stata controllata? La **ver
 
 {% include servizio-cta.html tipo="mini" %}
 
-A Viterbo verifichiamo linee vita su edifici civili e aziendali: il centro storico, le case in pietra e i tetti in coppi della Tuscia.
+Lavoriamo a **Viterbo** e in provincia, dal capoluogo ai paesi del lago di Bolsena e dei Cimini. Condomini, aziende e privati della zona hanno impianti montati in anni diversi, spesso senza documentazione a portata di mano, tra il centro storico medievale, con vicoli stretti e murature in pietra, i borghi della Tuscia e le case sparse in campagna. Controlliamo ancoraggi, cavo e fissaggi su fune e ti lasciamo un report scritto da tenere nel fascicolo dell'edificio.
 
 ## Cosa facciamo
 
-- stato di ancoraggi, piastre e fissaggi alla copertura
-- cavo, tenditori e morsetti
-- documentazione e targhe dell'impianto
-- segni di corrosione, urti o allentamenti
+- ancoraggi, piastre e fissaggi alla struttura
+- cavo, tenditori, assorbitori e morsetti
+- marcature, documenti e percorso di accesso
+- report con foto ed esito per ogni elemento
 
-## Perché su fune
+## Come lavoriamo a Viterbo
 
-Sul tetto serve un controllo accurato punto per punto: con la fune arriviamo agli ancoraggi senza ponteggio.
+1. Sopralluogo gratuito e richiesta dei documenti dell'impianto.
+2. Ispezione su fune di ancoraggi, cavo e fissaggi, con foto.
+3. Report scritto con esito per ogni elemento: in ordine, da riparare, da sostituire.
+4. Indicazione della prossima scadenza di controllo.
+
+## Quando conviene
+
+Conviene controllare l'impianto prima di ogni lavoro in copertura e comunque alle scadenze indicate dal manuale, di norma entro due anni.
 
 ## Per saperne di più
 

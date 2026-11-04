@@ -1,4 +1,4 @@
-﻿---
+---
 layout: single
 title: "Verifica periodica delle linee vita"
 description: "Controllo di ancoraggi e linee vita già installate, con report finale."
@@ -15,33 +15,47 @@ faq:
     a: "Sì, se l'impianto è accessibile e la documentazione è disponibile o ricostruibile. Il sopralluogo gratuito serve proprio a capirlo."
   - q: "Quanto costa?"
     a: "Dipende dal numero di ancoraggi e dalla lunghezza del percorso. Mandaci una foto del tetto e il numero di punti, ti diamo un prezzo chiaro."
+  - q: "Cosa si fa dopo una caduta?"
+    a: "Dopo l'arresto di una caduta l'impianto non va più usato finché non è stato ispezionato. Chiamaci o chiama l'installatore."
+  - q: "Mi rilasciate un certificato?"
+    a: "Ti lasciamo un report con foto ed esito dei controlli. La forma del rapporto di ispezione e chi deve firmarlo dipendono dall'impianto e dalla norma: lo chiariamo prima di partire."
 ---
 
-Una **linea vita** non è un impianto da installare e dimenticare: ancoraggi, cavi e fissaggi vanno **controllati nel tempo**, secondo le indicazioni del produttore e della normativa. Facciamo la verifica **su fune, senza ponteggio**, anche sulle linee installate da altri, e ti lasciamo un **report scritto**.
+Una **linea vita** protegge chi sale sul tetto per un controllo, una pulizia o una riparazione, ma solo se è integra e se qualcuno l'ha controllata nel tempo. Ancoraggi che si corrodono, fissaggi che si allentano, cavi con tensione sbagliata: non si vedono dal basso e non si notano finché non serve.
+
+Facciamo la **verifica periodica su fune**, anche sugli impianti montati da altri, e ti lasciamo un **report scritto** con foto.
 
 {% include servizio-cta.html tipo="mini" %}
 
-## Cosa facciamo
+## Ogni quanto va controllata
 
-- stato di ancoraggi, piastre e fissaggi alla copertura
-- cavo, tenditori e morsetti
-- documentazione e targhe dell'impianto
-- segni di corrosione, urti o allentamenti
+Le schede dei produttori prevedono un'**ispezione periodica a intervalli non superiori a due anni**, in riferimento alla norma UNI 11560 (versione 2022, sui sistemi di ancoraggio in copertura). La scadenza esatta per il tuo impianto è scritta nel suo manuale. Inoltre, **dopo l'arresto di una caduta** l'impianto va ispezionato prima di riutilizzarlo.
 
-## Quando conviene farla
+## Cosa controlliamo
 
-- prima di far salire qualcuno sul tetto per lavori o manutenzione
-- alle scadenze indicate dal produttore
-- dopo un evento forte come grandine, vento o caduta di rami
-- quando acquisti o gestisci un edificio e non conosci lo stato dell'impianto
+- **ancoraggi e piastre**: corrosione, deformazioni, fissaggio alla struttura
+- **cavo, tenditori e assorbitori**: usura, tensione, segni di sollecitazione
+- **morsetti, bulloni e viteria**: serraggio e stato
+- **marcature e targhette**: leggibilità e corrispondenza con la documentazione
+- **percorso e accessi**: ostacoli e stato del tetto intorno agli ancoraggi
+- **documenti disponibili**: dichiarazione di conformità, manuale, report precedenti
 
-## Cosa ricevi
+## Il report
 
-Un **report con foto** e l'indicazione di cosa è a posto e cosa va sistemato. Se serve intervenire, ti facciamo un preventivo separato. Le prescrizioni della tua linea vita vanno sempre verificate sul manuale e sulla documentazione dell'impianto.
+Foto dei punti controllati, elenco delle anomalie e indicazione per ogni elemento: in ordine, da riparare, da sostituire. È il documento da conservare nel fascicolo dell'edificio e da mostrare a chi deve salire sul tetto.
 
-## Perché su fune
+## Chi può fare cosa
 
-Sul tetto serve un controllo accurato punto per punto: con la fune arriviamo agli ancoraggi senza ponteggio.
+La UNI 11560:2022 distingue installatori con competenze diverse (base, intermedio, avanzato) per montaggio, ispezione periodica e ispezione straordinaria. Prima del sopralluogo verifichiamo con te la documentazione dell'impianto e, se per il tuo sistema serve un tecnico con qualifica specifica o il produttore, **ti avvisiamo subito**.
+
+## Se la linea vita non c'è o è vecchia
+
+- **Se manca**: ne valutiamo l'installazione con te e con il progettista. Le regole sull'obbligo di installarla variano per regione e comune e dipendono dal tipo di intervento.
+- **Se è vecchia e senza documenti**: possiamo fare un'ispezione visiva e capire se la documentazione si può ricostruire. Per una verifica formale servono i documenti o un tecnico che li rifaccia.
+
+## Perché è importante anche per il condominio
+
+Chi sale sul tetto deve poter contare sull'impianto. In caso di incidente, l'assenza di una verifica documentata può diventare un problema per il proprietario o il gestore, e alcune polizze prevedono condizioni sulla manutenzione: conviene controllare le tue.
 
 ## Servizi collegati
 

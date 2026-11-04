@@ -26,19 +26,25 @@ Amministri o abiti in un condominio a **Viterbo**? Con la **manutenzione program
 
 {% include servizio-cta.html tipo="mini" %}
 
-A Viterbo il piano si adatta al tipo di edificio e alle scadenze dell'amministratore: il centro storico, le case in pietra e i tetti in coppi della Tuscia.
+Lavoriamo a **Viterbo** e in provincia, dal capoluogo ai paesi del lago di Bolsena e dei Cimini. Per condomini e amministratori della zona proponiamo un calendario semplice di controlli, pensato su inverni umidi e freddi: grondaie in autunno, verifica del tetto e delle facciate dopo l'inverno e interventi mirati dopo eventi eccezionali. Tra il centro storico medievale, con vicoli stretti e murature in pietra, i borghi della Tuscia e le case sparse in campagna, ogni edificio ha esigenze diverse: per questo partiamo sempre da un sopralluogo gratuito.
 
 ## Cosa facciamo
 
-- grondaie e pluviali prima della stagione delle piogge
-- controllo visivo di tetto, comignoli e cornicioni
-- pulizia di vetri e vetrate
-- pulizia dei pannelli fotovoltaici
-- piccole riparazioni segnalate durante i controlli
+- pulizia di grondaie e pluviali, due volte l'anno se serve
+- controllo di tetto, colmi e scossaline
+- verifica di cornicioni, frontalini e balconi
+- report fotografico dopo ogni visita
 
-## Perché su fune
+## Come lavoriamo a Viterbo
 
-Niente ponteggi da montare e smontare a ogni intervento: le uscite diventano rapide e prevedibili.
+1. Sopralluogo gratuito con l'amministratore.
+2. Proposta scritta con voci, cadenze e importi, senza obblighi lunghi.
+3. Visite concordate con report fotografico.
+4. Segnalazione immediata di eventuali urgenze, con foto.
+
+## Quando conviene
+
+Conviene partire prima dell'autunno con grondaie e tetto, e ripetere un controllo dopo l'inverno, così i lavori grossi si pianificano e non arrivano all'improvviso.
 
 ## Per saperne di più
 

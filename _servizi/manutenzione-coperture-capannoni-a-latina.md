@@ -26,18 +26,25 @@ Hai un capannone o un'azienda a **Latina** con la copertura da controllare? La *
 
 {% include servizio-cta.html tipo="mini" %}
 
-A Latina lavoriamo su coperture di aziende e immobili produttivi: gli edifici della città e della zona costiera, dove salsedine e vento consumano di più.
+Lavoriamo a **Latina** e in provincia, dal capoluogo ai centri del litorale e dell'Agro Pontino. Aziende e magazzini della zona hanno coperture ampie esposte a salsedine, umidità e vento del litorale: viti allentate, sormonti che si aprono, lucernari che invecchiano. Interveniamo sul tetto senza fermare l'attività e lasciamo un report con foto per il vostro piano di manutenzione. Tra gli edifici di fondazione degli anni Trenta, i condomini moderni e i centri della costa pontina, ogni edificio ha esigenze diverse: per questo partiamo sempre da un sopralluogo gratuito.
 
 ## Cosa facciamo
 
-- pulizia di canali di gronda e pluviali di grandi dimensioni
-- controllo di lucernari, lastre e sigillature
-- ricerca e riparazione di infiltrazioni
-- impermeabilizzazione di giunti e tratti di copertura
+- canali di gronda, bocchettoni e pluviali
+- lastre, pannelli, sormonti, viti e guarnizioni
+- lucernari, cupolini e raccordi
+- scossaline, colmi, sfiati e guaine
 
-## Perché su fune
+## Come lavoriamo a Latina
 
-Piazzali e accessi restano liberi e i tempi si accorciano, perché non c'è un ponteggio da montare.
+1. Sopralluogo e foto della copertura, con accessi e zone sensibili.
+2. Accordo su orari e perimetri per non fermare l'attività.
+3. Intervento su fune: pulizia, serraggio, sigillature, piccole sostituzioni.
+4. Report con foto per il piano di manutenzione.
+
+## Quando conviene
+
+Conviene pianificare i controlli due volte l'anno e dopo eventi forti: un canale pulito o una vite serrata costano molto meno di un danno alla merce.
 
 ## Per saperne di più
 

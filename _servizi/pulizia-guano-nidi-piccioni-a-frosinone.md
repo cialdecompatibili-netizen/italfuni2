@@ -1,4 +1,4 @@
-﻿---
+---
 permalink: /pulizia-guano-nidi-piccioni-a-frosinone/
 redirect_from:
   - /servizi/pulizia-guano-nidi-piccioni-a-frosinone/
@@ -26,18 +26,25 @@ Piccioni su cornicioni e balconi a **Frosinone**? Facciamo la **pulizia di guano
 
 {% include servizio-cta.html tipo="mini" %}
 
-A Frosinone il problema dei piccioni si vede soprattutto qui: palazzi, case e zone produttive di Frosinone e della Ciociaria.
+Lavoriamo a **Frosinone** e in provincia, dal capoluogo ai borghi della Ciociaria. Dove ci sono cornicioni, balconi e sottotetti, i piccioni trovano facilmente riparo, soprattutto tra il capoluogo, i borghi collinari della Ciociaria e le zone produttive della valle del Sacco. Interveniamo con protezioni adeguate e, dopo la pulizia, montiamo dissuasori adatti alla superficie, così non devi ripetere il lavoro ogni stagione.
 
 ## Cosa facciamo
 
-- rimozione di guano e nidi da cornicioni, balconi e davanzali
+- rimozione di guano e nidi da cornicioni, balconi e sottotetti
 - pulizia di grondaie e pluviali ostruiti
-- lavaggio e igienizzazione delle superfici sporche
-- dissuasori, reti o punte a seguire
+- controllo dei danni su metalli e pietra
+- dissuasori montati a pulizia finita
 
-## Perché su fune
+## Come lavoriamo a Frosinone
 
-Raggiungere cornicioni e sottogronda senza ponteggio abbassa il costo e permette di pulire e proteggere nella stessa uscita.
+1. Sopralluogo gratuito e foto delle zone interessate.
+2. Inumidimento e rimozione con tute, guanti e maschere FFP3.
+3. Pulizia e controllo delle superfici, raccolta in sacchi chiusi.
+4. Montaggio dei dissuasori adatti alla superficie.
+
+## Quando conviene
+
+Conviene intervenire prima che il guano ostruisca grondaie e pluviali, e sempre abbinare i dissuasori: senza, i piccioni tornano nel giro di poco.
 
 ## Per saperne di più
 
