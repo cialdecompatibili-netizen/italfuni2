@@ -12,7 +12,7 @@ categories:
   - servizi
 faq:
   - q: "Lavorate a Rieti e in provincia?"
-    a: "Sì, operiamo a Rieti e in tutta la provincia. Compila il modulo con indirizzo e tipo di intervento: ti diciamo subito se serve un sopralluogo e ti diamo un preventivo gratuito."
+    a: "Sì, operiamo a Rieti e in tutta la provincia. Mandaci su WhatsApp due o tre foto, l'indirizzo e il tipo di intervento: ti diciamo subito se serve un sopralluogo e ti diamo un preventivo gratuito."
   - q: "Quanto costa pulire i pannelli fotovoltaici?"
     a: "Dipende dal numero di pannelli, dall'accessibilità della copertura e dal tipo di sporco. Facciamo un sopralluogo gratuito e ti diamo un preventivo chiaro. Mandaci una foto dell'impianto e il numero di pannelli."
   - q: "Ogni quanto vanno puliti i pannelli?"
@@ -79,7 +79,7 @@ La pulizia dei pannelli fotovoltaici viene eseguita come per qualsiasi altra sup
 
 ## Preventivi gratuiti
 
-Avere informazioni o **richiedere un preventivo con sopralluogo gratuito** è facilissimo. Basterà compilare il modulo “preventivo gratuito” qui in alto.scattando delle foto ai pannelli fotovoltaici da pulire ed inviandola i nostri esperti potranno aiutarti immediatamente.
+Avere informazioni o **richiedere un preventivo con sopralluogo gratuito** è facilissimo. Basterà compilare il modulo “preventivo gratuito” qui in alto. Per velocizzare il tutto è possibile fare un preventivo gratuito anche tramite WhatsApp. scattando delle foto ai pannelli fotovoltaici da pulire ed inviandola i nostri esperti potranno aiutarti immediatamente.
 
 Se non sei di Rieti allora prova qui: pulizia pannelli fotovoltaici a [Roma]({{ '/pulizia-pannelli-fotovoltaici-su-fune-a-roma/' | relative_url }}) – [Latina]({{ '/pulizia-pannelli-fotovoltaici-su-fune-a-latina/' | relative_url }}) – [Frosinone]({{ '/pulizia-pannelli-fotovoltaici-su-fune-a-frosinone/' | relative_url }}) – [Viterbo]({{ '/pulizia-pannelli-fotovoltaici-a-viterbo/' | relative_url }}).
 

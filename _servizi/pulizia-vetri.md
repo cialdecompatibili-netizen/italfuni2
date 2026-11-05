@@ -2,7 +2,7 @@
 layout: single
 title: "Pulizia vetri e vetrate in quota su fune"
 description: "Vetrate, facciate vetrate e finestre in quota lavate dall'alto, senza piattaforme."
-seo_description: "Pulizia di vetri e facciate vetrate in quota su fune, senza piattaforme ingombranti. Sopralluogo gratuito. Scrivici dal modulo."
+seo_description: "Pulizia di vetri e facciate vetrate in quota su fune, senza piattaforme ingombranti. Sopralluogo gratuito. Scrivici su WhatsApp."
 foto: "pulizia-vetri-facciata-su-fune-giallo"
 ordine: 11
 in_home: true
@@ -91,7 +91,7 @@ Finestre, vetrate, tetti di vetro e lucernari, a qualsiasi altezza e in qualsias
 
 Si risparmia sul noleggio del ponteggio e sui tempi di montaggio e smontaggio. Il lavoro è più silenzioso, disturba meno e garantisce più privacy a chi è dentro. Per lo sporco ostinato usiamo macchinari rotanti e, per le superfici, niente sostanze chimiche dannose per l'ambiente.
 
-## Per un preventivo veloce, compila il modulo
+## Per un preventivo veloce, mandaci su WhatsApp
 
 - una foto della **facciata intera**
 - il **numero di piani** e, se lo sai, il tipo di vetrata (campo unico, finestre, serramenti)

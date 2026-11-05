@@ -12,7 +12,7 @@ categories:
   - servizi
 faq:
   - q: "Lavorate a Latina e in provincia?"
-    a: "Sì, operiamo a Latina e in tutta la provincia. Compila il modulo con indirizzo e tipo di intervento: ti diciamo subito se serve un sopralluogo e ti diamo un preventivo gratuito."
+    a: "Sì, operiamo a Latina e in tutta la provincia. Mandaci su WhatsApp due o tre foto, l'indirizzo e il tipo di intervento: ti diciamo subito se serve un sopralluogo e ti diamo un preventivo gratuito."
   - q: "Quanto costa pulire i pannelli fotovoltaici?"
     a: "Dipende dal numero di pannelli, dall'accessibilità della copertura e dal tipo di sporco. Facciamo un sopralluogo gratuito e ti diamo un preventivo chiaro. Mandaci una foto dell'impianto e il numero di pannelli."
   - q: "Ogni quanto vanno puliti i pannelli?"
@@ -69,7 +69,7 @@ La pulizia dei pannelli solari viene eseguita come per qualsiasi altra superfici
 
 Per informazioni o avere un **preventivo con sopralluogo gratuiti** è semplicissimo. Ti basterà compilare il **modulo preventivo** qui in alto e il gioco è fatto.
 
-
+Per velocizzare il tutto è possibile richiedere un preventivo gratuito anche tramite **WhatsApp** scattando delle foto ai vostri impianti da pulire.
 
 Non sei di Latina? Prova a leggere qui allora! Pulizia pannelli solari a [Roma]({{ '/pulizia-pannelli-fotovoltaici-su-fune-a-roma/' | relative_url }}) – [Frosinone]({{ '/pulizia-pannelli-fotovoltaici-su-fune-a-frosinone/' | relative_url }}) – [Rieti]({{ '/pulizia-pannelli-fotovoltaici-su-fune-a-rieti/' | relative_url }}) – [Viterbo]({{ '/pulizia-pannelli-fotovoltaici-a-viterbo/' | relative_url }}).
 

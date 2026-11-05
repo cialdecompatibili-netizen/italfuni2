@@ -12,7 +12,7 @@ categories:
   - servizi
 faq:
   - q: "Lavorate a Roma e in provincia?"
-    a: "Sì, operiamo a Roma e in tutta la provincia. Compila il modulo con indirizzo e tipo di intervento: ti diciamo subito se serve un sopralluogo e ti diamo un preventivo gratuito."
+    a: "Sì, operiamo a Roma e in tutta la provincia. Mandaci su WhatsApp due o tre foto, l'indirizzo e il tipo di intervento: ti diciamo subito se serve un sopralluogo e ti diamo un preventivo gratuito."
   - q: "Quanto costa montare un isolante o un cappotto su fune?"
     a: "Dipende dai metri quadrati, dall'altezza, dal tipo di isolante e dallo stato del supporto. Facciamo un sopralluogo gratuito e ti diamo un preventivo chiaro. Mandaci una foto della facciata e il numero di piani per una prima idea."
   - q: "È possibile fare un cappotto senza ponteggio?"
