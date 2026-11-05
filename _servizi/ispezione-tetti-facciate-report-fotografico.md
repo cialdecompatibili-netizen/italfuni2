@@ -10,7 +10,7 @@ categories:
   - servizi
 faq:
   - q: "Quanto costa l'ispezione?"
-    a: "Dipende dalle dimensioni e dall'accessibilità dell'edificio. Scrivici dal modulo e ti diamo un prezzo chiaro; il sopralluogo per impostarla è gratuito."
+    a: "Dipende dalle dimensioni e dall'accessibilità dell'edificio. Mandaci una foto su WhatsApp e ti diamo un prezzo chiaro; il sopralluogo per impostarla è gratuito."
   - q: "L'ispezione sostituisce una perizia tecnica?"
     a: "No. È un controllo visivo con documentazione fotografica. Per valutazioni strutturali serve un tecnico abilitato, con cui collaboriamo volentieri."
   - q: "Se trovate problemi, intervenite voi?"

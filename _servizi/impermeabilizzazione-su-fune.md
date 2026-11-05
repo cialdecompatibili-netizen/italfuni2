@@ -5,12 +5,12 @@ in_home: true
 title: "Impermeabilizzazione terrazzi, balconi e tetti su fune"
 date: 2026-09-17
 excerpt: "Impermeabilizzazione di terrazzi, balconi, tetti e cornicioni su fune: niente ponteggi, tempi rapidi, sopralluogo gratuito."
-seo_description: "Impermeabilizzazione di terrazzi, balconi e tetti su fune, senza ponteggio: guaine e membrane liquide contro le infiltrazioni. Sopralluogo gratuito: compila il modulo."
+seo_description: "Impermeabilizzazione di terrazzi, balconi e tetti su fune, senza ponteggio: guaine e membrane liquide contro le infiltrazioni. Sopralluogo gratuito su WhatsApp."
 categories:
   - servizi
 faq:
   - q: "Quanto costa impermeabilizzare un terrazzo o un tetto?"
-    a: "Dipende dai metri quadrati, dal materiale (guaina bituminosa o membrana liquida), dallo stato del supporto e dall'accessibilità. Facciamo un sopralluogo gratuito e ti diamo un preventivo chiaro. Compila il modulo per una prima idea."
+    a: "Dipende dai metri quadrati, dal materiale (guaina bituminosa o membrana liquida), dallo stato del supporto e dall'accessibilità. Facciamo un sopralluogo gratuito e ti diamo un preventivo chiaro. Mandaci 3 foto su WhatsApp per una prima idea."
   - q: "Come capisco se ho un'infiltrazione?"
     a: "Macchie o bolle sul soffitto, intonaco che si sfarina, muffa negli angoli, acqua stagnante dopo la pioggia e crepe su terrazzi e cornicioni sono i segnali più comuni. Meglio intervenire presto: costa molto meno di rifare un solaio."
   - q: "Guaina bituminosa o membrana liquida?"
@@ -82,7 +82,7 @@ La macchia sul soffitto spesso non è sotto il punto in cui entra l'acqua. Dopo 
 
 Le cause più comuni sono prodotti di bassa qualità, una sigillatura inadeguata della pavimentazione, una guaina difettosa o il semplice invecchiamento. Se l'acqua raggiunge il cemento, i ferri arrugginiscono e possono staccarsi pezzi di materiale: intervenire presto costa meno e mette in sicurezza lo stabile.
 
-## Per un preventivo veloce, compila il modulo
+## Per un preventivo veloce, mandaci su WhatsApp
 
 - 2 o 3 foto del **punto che perde** e della zona intorno
 - le **misure** approssimative e il tipo di superficie

@@ -5,7 +5,7 @@ redirect_from:
 layout: single
 title: "Canne fumarie: pulizia, riparazione e installazione"
 description: "Pulizia, ispezione e installazione di canne fumarie dalla copertura, senza ponteggi."
-seo_description: "Pulizia, ispezione, riparazione e installazione di canne fumarie su fune e senza ponteggio. Sopralluogo gratuito: compila il modulo."
+seo_description: "Pulizia, ispezione, riparazione e installazione di canne fumarie su fune e senza ponteggio. Sopralluogo gratuito su WhatsApp."
 ordine: 4
 in_home: true
 categories:
@@ -14,7 +14,7 @@ faq:
   - q: "Ogni quanto va pulita la canna fumaria?"
     a: "Dipende dal combustibile e dalle istruzioni del costruttore dell'apparecchio. Per legna e pellet di norma una volta l'anno, prima dell'inizio della stagione di riscaldamento. Per caldaie a gas o altri combustibili fai riferimento al libretto dell'impianto. Se non sei sicuro, scrivici: ti aiutiamo a capire."
   - q: "Quanto costa pulire una canna fumaria su fune?"
-    a: "Il prezzo dipende da altezza, numero di canne, accessibilità del tetto e stato di sporco. Facciamo un sopralluogo gratuito e ti diamo un preventivo chiaro prima di iniziare. Per un'idea veloce compila il modulo una foto del comignolo e del tetto."
+    a: "Il prezzo dipende da altezza, numero di canne, accessibilità del tetto e stato di sporco. Facciamo un sopralluogo gratuito e ti diamo un preventivo chiaro prima di iniziare. Per un'idea veloce mandaci su WhatsApp una foto del comignolo e del tetto."
   - q: "Devo far salire qualcuno in casa?"
     a: "Di norma lavoriamo dall'alto, dalla copertura. In alcuni casi può servire accedere al locale dell'apparecchio per un controllo: lo concordiamo prima."
   - q: "Installate anche canne fumarie nuove?"
@@ -61,7 +61,7 @@ Nella canna si depositano polveri, ceneri e catrami sotto forma di fuliggine. Se
 
 Per installare bene una canna fumaria conta il tiraggio già in fase di progetto: i fumi devono uscire all'esterno in sicurezza. Prima del lavoro facciamo una verifica di fattibilità e possiamo programmare insieme le pulizie periodiche, per evitare interventi urgenti e costosi.
 
-## Per un preventivo veloce, compila il modulo
+## Per un preventivo veloce, mandaci su WhatsApp
 
 - una foto del **comignolo e del tetto** (anche da terra, con lo zoom)
 - che cosa è collegato: **stufa a legna, pellet, caldaia, camino**

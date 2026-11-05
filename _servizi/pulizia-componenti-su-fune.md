@@ -2,7 +2,7 @@
 layout: single
 title: "Pulizia insegne e cornicioni su fune"
 description: "Pulizia mirata di insegne, cornicioni e altri elementi in quota, senza strutture temporanee."
-seo_description: "Pulizia di insegne, cornicioni, balconi e facciate su fune, senza ponteggio né piattaforma. Sopralluogo gratuito. Scrivici dal modulo."
+seo_description: "Pulizia di insegne, cornicioni, balconi e facciate su fune, senza ponteggio né piattaforma. Sopralluogo gratuito. Scrivici su WhatsApp."
 ordine: 9
 in_home: true
 categories:
@@ -64,7 +64,7 @@ Non ci limitiamo a svuotare: verifichiamo il corretto funzionamento di tutte le 
 
 Possiamo concordare pulizie periodiche in quota con un contratto di manutenzione ordinaria, così non si arriva all'emergenza. Per le situazioni urgenti, come un pluviale otturato in piena stagione di pioggia, cerchiamo di intervenire il prima possibile.
 
-## Per un preventivo veloce, compila il modulo
+## Per un preventivo veloce, mandaci su WhatsApp
 
 - una foto di **cosa va pulito**
 - l'**altezza** approssimativa o il numero di piani

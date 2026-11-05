@@ -2,7 +2,7 @@
 layout: single
 title: "Installazione linee vita e sistemi di sicurezza su fune"
 description: "Montaggio di linee vita e ancoraggi certificati per lavorare in quota in sicurezza."
-seo_description: "Montaggio e installazione di linee vita e ancoraggi su tetti e coperture, eseguiti su fune con documentazione dell'intervento. Sopralluogo gratuito: compila il modulo."
+seo_description: "Montaggio e installazione di linee vita e ancoraggi su tetti e coperture, eseguiti su fune con documentazione dell'intervento. Sopralluogo gratuito su WhatsApp."
 ordine: 6
 in_home: true
 categories:
@@ -60,7 +60,7 @@ Prima di lavorare facciamo un sopralluogo tecnico e prepariamo il piano operativ
 
 Risolviamo problemi di accesso complessi, dove i metodi tradizionali sono impraticabili o troppo costosi. Spesso si evitano così noleggi di gru e chiusure stradali, con meno tempo e meno spese in cantiere.
 
-## Per un preventivo veloce, compila il modulo
+## Per un preventivo veloce, mandaci su WhatsApp
 
 - una foto del **tetto** (anche da terra o da una finestra)
 - il tipo di copertura e le **misure** approssimative

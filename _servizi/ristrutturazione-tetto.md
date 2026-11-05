@@ -2,7 +2,7 @@
 layout: single
 title: "Ristrutturazione e rifacimento tetto su fune"
 description: "Dalla sostituzione di poche tegole al rifacimento completo della copertura, su fune e senza ponteggio."
-seo_description: "Ristrutturazione tetto su fune, dalle tegole al rifacimento completo, senza ponteggi né piattaforme aeree. Sopralluogo gratuito: compila il modulo."
+seo_description: "Ristrutturazione tetto su fune, dalle tegole al rifacimento completo, senza ponteggi né piattaforme aeree. Sopralluogo gratuito su WhatsApp."
 ordine: 13
 in_home: true
 date: 2026-09-17
@@ -62,7 +62,7 @@ Il tetto ripara dalle intemperie, isola e tiene l'ambiente sano. Se è fatto a r
 
 Possiamo sostituire una singola tegola come rifare tutta la copertura, cambiare travi pericolanti, rimuovere materiale a rischio caduta o sistemare grondaie danneggiate. Prima di lavorare installiamo linee vita e punti di ancoraggio, poi preventivo dopo il sopralluogo gratuito.
 
-## Per un preventivo veloce, compila il modulo
+## Per un preventivo veloce, mandaci su WhatsApp
 
 - 2 o 3 foto del **tetto** e dei punti con problemi
 - la **superficie** approssimativa e il tipo di copertura

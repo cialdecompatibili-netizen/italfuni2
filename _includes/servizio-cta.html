@@ -5,13 +5,12 @@
     testo="..."   -> frase della striscia mini (facoltativa)
   Il messaggio WhatsApp parte gia' compilato con il nome del servizio.
 {%- endcomment -%}
-{%- assign sv_t = page.title | url_encode -%}
-{%- assign sv_form = "/contatti/?servizio=" | append: sv_t | append: "#cf-form" | relative_url -%}
+{%- assign sv_msg = "Buongiorno, vorrei un sopralluogo gratuito e un preventivo per: " | append: page.title | append: "." -%}
+{%- assign sv_msg_enc = sv_msg | url_encode -%}
+{%- assign sv_wa = "https://wa.me/" | append: site.whatsapp | append: "?text=" | append: sv_msg_enc -%}
 {%- unless sv_css_done -%}
 <style>
 .sv-btn{display:inline-flex;align-items:center;justify-content:center;gap:.5rem;padding:.8rem 1.35rem;border-radius:10px;font-weight:700;font-size:1rem;line-height:1.2;text-decoration:none !important;border:2px solid transparent;cursor:pointer}
-.sv-btn--go{background:var(--t-accent,#8a6400);color:#fff !important}
-.sv-btn--go:hover{filter:brightness(1.1)}
 .sv-btn--wa{background:#25d366;color:#fff !important}
 .sv-btn--wa:hover{background:#1ebe5b}
 .sv-btn--tel{background:#fff;color:var(--t-accent,#8a6400) !important;border-color:var(--t-accent,#8a6400)}
@@ -36,16 +35,17 @@
 {%- endunless -%}
 {%- if include.tipo == "mini" -%}
 <div class="sv-mini">
-  <p>{{ include.testo | default: "Vuoi un sopralluogo gratuito? Compila il modulo: ti richiamiamo noi." }}</p>
-  <a class="sv-btn sv-btn--go" href="{{ sv_form }}">Richiedi sopralluogo gratuito</a>
+  <p>{{ include.testo | default: "Hai un dubbio o vuoi una risposta rapida? Scrivici due righe e una foto su WhatsApp." }}</p>
+  <a class="sv-btn sv-btn--wa" href="{{ sv_wa }}" target="_blank" rel="noopener">Scrivici su WhatsApp</a>
 </div>
 {%- else -%}
 <aside class="sv-cta" aria-label="Richiedi un preventivo">
-  <p class="sv-cta__title">Sopralluogo gratuito, preventivo chiaro</p>
-  <p>Compila il modulo: dicci cosa c'è da fare e dove. Ti richiamiamo per fissare il sopralluogo, senza impegno.</p>
+  <p class="sv-cta__title">Parliamone: sopralluogo gratuito, preventivo chiaro</p>
+  <p>Il modo più veloce è WhatsApp: scrivici cosa c'è da fare e allega 2 o 3 foto del punto (anche scattate da terra). Ti diciamo subito come procedere, senza impegno.</p>
   <div class="sv-cta__row">
-    <a class="sv-btn sv-btn--go" href="{{ sv_form }}">Richiedi sopralluogo gratuito</a>
-    <a class="sv-btn sv-btn--tel" href="tel:+{{ site.whatsapp }}">Oppure chiama</a>
+    <a class="sv-btn sv-btn--wa" href="{{ sv_wa }}" target="_blank" rel="noopener">Scrivici su WhatsApp</a>
+    <a class="sv-btn sv-btn--tel" href="tel:+{{ site.whatsapp }}">Chiama +39 328 197 0254</a>
+    <a class="sv-btn sv-btn--form" href="{{ '/contatti/' | relative_url }}">Preferisci il modulo?</a>
   </div>
   <p class="sv-cta__small">Rispondiamo entro 24 ore, festivi esclusi.</p>
 </aside>

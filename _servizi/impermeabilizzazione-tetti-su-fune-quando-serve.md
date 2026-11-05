@@ -5,7 +5,7 @@ in_home: false
 title: "Impermeabilizzazione tetti su fune: quando serve davvero"
 date: 2026-09-17
 excerpt: "Coperture difficili da raggiungere, ponteggi costosi o tempi stretti: ecco quando conviene impermeabilizzare un tetto su fune e quando no."
-seo_description: "Impermeabilizzare un tetto su fune o con ponteggio? Ti spieghiamo quando conviene e quando no, e come si svolge l'intervento. Sopralluogo gratuito: compila il modulo."
+seo_description: "Impermeabilizzare un tetto su fune o con ponteggio? Ti spieghiamo quando conviene e quando no, e come si svolge l'intervento. Sopralluogo gratuito su WhatsApp."
 categories:
   - servizi
 faq:
@@ -55,7 +55,7 @@ Per **coperture da rifare per intero** o lavorazioni pesanti (sostituzione di gr
 
 Leggi la pagina completa sull'[impermeabilizzazione su fune]({{ '/servizi/impermeabilizzazione-su-fune/' | relative_url }}) o scopri il servizio di [riparazione e pulizia grondaie]({{ '/servizi/manutenzione-e-sostituzione-grondaie/' | relative_url }}), spesso collegato alle infiltrazioni.
 
-## Per un preventivo veloce, compila il modulo
+## Per un preventivo veloce, mandaci su WhatsApp
 
 - 2 o 3 foto del **tetto** e del punto che perde
 - il **tipo di copertura** e la superficie approssimativa

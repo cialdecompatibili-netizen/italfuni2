@@ -12,9 +12,9 @@ categories:
   - servizi
 faq:
   - q: "Lavorate a Rieti e in provincia?"
-    a: "Sì, operiamo a Rieti e in tutta la provincia. Compila il modulo con indirizzo e tipo di intervento: ti diciamo subito se serve un sopralluogo e ti diamo un preventivo gratuito."
+    a: "Sì, operiamo a Rieti e in tutta la provincia. Mandaci su WhatsApp due o tre foto, l'indirizzo e il tipo di intervento: ti diciamo subito se serve un sopralluogo e ti diamo un preventivo gratuito."
   - q: "Quanto costa pulire o riparare una grondaia?"
-    a: "Dipende dalla lunghezza della gronda, dall'altezza dell'edificio, dalla quantità di detriti e dal numero di tratti da sostituire. Per questo facciamo un sopralluogo gratuito e ti diamo un preventivo chiaro prima di iniziare. Se ci scrivi dal modulo capiamo subito se basta una pulizia o serve altro."
+    a: "Dipende dalla lunghezza della gronda, dall'altezza dell'edificio, dalla quantità di detriti e dal numero di tratti da sostituire. Per questo facciamo un sopralluogo gratuito e ti diamo un preventivo chiaro prima di iniziare. Se ci mandi 3 foto su WhatsApp capiamo subito se basta una pulizia o serve altro."
   - q: "Ogni quanto vanno pulite le grondaie?"
     a: "Di solito dopo la caduta delle foglie, a fine autunno, e ogni volta che noti acqua che trabocca. Se hai alberi vicini, pini o uccelli che nidificano sul tetto, può servire più spesso. Dopo il primo intervento ti diciamo che cadenza ha senso per il tuo edificio."
   - q: "Serve il ponteggio per arrivare alla gronda?"

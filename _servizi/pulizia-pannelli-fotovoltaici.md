@@ -2,7 +2,7 @@
 layout: single
 title: "Pulizia pannelli fotovoltaici"
 description: "Pulizia dei pannelli su fune per mantenere alta la resa dell'impianto."
-seo_description: "Pulizia pannelli fotovoltaici su fune, anche su tetti inclinati o difficili: polvere, guano e residui riducono la resa dell'impianto. Sopralluogo gratuito: compila il modulo."
+seo_description: "Pulizia pannelli fotovoltaici su fune, anche su tetti inclinati o difficili: polvere, guano e residui riducono la resa dell'impianto. Sopralluogo gratuito su WhatsApp."
 ordine: 10
 in_home: true
 foto: "pulizia-pannelli-solari-su-fune"
@@ -61,7 +61,7 @@ Polline, escrementi di volatili, terra e foglie ostacolano l'assorbimento dei ra
 
 Usiamo **spazzole rotanti in microfibra**, non abrasive, e **acqua deionizzata**, senza detergenti: niente macchie, striature o aloni, e più rispetto per superfici e ambiente. Ci caliamo con la doppia fune, senza ponteggi.
 
-## Per un preventivo veloce, compila il modulo
+## Per un preventivo veloce, mandaci su WhatsApp
 
 - una foto dell'**impianto**
 - il **numero di pannelli** approssimativo

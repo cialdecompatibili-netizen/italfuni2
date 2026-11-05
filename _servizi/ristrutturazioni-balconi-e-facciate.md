@@ -2,7 +2,7 @@
 layout: single
 title: "Ristrutturazione balconi e facciate su fune"
 description: "Ristrutturazione e ripristino estetico e strutturale di balconi, facciate e coperture su fune."
-seo_description: "Ristrutturazione di balconi, frontalini e facciate su fune, senza ponteggio davanti alle finestre: meno costi e tempi. Sopralluogo gratuito: compila il modulo."
+seo_description: "Ristrutturazione di balconi, frontalini e facciate su fune, senza ponteggio davanti alle finestre: meno costi e tempi. Sopralluogo gratuito su WhatsApp."
 ordine: 12
 in_home: true
 categories:
@@ -66,7 +66,7 @@ Pioggia, smog e sole consumano nel tempo ogni superficie: oltre al danno estetic
 
 Rispettiamo i tempi concordati e lavoriamo con valutazione dei rischi del cantiere e personale formato. La sicurezza viene prima del resto.
 
-## Per un preventivo veloce, compila il modulo
+## Per un preventivo veloce, mandaci su WhatsApp
 
 - 2 o 3 foto dei **balconi o della facciata**
 - il **numero di piani** e quanti balconi sono interessati

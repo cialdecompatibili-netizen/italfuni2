@@ -2,7 +2,7 @@
 layout: single
 title: "Pulizia guano e nidi di piccioni"
 description: "Bonifica di guano e nidi su cornicioni, balconi e tetti, con dissuasori a seguire."
-seo_description: "Pulizia guano e nidi di piccioni su fune, senza ponteggio: bonifichiamo cornicioni, balconi e tetti e installiamo i dissuasori. Sopralluogo gratuito: compila il modulo."
+seo_description: "Pulizia guano e nidi di piccioni su fune, senza ponteggio: bonifichiamo cornicioni, balconi e tetti e installiamo i dissuasori. Sopralluogo gratuito su WhatsApp."
 ordine: 23
 in_home: true
 foto: "piccioni-guano-nido-grondaia-cornicione"
@@ -14,7 +14,7 @@ faq:
   - q: "Dopo la pulizia i piccioni tornano?"
     a: "Possono tornare se non si mette nulla. Per questo proponiamo dissuasori, reti o punte da montare nello stesso intervento, in base al tipo di cornicione o balcone."
   - q: "Quanto costa?"
-    a: "Dipende da quanto guano c'è e da quanto è difficile raggiungere il punto. Con il sopralluogo gratuito, o dal modulo, ti diamo un preventivo chiaro."
+    a: "Dipende da quanto guano c'è e da quanto è difficile raggiungere il punto. Con il sopralluogo gratuito, o con qualche foto su WhatsApp, ti diamo un preventivo chiaro."
   - q: "Quanto tempo ci vuole?"
     a: "Dipende dalla quantità e dalla zona: un balcone si risolve in poche ore, un cornicione lungo o un sottotetto richiede più tempo. Con qualche foto o un sopralluogo ti diamo una stima."
   - q: "Perché non usate l'idropulitrice?"

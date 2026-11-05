@@ -12,7 +12,7 @@ categories:
   - servizi
 faq:
   - q: "Lavorate a Frosinone e in provincia?"
-    a: "Sì, operiamo a Frosinone e in tutta la provincia. Compila il modulo con indirizzo e tipo di intervento: ti diciamo subito se serve un sopralluogo e ti diamo un preventivo gratuito."
+    a: "Sì, operiamo a Frosinone e in tutta la provincia. Mandaci su WhatsApp due o tre foto, l'indirizzo e il tipo di intervento: ti diciamo subito se serve un sopralluogo e ti diamo un preventivo gratuito."
   - q: "Quanto costa pulire i pannelli fotovoltaici?"
     a: "Dipende dal numero di pannelli, dall'accessibilità della copertura e dal tipo di sporco. Facciamo un sopralluogo gratuito e ti diamo un preventivo chiaro. Mandaci una foto dell'impianto e il numero di pannelli."
   - q: "Ogni quanto vanno puliti i pannelli?"
@@ -73,7 +73,7 @@ Riassumendo quindi, ci saranno solamente **vantaggi**:
 
 Risparmio e professionalità ma non solo. Se hai ancora qualche dubbio puoi tranquillamente contattarci per avere ulteriori informazioni.
 
-Inoltre **potrai richiedere un preventivo gratuito e senza impegno** con un sopralluogo incluso nel servizio.
+Inoltre **potrai richiedere un preventivo gratuito e senza impegno** con un sopralluogo incluso nel servizio. Per velocizzare tutto consigliamo di utilizzare Whatsapp scattando le foto dei pannelli solari da pulire inviandocele.
 
 Non sei della zona di Frosinone? Allora leggi qui: pulizia pannelli solari su fune a [Roma]({{ '/pulizia-pannelli-fotovoltaici-su-fune-a-roma/' | relative_url }}) – [Latina]({{ '/pulizia-pannelli-fotovoltaici-su-fune-a-latina/' | relative_url }}) – [Viterbo]({{ '/pulizia-pannelli-fotovoltaici-a-viterbo/' | relative_url }}) – [Rieti]({{ '/pulizia-pannelli-fotovoltaici-su-fune-a-rieti/' | relative_url }}).
 

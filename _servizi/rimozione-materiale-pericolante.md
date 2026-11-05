@@ -5,7 +5,7 @@ redirect_from:
 layout: single
 title: "Rimozione materiale pericolante e messa in sicurezza facciate"
 description: "Rimozione urgente di intonaco, cornicioni e materiale pericolante su fune."
-seo_description: "Messa in sicurezza facciate: rimuoviamo intonaco e materiale pericolante su fune, senza ponteggio. Sopralluogo gratuito: compila il modulo."
+seo_description: "Messa in sicurezza facciate: rimuoviamo intonaco e materiale pericolante su fune, senza ponteggio. Sopralluogo gratuito su WhatsApp."
 foto: "ripristino-facciata-cornicione-su-fune-andrew-arancione"
 ordine: 7
 in_home: true
@@ -15,7 +15,7 @@ faq:
   - q: "Quanto costa mettere in sicurezza una facciata?"
     a: "Dipende da quanta superficie è ammalorata, dall'altezza e dall'accessibilità. Facciamo un sopralluogo gratuito e ti diamo un preventivo chiaro. Mandaci subito delle foto dei distacchi e di dove sono."
   - q: "Quanto tempo ci vuole per intervenire?"
-    a: "Per le situazioni urgenti cerchiamo di fare il sopralluogo il prima possibile e di organizzare l'intervento nei tempi più brevi che la sicurezza e il meteo permettono. Scrivici dal modulo."
+    a: "Per le situazioni urgenti cerchiamo di fare il sopralluogo il prima possibile e di organizzare l'intervento nei tempi più brevi che la sicurezza e il meteo permettono. Scrivici su WhatsApp con le foto."
   - q: "Cosa facciamo nel frattempo per evitare pericoli?"
     a: "Se qualcosa si sta staccando, la prima cosa è tenere le persone lontane: transennare o segnalare la zona sotto il punto pericoloso e non passarci. Poi chiamaci con le foto."
   - q: "Chi risponde se cade un pezzo di facciata?"
@@ -26,7 +26,7 @@ faq:
 
 Intonaco che si stacca, cornicioni che si sbriciolano, frontalini di balconi con il ferro a vista: **sono un pericolo per chi passa sotto**. Interveniamo **su fune** per rimuovere le parti instabili e mettere in sicurezza la facciata, senza aspettare un ponteggio.
 
-{% include servizio-cta.html tipo="mini" testo="C'è un pericolo adesso? Scrivici subito dal modulo." %}
+{% include servizio-cta.html tipo="mini" testo="C'è un pericolo adesso? Mandaci subito delle foto su WhatsApp." %}
 
 ## I segnali da non ignorare
 
@@ -64,7 +64,7 @@ Se serve, delimitiamo temporaneamente l'area di lavoro e rimuoviamo le parti con
 
 Ti seguiamo in tutte le fasi, dalla valutazione iniziale alla pianificazione e al monitoraggio dell'avanzamento, con personale specializzato e dispositivi di protezione certificati UNI EN.
 
-## Per un intervento veloce, compila il modulo
+## Per un intervento veloce, mandaci su WhatsApp
 
 - 2 o 3 foto del **punto pericoloso**
 - l'**altezza** approssimativa e cosa c'è sotto (strada, cortile, ingresso)

@@ -12,9 +12,9 @@ faq:
   - q: "Dovete rifare tutto il tetto?"
     a: "Quasi mai. Spesso l'acqua entra da un punto preciso: una tegola, una scossalina, una grondaia. Cerchiamo quello e ripariamo solo ciò che serve, o ti spieghiamo con chiarezza se serve di più."
   - q: "Quanto costa cercare la perdita?"
-    a: "Il sopralluogo per capire come procedere è gratuito. Compila il modulo foto del soffitto bagnato e del tetto e ti diamo subito un'idea."
+    a: "Il sopralluogo per capire come procedere è gratuito. Mandaci su WhatsApp foto del soffitto bagnato e del tetto e ti diamo subito un'idea."
   - q: "Intervenite d'urgenza?"
-    a: "Scrivici dal modulo: ti diciamo quando riusciamo a intervenire e cosa fare nel frattempo per limitare il danno."
+    a: "Scrivici su WhatsApp con qualche foto: ti diciamo quando riusciamo a intervenire e cosa fare nel frattempo per limitare il danno."
   - q: "Come capisco se l'acqua viene dal tetto?"
     a: "Un indizio è che la macchia compare o si allarga dopo la pioggia e non quando usi l'acqua in casa. Per esserne sicuri bisogna guardare sul tetto: mandaci le foto e ti diciamo da dove partire."
   - q: "Fate anche impermeabilizzazioni?"
@@ -56,7 +56,7 @@ Il tetto è in genere parte comune, quindi il percorso passa dall'amministratore
 
 ## Se sta piovendo dentro adesso
 
-Sposta ciò che può bagnarsi, raccogli l'acqua e scrivici dal modulo (la macchia e, se la vedi, la zona di tetto sopra): ti diciamo cosa si può fare subito.
+Sposta ciò che può bagnarsi, raccogli l'acqua e mandaci due foto su WhatsApp (la macchia e, se la vedi, la zona di tetto sopra): ti diciamo cosa si può fare subito.
 
 ## Servizi collegati
 
