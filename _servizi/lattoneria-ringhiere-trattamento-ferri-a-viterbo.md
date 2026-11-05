@@ -13,7 +13,7 @@ categories:
   - servizi
 faq:
   - q: "Lavorate a Viterbo e in provincia?"
-    a: "Sì, operiamo a Viterbo e in tutta la provincia. Mandaci su WhatsApp due o tre foto, l'indirizzo e il tipo di intervento: ti diciamo subito se serve un sopralluogo e ti diamo un preventivo gratuito."
+    a: "Sì, operiamo a Viterbo e in tutta la provincia. Compila il modulo con indirizzo e tipo di intervento: ti diciamo subito se serve un sopralluogo e ti diamo un preventivo gratuito."
   - q: "Sostituite anche le grondaie?"
     a: "Sì, dalla riparazione di un tratto alla sostituzione completa di grondaie e pluviali. Dopo il sopralluogo ti diciamo cosa conviene."
   - q: "Trattate la ruggine su ringhiere e balconi?"

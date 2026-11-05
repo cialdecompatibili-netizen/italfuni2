@@ -13,7 +13,7 @@ categories:
   - servizi
 faq:
   - q: "Lavorate a Rieti e in provincia?"
-    a: "Sì, operiamo a Rieti e in tutta la provincia. Mandaci su WhatsApp due o tre foto, l'indirizzo e il tipo di intervento: ti diciamo subito se serve un sopralluogo e ti diamo un preventivo gratuito."
+    a: "Sì, operiamo a Rieti e in tutta la provincia. Compila il modulo con indirizzo e tipo di intervento: ti diciamo subito se serve un sopralluogo e ti diamo un preventivo gratuito."
   - q: "Lavorate anche su edifici vincolati?"
     a: "Possiamo intervenire sulle parti accessibili con tecniche poco invasive. Per gli edifici sottoposti a tutela, le autorizzazioni vanno richieste agli enti competenti: ti aiutiamo a capire cosa serve."
   - q: "Fate un preventivo per parrocchie ed enti?"

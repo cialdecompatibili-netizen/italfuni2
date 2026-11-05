@@ -12,7 +12,7 @@ categories:
   - servizi
 faq:
   - q: "Lavorate a Roma e in provincia?"
-    a: "Sì, operiamo a Roma e in tutta la provincia. Mandaci su WhatsApp due o tre foto, l'indirizzo e il tipo di intervento: ti diciamo subito se serve un sopralluogo e ti diamo un preventivo gratuito."
+    a: "Sì, operiamo a Roma e in tutta la provincia. Compila il modulo con indirizzo e tipo di intervento: ti diciamo subito se serve un sopralluogo e ti diamo un preventivo gratuito."
   - q: "Quanto costa pulire i pannelli fotovoltaici?"
     a: "Dipende dal numero di pannelli, dall'accessibilità della copertura e dal tipo di sporco. Facciamo un sopralluogo gratuito e ti diamo un preventivo chiaro. Mandaci una foto dell'impianto e il numero di pannelli."
   - q: "Ogni quanto vanno puliti i pannelli?"
@@ -71,7 +71,7 @@ I professionisti di **italfuni** inoltre, utilizzano prodotti non dannosi per l�
 
 Ricevere informazioni e richiedere un **preventivo gratuito e senza impegno** è facilissimo. Basterà infatti riempire il modulo in alto e il gioco è fatto.
 
-Tramite **WhatsApp** è ancora più facile ed intuitivo. Contattaci sul nostro numero inviando una foto del tuo impianto solare e un nostro esperto vi ricontatterà velocemente.
+Contattaci sul nostro numero inviando una foto del tuo impianto solare e un nostro esperto vi ricontatterà velocemente.
 
 Non sei a Roma o provincia, allora prova a leggere qui: pulizia impianti fotovoltaici a [Rieti]({{ '/pulizia-pannelli-fotovoltaici-su-fune-a-rieti/' | relative_url }}) – [Frosinone]({{ '/pulizia-pannelli-fotovoltaici-su-fune-a-frosinone/' | relative_url }}) – [Latina]({{ '/pulizia-pannelli-fotovoltaici-su-fune-a-latina/' | relative_url }}) – [Viterbo]({{ '/pulizia-pannelli-fotovoltaici-a-viterbo/' | relative_url }}).
 

@@ -12,11 +12,11 @@ categories:
   - servizi
 faq:
   - q: "Lavorate a Frosinone e in provincia?"
-    a: "Sì, operiamo a Frosinone e in tutta la provincia. Mandaci su WhatsApp due o tre foto, l'indirizzo e il tipo di intervento: ti diciamo subito se serve un sopralluogo e ti diamo un preventivo gratuito."
+    a: "Sì, operiamo a Frosinone e in tutta la provincia. Compila il modulo con indirizzo e tipo di intervento: ti diciamo subito se serve un sopralluogo e ti diamo un preventivo gratuito."
   - q: "Quanto costa mettere in sicurezza una facciata?"
     a: "Dipende da quanta superficie è ammalorata, dall'altezza e dall'accessibilità. Facciamo un sopralluogo gratuito e ti diamo un preventivo chiaro. Mandaci subito delle foto dei distacchi e di dove sono."
   - q: "Quanto tempo ci vuole per intervenire?"
-    a: "Per le situazioni urgenti cerchiamo di fare il sopralluogo il prima possibile e di organizzare l'intervento nei tempi più brevi che la sicurezza e il meteo permettono. Scrivici su WhatsApp con le foto."
+    a: "Per le situazioni urgenti cerchiamo di fare il sopralluogo il prima possibile e di organizzare l'intervento nei tempi più brevi che la sicurezza e il meteo permettono. Scrivici dal modulo."
   - q: "Cosa facciamo nel frattempo per evitare pericoli?"
     a: "Se qualcosa si sta staccando, la prima cosa è tenere le persone lontane: transennare o segnalare la zona sotto il punto pericoloso e non passarci. Poi chiamaci con le foto."
   - q: "Chi risponde se cade un pezzo di facciata?"

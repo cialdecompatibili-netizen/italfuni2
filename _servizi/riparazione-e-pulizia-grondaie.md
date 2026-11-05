@@ -5,7 +5,7 @@ redirect_from:
 layout: single
 title: "Pulizia e riparazione grondaie su fune"
 description: "Pulizia e riparazione di grondaie e pluviali dall'alto, senza ponteggi."
-seo_description: "Grondaie e pluviali intasati o rotti? Pulizia e riparazione su fune, senza ponteggio. Sopralluogo gratuito e preventivo chiaro su WhatsApp."
+seo_description: "Grondaie e pluviali intasati o rotti? Pulizia e riparazione su fune, senza ponteggio. Sopralluogo gratuito e preventivo chiaro: compila il modulo."
 foto: "pulizia-gronda-su-fune-scala"
 ordine: 2
 in_home: true
@@ -13,7 +13,7 @@ categories:
   - servizi
 faq:
   - q: "Quanto costa pulire o riparare una grondaia?"
-    a: "Dipende dalla lunghezza della gronda, dall'altezza dell'edificio, dalla quantità di detriti e dal numero di tratti da sostituire. Per questo facciamo un sopralluogo gratuito e ti diamo un preventivo chiaro prima di iniziare. Se ci mandi 3 foto su WhatsApp capiamo subito se basta una pulizia o serve altro."
+    a: "Dipende dalla lunghezza della gronda, dall'altezza dell'edificio, dalla quantità di detriti e dal numero di tratti da sostituire. Per questo facciamo un sopralluogo gratuito e ti diamo un preventivo chiaro prima di iniziare. Se ci scrivi dal modulo capiamo subito se basta una pulizia o serve altro."
   - q: "Ogni quanto vanno pulite le grondaie?"
     a: "Di solito dopo la caduta delle foglie, a fine autunno, e ogni volta che noti acqua che trabocca. Se hai alberi vicini, pini o uccelli che nidificano sul tetto, può servire più spesso. Dopo il primo intervento ti diciamo che cadenza ha senso per il tuo edificio."
   - q: "Serve il ponteggio per arrivare alla gronda?"
@@ -69,7 +69,7 @@ Foglie e detriti accumulati e un deflusso scorretto dell'acqua provocano nel tem
 
 In sopralluogo controlliamo da vicino canali e pluviali e indichiamo cosa serve in base a copertura e facciata. A fine lavoro facciamo una seconda ispezione sul tetto, per intervenire di nuovo se resta qualche otturazione. Si può lavorare tutto l'anno, salvo giornate di forte pioggia o vento.
 
-## Per un preventivo veloce, mandaci su WhatsApp
+## Per un preventivo veloce, compila il modulo
 
 - una foto dell'**edificio intero** da terra
 - una o due foto **ravvicinate** della gronda o del punto che perde

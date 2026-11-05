@@ -12,7 +12,7 @@ categories:
   - servizi
 faq:
   - q: "Lavorate a Roma e in provincia?"
-    a: "Sì, operiamo a Roma e in tutta la provincia. Mandaci su WhatsApp due o tre foto, l'indirizzo e il tipo di intervento: ti diciamo subito se serve un sopralluogo e ti diamo un preventivo gratuito."
+    a: "Sì, operiamo a Roma e in tutta la provincia. Compila il modulo con indirizzo e tipo di intervento: ti diciamo subito se serve un sopralluogo e ti diamo un preventivo gratuito."
   - q: "Quanto costa installare una linea vita?"
     a: "Dipende dalla copertura (tipo, pendenza, lunghezza del percorso), dal sistema scelto e dal numero di ancoraggi. Facciamo un sopralluogo gratuito e ti diamo un preventivo chiaro. Mandaci una foto del tetto e le misure approssimative per una prima idea."
   - q: "La linea vita è obbligatoria?"

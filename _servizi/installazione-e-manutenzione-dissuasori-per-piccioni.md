@@ -5,7 +5,7 @@ redirect_from:
 layout: single
 title: "Installazione e manutenzione dissuasori per piccioni"
 description: "Installazione e manutenzione di sistemi anti-volatili su cornicioni, balconi e tetti."
-seo_description: "Installazione e manutenzione dissuasori per piccioni su fune, senza ponteggio: reti e sistemi anti-volatili su cornicioni, balconi e tetti, anche in condominio. Sopralluogo gratuito su WhatsApp."
+seo_description: "Installazione e manutenzione dissuasori per piccioni su fune, senza ponteggio: reti e sistemi anti-volatili su cornicioni, balconi e tetti, anche in condominio. Sopralluogo gratuito: compila il modulo."
 ordine: 5
 in_home: true
 foto: "operai-su-fune-cornicione-grondaia"
@@ -74,7 +74,7 @@ Il guano non è solo un problema di decoro: **emana cattivi odori**, può corrod
 
 Iniziamo con la pulizia accurata dell'area e la rimozione completa del guano, con il ripristino della struttura se danneggiata. Solo dopo montiamo il sistema scelto, sempre da funi e senza impalcature. I dissuasori ad aghi, per esempio, hanno la punta arrotondata: scoraggiano i volatili senza ferirli.
 
-## Per un preventivo veloce, mandaci su WhatsApp
+## Per un preventivo veloce, compila il modulo
 
 - 2 o 3 foto dei punti dove si posano gli uccelli
 - i **metri lineari** approssimativi, se li conosci

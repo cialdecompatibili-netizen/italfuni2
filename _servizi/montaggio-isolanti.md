@@ -2,7 +2,7 @@
 layout: single
 title: "Montaggio isolanti termici e cappotto su fune"
 description: "Isolamento termico di facciate e coperture eseguito in quota senza ponteggi."
-seo_description: "Montaggio di isolanti e cappotto in facciata su fune, senza ponteggio davanti alle finestre: meno tempi, meno costi. Sopralluogo gratuito su WhatsApp."
+seo_description: "Montaggio di isolanti e cappotto in facciata su fune, senza ponteggio davanti alle finestre: meno tempi, meno costi. Sopralluogo gratuito: compila il modulo."
 ordine: 3
 in_home: true
 categories:
@@ -60,7 +60,7 @@ Niente ponteggio significa **niente occupazione di suolo**, niente teli davanti 
 
 Spesso l'isolamento si abbina a [ristrutturazioni di balconi e facciate]({{ '/servizi/ristrutturazioni-balconi-e-facciate/' | relative_url }}) o a [impermeabilizzazioni]({{ '/servizi/impermeabilizzazione-su-fune/' | relative_url }}): possiamo farli nello stesso accesso.
 
-## Per un preventivo veloce, mandaci su WhatsApp
+## Per un preventivo veloce, compila il modulo
 
 - una foto della **facciata o della zona** da isolare
 - il **numero di piani** e la superficie approssimativa
