@@ -12,7 +12,7 @@ categories:
   - servizi
 faq:
   - q: "Lavorate a Viterbo e in provincia?"
-    a: "Sì, operiamo a Viterbo e in tutta la provincia. Mandaci su WhatsApp due o tre foto, l'indirizzo e il tipo di intervento: ti diciamo subito se serve un sopralluogo e ti diamo un preventivo gratuito."
+    a: "Sì, operiamo a Viterbo e in tutta la provincia. Compila il modulo con indirizzo e tipo di intervento: ti diciamo subito se serve un sopralluogo e ti diamo un preventivo gratuito."
   - q: "Quanto costa pulire i pannelli fotovoltaici?"
     a: "Dipende dal numero di pannelli, dall'accessibilità della copertura e dal tipo di sporco. Facciamo un sopralluogo gratuito e ti diamo un preventivo chiaro. Mandaci una foto dell'impianto e il numero di pannelli."
   - q: "Ogni quanto vanno puliti i pannelli?"
@@ -69,7 +69,7 @@ In questo caso spendere meno non vuol dire ridurre anche la qualità del servizi
 
 Per **informazioni** o per richiedere un **preventivo con sopralluogo gratuiti** è semplicissimo e soprattutto senza alcun impegno. Basterà infatti compilare il **modulo in alto** e il gioco è fatto.
 
-Utilizzando **WhatsApp** sarà ancora più facile e veloce. Scatta una foto ai tuoi pannelli e inviacele, ti risponderemo in maniera tempestiva.
+Scatta una foto ai tuoi pannelli e inviacele, ti risponderemo in maniera tempestiva.
 
 Se non sei di Viterbo o provincia prova a leggere qui. Pulizia pannelli solari a [Roma]({{ '/pulizia-pannelli-fotovoltaici-su-fune-a-roma/' | relative_url }}) – [Frosinone]({{ '/pulizia-pannelli-fotovoltaici-su-fune-a-frosinone/' | relative_url }}) – [Rieti]({{ '/pulizia-pannelli-fotovoltaici-su-fune-a-rieti/' | relative_url }}) – [Latina]({{ '/pulizia-pannelli-fotovoltaici-su-fune-a-latina/' | relative_url }}).
 

@@ -2,7 +2,7 @@
 layout: single
 title: "Potatura alberi alti e abbattimento controllato"
 description: "Potatura e abbattimento controllato di alberi alti e difficili da raggiungere, con tree climbing."
-seo_description: "Potatura e abbattimento controllato di alberi alti o in spazi stretti, su fune con tecniche di tree climbing e senza piattaforma aerea. Sopralluogo gratuito su WhatsApp."
+seo_description: "Potatura e abbattimento controllato di alberi alti o in spazi stretti, su fune con tecniche di tree climbing e senza piattaforma aerea. Sopralluogo gratuito: compila il modulo."
 foto: "potatura-albero-su-fune"
 ordine: 8
 in_home: true
@@ -64,7 +64,7 @@ Rami troppo cresciuti tolgono luce al tronco e alle piante sottostanti, **graffi
 
 Con le tecniche di arrampicata su albero raggiungiamo qualsiasi altezza, lavoriamo da vicino sulla pianta e caliamo i rami a pezzi con attrezzature apposite. Si evitano gru e piattaforme che ingombrano il cortile. Durante la potatura lavorano due operatori: uno in pianta e uno a terra, che gestisce le movimentazioni e può prestare il primo soccorso.
 
-## Per un preventivo veloce, mandaci su WhatsApp
+## Per un preventivo veloce, compila il modulo
 
 - una foto dell'**albero intero** e dello spazio attorno
 - l'**altezza** approssimativa e la specie, se la conosci

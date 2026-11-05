@@ -12,7 +12,7 @@ categories:
   - servizi
 faq:
   - q: "Lavorate a Rieti e in provincia?"
-    a: "Sì, operiamo a Rieti e in tutta la provincia. Mandaci su WhatsApp due o tre foto, l'indirizzo e il tipo di intervento: ti diciamo subito se serve un sopralluogo e ti diamo un preventivo gratuito."
+    a: "Sì, operiamo a Rieti e in tutta la provincia. Compila il modulo con indirizzo e tipo di intervento: ti diciamo subito se serve un sopralluogo e ti diamo un preventivo gratuito."
   - q: "Quanto costa la pulizia di una facciata vetrata?"
     a: "Dipende dai metri quadrati di vetro, dall'altezza, dall'accessibilità della copertura e dal tipo di sporco. Facciamo un sopralluogo gratuito e ti diamo un preventivo chiaro. Per partire basta una foto della facciata e il numero di piani."
   - q: "Chi lavora dentro l'edificio se ne accorge?"

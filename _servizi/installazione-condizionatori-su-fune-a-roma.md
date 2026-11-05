@@ -12,7 +12,7 @@ categories:
   - servizi
 faq:
   - q: "Lavorate a Roma e in provincia?"
-    a: "Sì, operiamo a Roma e in tutta la provincia. Mandaci su WhatsApp due o tre foto, l'indirizzo e il tipo di intervento: ti diciamo subito se serve un sopralluogo e ti diamo un preventivo gratuito."
+    a: "Sì, operiamo a Roma e in tutta la provincia. Compila il modulo con indirizzo e tipo di intervento: ti diciamo subito se serve un sopralluogo e ti diamo un preventivo gratuito."
   - q: "Quanto costa pulire un elemento in quota?"
     a: "Dipende da cosa si pulisce, da quanto è alto e dal tipo di sporco. Facciamo un sopralluogo gratuito e ti diamo un preventivo chiaro. Con una foto e il numero di piani capiamo subito se basta un accesso breve."
   - q: "Che elementi pulite?"

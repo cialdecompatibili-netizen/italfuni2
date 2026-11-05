@@ -16,7 +16,7 @@ faq:
   - q: "Quando il ponteggio è meglio?"
     a: "Per rifacimenti molto estesi, come una facciata o un tetto interi di un grande edificio, il ponteggio può essere più efficiente. La fune dà il meglio su interventi mirati e punti difficili."
   - q: "Come richiedo un preventivo?"
-    a: "Il modo più veloce è WhatsApp: scrivici cosa c'è da fare e allega 2 o 3 foto. Ti rispondiamo entro 24 ore, festivi esclusi, e se serve fissiamo un sopralluogo gratuito."
+Ti rispondiamo entro 24 ore, festivi esclusi, e se serve fissiamo un sopralluogo gratuito."
 ---
 
 Italfuni esegue lavori edili e di manutenzione **in quota su fune**, senza ponteggi, impalcature o piattaforme aeree. È una tecnica nata dall'esperienza alpinistica e speleologica che permette di raggiungere qualsiasi punto dell'edificio in poco tempo, con meno costi e meno disagi rispetto a un cantiere tradizionale.
@@ -65,7 +65,7 @@ Niente ingombro sul marciapiede, niente teli davanti alle finestre, niente balco
 
 La fune dà il meglio su **interventi mirati e punti difficili**. Per rifacimenti molto estesi di grandi edifici il ponteggio può essere più efficiente: se è il tuo caso, ti diciamo con onestà qual è la soluzione migliore.
 
-## Per un preventivo veloce, mandaci su WhatsApp
+## Per un preventivo veloce, compila il modulo
 
 - 2 o 3 foto del **punto da trattare**
 - il **numero di piani** e il tipo di lavoro

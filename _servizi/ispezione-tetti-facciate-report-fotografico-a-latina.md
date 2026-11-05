@@ -13,9 +13,9 @@ categories:
   - servizi
 faq:
   - q: "Lavorate a Latina e in provincia?"
-    a: "Sì, operiamo a Latina e in tutta la provincia. Mandaci su WhatsApp due o tre foto, l'indirizzo e il tipo di intervento: ti diciamo subito se serve un sopralluogo e ti diamo un preventivo gratuito."
+    a: "Sì, operiamo a Latina e in tutta la provincia. Compila il modulo con indirizzo e tipo di intervento: ti diciamo subito se serve un sopralluogo e ti diamo un preventivo gratuito."
   - q: "Quanto costa l'ispezione?"
-    a: "Dipende dalle dimensioni e dall'accessibilità dell'edificio. Mandaci una foto su WhatsApp e ti diamo un prezzo chiaro; il sopralluogo per impostarla è gratuito."
+    a: "Dipende dalle dimensioni e dall'accessibilità dell'edificio. Scrivici dal modulo e ti diamo un prezzo chiaro; il sopralluogo per impostarla è gratuito."
   - q: "L'ispezione sostituisce una perizia tecnica?"
     a: "No. È un controllo visivo con documentazione fotografica. Per valutazioni strutturali serve un tecnico abilitato, con cui collaboriamo volentieri."
   - q: "Se trovate problemi, intervenite voi?"

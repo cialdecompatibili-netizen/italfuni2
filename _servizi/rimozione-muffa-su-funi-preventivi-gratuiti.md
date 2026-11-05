@@ -12,7 +12,7 @@ categories:
   - servizi
 faq:
   - q: "Quanto costa impermeabilizzare un terrazzo o un tetto?"
-    a: "Dipende dai metri quadrati, dal materiale (guaina bituminosa o membrana liquida), dallo stato del supporto e dall'accessibilità. Facciamo un sopralluogo gratuito e ti diamo un preventivo chiaro. Mandaci 3 foto su WhatsApp per una prima idea."
+    a: "Dipende dai metri quadrati, dal materiale (guaina bituminosa o membrana liquida), dallo stato del supporto e dall'accessibilità. Facciamo un sopralluogo gratuito e ti diamo un preventivo chiaro. Compila il modulo per una prima idea."
   - q: "Come capisco se ho un'infiltrazione?"
     a: "Macchie o bolle sul soffitto, intonaco che si sfarina, muffa negli angoli, acqua stagnante dopo la pioggia e crepe su terrazzi e cornicioni sono i segnali più comuni. Meglio intervenire presto: costa molto meno di rifare un solaio."
   - q: "Guaina bituminosa o membrana liquida?"
@@ -132,6 +132,6 @@ Grazie all’utilizzo di corde e funi i nostri operai potranno arrivare dove gli
 
 **Italfuni** ti da la possibilità di richiedere un **preventivo gratuito e senza impegno** per la rimozione della muffa dal tuo stabile, senza l’ausilio di ingombranti impalcature.
 
-E’ semplicissimo. Ti basterà compilare il **form** o inviarci un messaggio tramite **Whatsapp**. Allegando una foto delle macchie di muffa, potrai rendere quest’operazione ancora più semplice.
+E’ semplicissimo. Ti basterà compilare il **form**. Allegando una foto delle macchie di muffa, potrai rendere quest’operazione ancora più semplice.
 
 Per una panoramica completa leggi anche la pagina [rimozione muffa e umidità]({{ '/servizi/impermeabilizzazione-su-fune/' | relative_url }}).

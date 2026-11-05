@@ -12,7 +12,7 @@ categories:
   - servizi
 faq:
   - q: "Lavorate a Roma e in provincia?"
-    a: "Sì, operiamo a Roma e in tutta la provincia. Mandaci su WhatsApp due o tre foto, l'indirizzo e il tipo di intervento: ti diciamo subito se serve un sopralluogo e ti diamo un preventivo gratuito."
+    a: "Sì, operiamo a Roma e in tutta la provincia. Compila il modulo con indirizzo e tipo di intervento: ti diciamo subito se serve un sopralluogo e ti diamo un preventivo gratuito."
   - q: "Quanto costa potare un albero?"
     a: "Dipende da specie, altezza, accessibilità e da cosa va fatto (potatura, riduzione, abbattimento). Facciamo un sopralluogo gratuito e ti diamo un preventivo chiaro. Mandaci una foto dell'albero intera."
   - q: "Serve un'autorizzazione per potare o abbattere?"

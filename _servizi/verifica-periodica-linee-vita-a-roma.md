@@ -13,7 +13,7 @@ categories:
   - servizi
 faq:
   - q: "Lavorate a Roma e in provincia?"
-    a: "Sì, operiamo a Roma e in tutta la provincia. Mandaci su WhatsApp due o tre foto, l'indirizzo e il tipo di intervento: ti diciamo subito se serve un sopralluogo e ti diamo un preventivo gratuito."
+    a: "Sì, operiamo a Roma e in tutta la provincia. Compila il modulo con indirizzo e tipo di intervento: ti diciamo subito se serve un sopralluogo e ti diamo un preventivo gratuito."
   - q: "Ogni quanto va verificata una linea vita?"
     a: "L'intervallo dipende dal sistema installato: lo indica il manuale del produttore, insieme alle norme. Se non hai il manuale, ti aiutiamo a capire quale scadenza rispettare."
   - q: "Controllate anche linee vita montate da altri?"

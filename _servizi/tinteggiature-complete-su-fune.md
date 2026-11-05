@@ -2,7 +2,7 @@
 layout: single
 title: "Tinteggiature complete di facciate su fune"
 description: "Tinteggiatura di facciate ed edifici in quota, senza ponteggio e senza permessi comunali."
-seo_description: "Tinteggiature complete di facciate di qualsiasi altezza su fune, senza ponteggio né occupazione di suolo pubblico. Sopralluogo gratuito su WhatsApp."
+seo_description: "Tinteggiature complete di facciate di qualsiasi altezza su fune, senza ponteggio né occupazione di suolo pubblico. Sopralluogo gratuito: compila il modulo."
 ordine: 12
 in_home: true
 date: 2026-09-17
@@ -76,7 +76,7 @@ Senza ponteggio non si paga l'affitto e non serve occupare il suolo pubblico, qu
 
 Prima valutiamo lo stato delle superfici e quanto è esteso il deterioramento, poi consigliamo il tipo di tinteggiatura. Usiamo vernici di qualità, per una protezione più duratura dagli agenti atmosferici.
 
-## Per un preventivo veloce, mandaci su WhatsApp
+## Per un preventivo veloce, compila il modulo
 
 - una foto della **facciata intera**
 - l'**altezza** o il numero di piani

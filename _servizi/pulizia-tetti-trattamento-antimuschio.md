@@ -2,7 +2,7 @@
 layout: single
 title: "Pulizia tetti e trattamento antimuschio"
 description: "Pulizia di muschio, licheni e foglie dal tetto, con trattamento protettivo."
-seo_description: "Pulizia tetti e trattamento antimuschio su fune, senza ponteggio: via muschio, licheni e foglie da coppi e tegole. Sopralluogo gratuito su WhatsApp."
+seo_description: "Pulizia tetti e trattamento antimuschio su fune, senza ponteggio: via muschio, licheni e foglie da coppi e tegole. Sopralluogo gratuito: compila il modulo."
 ordine: 25
 in_home: true
 foto: "pulizia-tetto-coppi-muschio-drone"

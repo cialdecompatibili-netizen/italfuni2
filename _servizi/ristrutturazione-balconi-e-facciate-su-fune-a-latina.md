@@ -12,7 +12,7 @@ categories:
   - servizi
 faq:
   - q: "Lavorate a Latina e in provincia?"
-    a: "Sì, operiamo a Latina e in tutta la provincia. Mandaci su WhatsApp due o tre foto, l'indirizzo e il tipo di intervento: ti diciamo subito se serve un sopralluogo e ti diamo un preventivo gratuito."
+    a: "Sì, operiamo a Latina e in tutta la provincia. Compila il modulo con indirizzo e tipo di intervento: ti diciamo subito se serve un sopralluogo e ti diamo un preventivo gratuito."
   - q: "Quanto costa ripristinare un balcone o una facciata?"
     a: "Dipende dall'entità del degrado, dall'altezza e dai materiali. Facciamo un sopralluogo gratuito e ti diamo un preventivo chiaro. Mandaci foto di balconi e facciata per una prima valutazione."
   - q: "Serve il ponteggio per ristrutturare?"

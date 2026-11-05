@@ -15,7 +15,7 @@ classes: wide
 {%- for s in pg -%}{%- unless s.slug contains 'pulizia-vetri' -%}{%- assign resto = resto | push: s -%}{%- endunless -%}{%- endfor -%}
 {%- assign lista = lista | concat: resto -%}
 
-Lavoriamo a **Viterbo e in tutta la provincia**, su fune e senza ponteggi. Scegli il servizio che ti serve, oppure mandaci su WhatsApp due foto e l'indirizzo: ti diciamo se serve un sopralluogo e ti diamo un preventivo gratuito.
+Lavoriamo a **Viterbo e in tutta la provincia**, su fune e senza ponteggi. Scegli il servizio che ti serve, oppure compila il modulo due foto e l'indirizzo: ti diciamo se serve un sopralluogo e ti diamo un preventivo gratuito.
 
 {% include ex-lista.html items=lista vista="riga" cta="Scopri il servizio" %}
 

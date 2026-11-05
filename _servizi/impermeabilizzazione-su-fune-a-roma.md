@@ -12,9 +12,9 @@ categories:
   - servizi
 faq:
   - q: "Lavorate a Roma e in provincia?"
-    a: "Sì, operiamo a Roma e in tutta la provincia. Mandaci su WhatsApp due o tre foto, l'indirizzo e il tipo di intervento: ti diciamo subito se serve un sopralluogo e ti diamo un preventivo gratuito."
+    a: "Sì, operiamo a Roma e in tutta la provincia. Compila il modulo con indirizzo e tipo di intervento: ti diciamo subito se serve un sopralluogo e ti diamo un preventivo gratuito."
   - q: "Quanto costa impermeabilizzare un terrazzo o un tetto?"
-    a: "Dipende dai metri quadrati, dal materiale (guaina bituminosa o membrana liquida), dallo stato del supporto e dall'accessibilità. Facciamo un sopralluogo gratuito e ti diamo un preventivo chiaro. Mandaci 3 foto su WhatsApp per una prima idea."
+    a: "Dipende dai metri quadrati, dal materiale (guaina bituminosa o membrana liquida), dallo stato del supporto e dall'accessibilità. Facciamo un sopralluogo gratuito e ti diamo un preventivo chiaro. Compila il modulo per una prima idea."
   - q: "Come capisco se ho un'infiltrazione?"
     a: "Macchie o bolle sul soffitto, intonaco che si sfarina, muffa negli angoli, acqua stagnante dopo la pioggia e crepe su terrazzi e cornicioni sono i segnali più comuni. Meglio intervenire presto: costa molto meno di rifare un solaio."
   - q: "Guaina bituminosa o membrana liquida?"
