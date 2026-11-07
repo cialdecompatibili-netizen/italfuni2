@@ -5,9 +5,10 @@ redirect_from:
 layout: single
 in_home: false
 title: "Potatura alberi a Rieti"
+seo_title: "Potatura alberi a Rieti: tree climbing su corda, anche alto fusto"
 citta: "Rieti"
 excerpt: "Potatura alberi a Rieti e provincia: lavori su fune senza ponteggi, con sopralluogo e preventivo gratuito."
-seo_description: "Potatura alberi a Rieti e provincia con lavori su fune, senza ponteggi. Sopralluogo e preventivo gratuito con Italfuni."
+seo_description: "Potatura alberi a Rieti e provincia, anche ad alto fusto, con tree climbing su corda e senza piattaforme. Sopralluogo gratuito e preventivo chiaro: scrivici su WhatsApp."
 categories:
   - servizi
 faq:
@@ -23,6 +24,8 @@ faq:
     a: "Possiamo concordare nel preventivo anche raccolta e smaltimento di ramaglie e tronchi, oppure lasciarli in cortile se preferisci riutilizzarli."
   - q: "Qual è il periodo migliore per potare?"
     a: "Dipende dalla specie. In generale si preferisce il riposo vegetativo, ma in caso di rami pericolanti si interviene subito. Dopo il sopralluogo ti consigliamo il momento giusto."
+  - q: "Potate anche alberi alti o ad alto fusto?"
+    a: "Sì. Con tecniche di tree climbing saliamo su corda anche su alberi alti, senza piattaforme aeree. Mandaci una foto dell'albero intero e l'indirizzo: ti diciamo come intervenire."
 ---
 
 ![Potatura alberi Rieti]({{ '/assets/foto/potatura-albero-con-corde-italfuni.jpg' | relative_url }})
@@ -77,3 +80,10 @@ L’utilizzo di questa tecnica infine permette un estremo **adattamento al terre
 Non esitate a contattarci per un **preventivo gratuito**, veloce e senza impegno!
 
 Per una panoramica completa leggi anche la pagina [potatura alberi su fune]({{ '/servizi/potatura-alberi/' | relative_url }}).
+
+## Altri servizi a Rieti e provincia
+
+- [Rifacimento tetto a Rieti]({{ '/rifacimento-tetti-rieti/' | relative_url }})
+- [Ristrutturazione balconi e facciate a Rieti]({{ '/ristrutturazione-balconi-e-facciate-su-fune-a-rieti/' | relative_url }})
+- [Pulizia e riparazione grondaie a Rieti]({{ '/pulizia-e-riparazione-grondaie-su-fune-a-rieti/' | relative_url }})
+- [Tutti i servizi a Rieti e provincia]({{ '/servizi/provincia/rieti/' | relative_url }})

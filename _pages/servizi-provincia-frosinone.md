@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /servizio/edilizia-su-fune-frosinone/
 layout: single
 title: "Servizi a Frosinone e provincia"
 permalink: /servizi/provincia/frosinone/

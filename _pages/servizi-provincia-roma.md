@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /servizio/edilizia-su-fune-roma/
 layout: single
 title: "Servizi a Roma e provincia"
 permalink: /servizi/provincia/roma/

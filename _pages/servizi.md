@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /servizio/servizi-per-provincia/
 layout: single
 title: "Servizi"
 permalink: /servizi/

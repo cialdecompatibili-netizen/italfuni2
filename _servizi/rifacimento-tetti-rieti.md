@@ -5,14 +5,17 @@ redirect_from:
 layout: single
 in_home: false
 title: "Rifacimento tetto Rieti e provincia: preventivi"
+seo_title: "Rifacimento tetto a Rieti e provincia: riparazione su fune"
 citta: "Rieti"
 excerpt: "Rifacimento e manutenzione tetti a Rieti e provincia: lavori su fune senza ponteggi, con sopralluogo e preventivo gratuito."
-seo_description: "Rifacimento e manutenzione tetti a Rieti e provincia con lavori su fune, senza ponteggi. Sopralluogo e preventivo gratuito con Italfuni."
+seo_description: "Rifacimento, riparazione e manutenzione del tetto a Rieti e provincia su fune, senza ponteggi. Sopralluogo gratuito e preventivo chiaro su WhatsApp."
 categories:
   - servizi
 faq:
   - q: "Lavorate a Rieti e in provincia?"
     a: "Sì, operiamo a Rieti e in tutta la provincia. Mandaci su WhatsApp due o tre foto, l'indirizzo e il tipo di intervento: ti diciamo subito se serve un sopralluogo e ti diamo un preventivo gratuito."
+  - q: "Come capisco se il tetto va riparato o rifatto?"
+    a: "Segnali tipici: infiltrazioni o macchie di umidità, tegole o coppi spostati o rotti, guaina che si stacca, canali di gronda che non scaricano. Con qualche foto e un sopralluogo gratuito ti diciamo se basta una riparazione o serve un intervento più ampio."
 ---
 
 ![Riparazione tetti Rieti e provincia: preventivi]({{ '/assets/foto/riparazione-tetti-su-fune.jpg' | relative_url }})
@@ -62,3 +65,10 @@ I nostri esperti possono infine raggiungere qualsiasi punto e qualunque altezza.
 Chiamaci pure per un **preventivo gratuito al 100%** e senza alcun impegno.
 
 Per una panoramica completa leggi anche la pagina [rifacimento e manutenzione tetti]({{ '/servizi/ristrutturazione-tetto/' | relative_url }}).
+
+## Altri servizi a Rieti e provincia
+
+- [Ristrutturazione balconi e facciate a Rieti]({{ '/ristrutturazione-balconi-e-facciate-su-fune-a-rieti/' | relative_url }})
+- [Potatura alberi a Rieti]({{ '/potatura-alberi-rieti/' | relative_url }})
+- [Pulizia e riparazione grondaie a Rieti]({{ '/pulizia-e-riparazione-grondaie-su-fune-a-rieti/' | relative_url }})
+- [Tutti i servizi a Rieti e provincia]({{ '/servizi/provincia/rieti/' | relative_url }})

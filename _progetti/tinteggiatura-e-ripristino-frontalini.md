@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /portfolio-articoli/titeggiatura-e-ripristino-frontalini/
 layout: single
 title: "Tinteggiatura su fune"
 description: "Frontalino di un balcone ripristinato e riportato al bianco, con una sola doppia corda e senza impalcature."

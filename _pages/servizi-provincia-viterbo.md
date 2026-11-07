@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /servizio/edilizia-su-fune-viterbo/
 layout: single
 title: "Servizi a Viterbo e provincia"
 permalink: /servizi/provincia/viterbo/

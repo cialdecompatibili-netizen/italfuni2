@@ -5,9 +5,10 @@ redirect_from:
 layout: single
 in_home: false
 title: "Installazione condizionatori su fune a Roma e provincia"
+seo_title: "Installazione condizionatori su fune a Roma, senza ponteggi"
 citta: "Roma"
 excerpt: "Installazione condizionatori su fune a Roma e provincia: lavori su fune senza ponteggi, con sopralluogo e preventivo gratuito."
-seo_description: "Installazione condizionatori a Roma e provincia con lavori su fune, senza ponteggi. Sopralluogo e preventivo gratuito con Italfuni."
+seo_description: "Installazione condizionatori a Roma e provincia su fune, senza ponteggi né piattaforme. Sopralluogo gratuito e preventivo chiaro: scrivici su WhatsApp con qualche foto."
 categories:
   - servizi
 faq:
@@ -23,6 +24,10 @@ faq:
     a: "No. Lavoriamo su doppia fune e arriviamo ovunque dall'alto, senza occupare il marciapiede e senza montare piattaforme."
   - q: "Posso far fare più lavori nello stesso accesso?"
     a: "Sì, è il vantaggio principale: già in quota possiamo pulire, controllare e segnalare altri problemi, riducendo costi e giornate di cantiere."
+  - q: "Serve il ponteggio per installare l'unità esterna di un condizionatore?"
+    a: "No. Lavoriamo su fune, senza ponteggio né piattaforma. È utile soprattutto quando l'unità va montata in facciata o ad altezze difficili da raggiungere."
+  - q: "Cosa devo mandarvi per avere un preventivo?"
+    a: "Qualche foto del punto di installazione e dell'edificio, l'indirizzo e il tipo di impianto che hai in mente. Ti rispondiamo su WhatsApp e, se serve, fissiamo un sopralluogo gratuito."
 ---
 
 ![Installazione condizionatori su fune a Roma e provincia]({{ '/assets/foto/installazione-condizionatori-su-fune.jpg' | relative_url }})
@@ -62,3 +67,10 @@ Se invece hai **vetri** difficilmente raggiungibili o lucernari da pulire ecco i
 Chiamaci per un **preventivo gratuito e senza alcun impegno**. Lavoriamo con estrema serietà su tutto il territorio di Roma e provincia!
 
 Per una panoramica completa leggi anche la pagina [installazione condizionatori su fune]({{ '/servizi/pulizia-componenti-su-fune/' | relative_url }}).
+
+## Altri servizi a Roma e provincia
+
+- [Vedi un lavoro di installazione condizionatori su fune]({{ '/progetti/installazione-condizionatori-su-fune/' | relative_url }})
+- [Pulizia e riparazione grondaie a Roma]({{ '/manutenzione-e-sostituzioni-pulizia-grondaie-roma/' | relative_url }})
+- [Pulizia vetri a Roma]({{ '/pulizia-vetri-roma/' | relative_url }})
+- [Tutti i servizi a Roma e provincia]({{ '/servizi/provincia/roma/' | relative_url }})

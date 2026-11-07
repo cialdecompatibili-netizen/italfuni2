@@ -5,9 +5,10 @@ redirect_from:
 layout: single
 in_home: false
 title: "Potatura alberi a Frosinone"
+seo_title: "Potatura alberi a Frosinone su corda, senza ponteggi"
 citta: "Frosinone"
 excerpt: "Potatura alberi a Frosinone e provincia: lavori su fune senza ponteggi, con sopralluogo e preventivo gratuito."
-seo_description: "Potatura alberi a Frosinone e provincia con lavori su fune, senza ponteggi. Sopralluogo e preventivo gratuito con Italfuni."
+seo_description: "Potatura alberi a Frosinone e provincia con tree climbing su corda, anche dove i mezzi non arrivano. Sopralluogo gratuito e preventivo chiaro: scrivici su WhatsApp."
 categories:
   - servizi
 faq:
@@ -23,6 +24,10 @@ faq:
     a: "Possiamo concordare nel preventivo anche raccolta e smaltimento di ramaglie e tronchi, oppure lasciarli in cortile se preferisci riutilizzarli."
   - q: "Qual è il periodo migliore per potare?"
     a: "Dipende dalla specie. In generale si preferisce il riposo vegetativo, ma in caso di rami pericolanti si interviene subito. Dopo il sopralluogo ti consigliamo il momento giusto."
+  - q: "Potate anche alberi alti o ad alto fusto?"
+    a: "Sì. Con tecniche di tree climbing saliamo su corda anche su alberi alti, senza piattaforme aeree. Mandaci una foto dell'albero intero e l'indirizzo: ti diciamo come intervenire."
+  - q: "Cosa fare con un ramo pericolante?"
+    a: "Se un ramo minaccia persone, auto o edifici conviene intervenire subito, perché la responsabilità è del proprietario. Scrivici su WhatsApp con una foto e ti diciamo i tempi per metterlo in sicurezza."
 ---
 
 ![Potatura alberi Frosinone]({{ '/assets/foto/potatura-albero-con-corde-italfuni.jpg' | relative_url }})
@@ -37,13 +42,12 @@ Tra gli aspetti che ci caratterizzano ricopre un ruolo importante il rispetto pe
 
 Il nostro obiettivo è minimizzare l’impatto di ogni azione sulla salute dell’albero. La nostra esperienza ci porta anche a poter intervenire su piante secolari con importanza storica!
 
-Un professionista a lavoro su un albero
 
-### Intervento ordinari
+### Interventi ordinari
 
 Fanno parte di questa categoria tutti quelli che vanno effettuati con una certa regolarità. La potatura stagionale delle fronde per esempio è una di queste.
 
-### Intervento ordinari
+### Interventi urgenti e messa in sicurezza
 
 Sottolineiamo subito che **se un albero dovesse arrecare danni a beni o a persone**, legalmente il responsabile è il suo proprietario. Quindi nel caso di rami pericolanti è bene chiamare subito dei professionisti per rimuoverli in sicurezza. Noi di Italfuni interveniamo con tempestività per questo genere di situazioni.
 
@@ -62,11 +66,18 @@ Questo permette anche una grande capacità di adattamento al terreno, che ci per
 
 ## Non sei di Frosinone? Allora prova qui
 
-- potatura alberi Roma;
-- potatura alberi Latina;
-- potatura alberi Rieti;
-- potatura alberi Viterbo.
+- [potatura alberi Roma]({{ '/potatura-alberi-roma/' | relative_url }});
+- [potatura alberi Latina]({{ '/potatura-alberi-latina/' | relative_url }});
+- [potatura alberi Rieti]({{ '/potatura-alberi-rieti/' | relative_url }});
+- [potatura alberi Viterbo]({{ '/potatura-alberi-viterbo/' | relative_url }}).
 
 Non esitate a contattarci per un **preventivo gratuito, veloce e senza alcun impegno**!
 
 Per una panoramica completa leggi anche la pagina [potatura alberi su fune]({{ '/servizi/potatura-alberi/' | relative_url }}).
+
+## Altri servizi a Frosinone e provincia
+
+- [Rifacimento e manutenzione tetto a Frosinone]({{ '/rifacimento-e-manutenzione-tetto-a-frosinone/' | relative_url }})
+- [Pulizia e riparazione grondaie a Frosinone]({{ '/pulizia-e-riparazione-grondaie-su-fune-a-frosinone/' | relative_url }})
+- [Pulizia vetri a Frosinone]({{ '/pulizia-vetri-frosinone/' | relative_url }})
+- [Tutti i servizi a Frosinone e provincia]({{ '/servizi/provincia/frosinone/' | relative_url }})

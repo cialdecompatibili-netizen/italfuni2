@@ -5,14 +5,17 @@ redirect_from:
 layout: single
 in_home: false
 title: "Ristrutturazione e manutenzione tetto Latina"
+seo_title: "Rifacimento e manutenzione tetto a Latina su fune"
 citta: "Latina"
 excerpt: "Rifacimento e manutenzione tetti a Latina e provincia: lavori su fune senza ponteggi, con sopralluogo e preventivo gratuito."
-seo_description: "Rifacimento e manutenzione tetti a Latina e provincia con lavori su fune, senza ponteggi. Sopralluogo e preventivo gratuito con Italfuni."
+seo_description: "Rifacimento, riparazione e manutenzione del tetto a Latina e provincia su fune, senza ponteggi. Sopralluogo gratuito e preventivo chiaro su WhatsApp."
 categories:
   - servizi
 faq:
   - q: "Lavorate a Latina e in provincia?"
     a: "Sì, operiamo a Latina e in tutta la provincia. Mandaci su WhatsApp due o tre foto, l'indirizzo e il tipo di intervento: ti diciamo subito se serve un sopralluogo e ti diamo un preventivo gratuito."
+  - q: "Come capisco se il tetto va riparato o rifatto?"
+    a: "Segnali tipici: infiltrazioni o macchie di umidità, tegole o coppi spostati o rotti, guaina che si stacca, canali di gronda che non scaricano. Con qualche foto e un sopralluogo gratuito ti diciamo se basta una riparazione o serve un intervento più ampio."
 ---
 
 ![Ristrutturazione e manutenzione tetto Latina]({{ '/assets/foto/riparazione-tetti-su-fune.jpg' | relative_url }})
@@ -60,3 +63,11 @@ Se invece hai **vetri** difficilmente raggiungibili o lucernari da pulire ecco l
 **Italfuni** è l’azienda che fa al caso tuo! Chiama senza impegno per un **preventivo gratuito al 100%.** Rimarrai stupito dalla nostra professionalità e dal rapporto qualità-prezzo!
 
 Per una panoramica completa leggi anche la pagina [rifacimento e manutenzione tetti]({{ '/servizi/ristrutturazione-tetto/' | relative_url }}).
+
+## Altri servizi a Latina e provincia
+
+- [Pulizia e manutenzione grondaie a Latina]({{ '/pulizia-manutenzione-e-sostituzione-grondaie-su-fune-latina/' | relative_url }})
+- [Pulizia vetri a Latina]({{ '/pulizia-vetri-latina/' | relative_url }})
+- [Pulizia pannelli fotovoltaici a Latina]({{ '/pulizia-pannelli-fotovoltaici-su-fune-a-latina/' | relative_url }})
+- [Potatura alberi a Latina]({{ '/potatura-alberi-latina/' | relative_url }})
+- [Tutti i servizi a Latina e provincia]({{ '/servizi/provincia/latina/' | relative_url }})

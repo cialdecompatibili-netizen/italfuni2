@@ -5,9 +5,10 @@ redirect_from:
 layout: single
 in_home: false
 title: "Manutenzione, sostituzioni e pulizia grondaie a Roma"
+seo_title: "Pulizia e riparazione grondaie a Roma, senza ponteggi"
 citta: "Roma"
 excerpt: "Pulizia, riparazione e sostituzione grondaie a Roma e provincia: lavori su fune senza ponteggi, con sopralluogo e preventivo gratuito."
-seo_description: "Pulizia, riparazione e sostituzione grondaie a Roma e provincia con lavori su fune, senza ponteggi. Sopralluogo e preventivo gratuito con Italfuni."
+seo_description: "Grondaie intasate, rotte o da sostituire a Roma? Lavoriamo su fune, senza ponteggi. Sopralluogo gratuito e preventivo chiaro: scrivici su WhatsApp con 3 foto."
 categories:
   - servizi
 faq:
@@ -23,6 +24,12 @@ faq:
     a: "Con pioggia, vento forte o ghiaccio rimandiamo il lavoro: la sicurezza viene prima. Ti avvisiamo e fissiamo un'altra data."
   - q: "Sostituite anche pluviali e staffe?"
     a: "Sì. Oltre alla pulizia controlliamo giunti, staffe e pluviali, e sostituiamo i tratti danneggiati. Scegliamo con te il materiale in base all'edificio."
+  - q: "Si può sostituire una grondaia senza ponteggio?"
+    a: "Sì. Lavoriamo su doppia fune dall'alto, quindi per smontare e rimontare canali, staffe e pluviali non serve il ponteggio. Dopo il sopralluogo ti diciamo cosa va sostituito e cosa può essere solo riparato o pulito."
+  - q: "Come capisco se la grondaia va pulita, riparata o rifatta?"
+    a: "Segnali tipici: acqua che trabocca o cola lungo la facciata, macchie di umidità sotto la gronda, erba o piante nel canale, giunti che perdono, tratti che si staccano. Mandaci qualche foto su WhatsApp e ti diciamo se basta una pulizia, serve una riparazione o conviene rifare i tratti rovinati."
+  - q: "Fate pulizia grondaie anche nella mia zona?"
+    a: "Lavoriamo a Roma e in tutta la provincia. Scrivici l'indirizzo su WhatsApp e ti confermiamo subito se la tua zona è coperta e quando possiamo fare il sopralluogo."
 ---
 
 ![Manutenzione, sostituzioni e pulizia grondaie a Roma]({{ '/assets/foto/pulizia-grondaie-su-fune-italfuni.jpg' | relative_url }})
@@ -68,3 +75,11 @@ Gli interventi potranno essere eseguiti in un qualunque periodo dell’anno, sal
 Quindi se stai cercando esperti di questo settore sei nel posto giusto. Chiedici un **preventivo assolutamente gratuito e senza impegno**!
 
 Per una panoramica completa leggi anche la pagina [pulizia, riparazione e sostituzione grondaie]({{ '/servizi/manutenzione-e-sostituzione-grondaie/' | relative_url }}).
+
+## Altri servizi a Roma e provincia
+
+- [Vedi un lavoro di pulizia grondaie su fune]({{ '/progetti/pulizia-grondaie-roma/' | relative_url }})
+- [Pulizia vetri a Roma]({{ '/pulizia-vetri-roma/' | relative_url }})
+- [Ristrutturazione e manutenzione tetto a Roma]({{ '/ristrutturazione-e-manutenzione-tetti-roma/' | relative_url }})
+- [Potatura alberi a Roma]({{ '/potatura-alberi-roma/' | relative_url }})
+- [Tutti i servizi a Roma e provincia]({{ '/servizi/provincia/roma/' | relative_url }})

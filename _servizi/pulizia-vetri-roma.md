@@ -5,9 +5,10 @@ redirect_from:
 layout: single
 in_home: false
 title: "Pulizia vetri a Roma"
+seo_title: "Pulizia vetri e vetrate a Roma su fune, anche in quota"
 citta: "Roma"
 excerpt: "Pulizia vetri e vetrate a Roma e provincia: lavori su fune senza ponteggi, con sopralluogo e preventivo gratuito."
-seo_description: "Pulizia vetri e vetrate a Roma e provincia con lavori su fune, senza ponteggi. Sopralluogo e preventivo gratuito con Italfuni."
+seo_description: "Pulizia vetri e vetrate a Roma e provincia anche in quota, su fune e senza ponteggi. Sopralluogo gratuito e preventivo chiaro su WhatsApp."
 categories:
   - servizi
 faq:
@@ -23,6 +24,8 @@ faq:
     a: "Rimandiamo il lavoro: con pioggia, vento forte o sole battente il risultato non sarebbe buono e la sicurezza viene prima. Ti avvisiamo e fissiamo un'altra data."
   - q: "Ogni quanto vanno lavati i vetri di un palazzo?"
     a: "Dipende da traffico, vicinanza di alberi o cantieri, esposizione e dal decoro che vuoi mantenere. Dopo il primo sopralluogo ti diciamo che cadenza ha senso per il tuo edificio."
+  - q: "Pulite anche vetrate di edifici alti e facciate continue?"
+    a: "Sì. Lavoriamo su doppia fune e raggiungiamo facciate e vetrate in quota senza ponteggio né piattaforma. Dipende dagli accessi e dalla struttura dell'edificio: dopo il sopralluogo ti diciamo come intervenire."
 ---
 
 ![Pulizia vetri roma]({{ '/assets/foto/pulizia-vetri-su-fune-italfuni-2.jpg' | relative_url }})
@@ -83,3 +86,10 @@ La nostra azienda offre i suoi servizi su tutto il territorio della **regione La
 Chiamaci per avere un **preventivo gratuito e senza impegno**. Ti sorprenderemo per la nostra professionalità e l’ottimo rapporto qualità-prezzo!
 
 Per una panoramica completa leggi anche la pagina [pulizia vetri e vetrate]({{ '/servizi/pulizia-vetri/' | relative_url }}).
+
+## Altri servizi a Roma e provincia
+
+- [Vedi un lavoro di pulizia vetri di facciata su fune]({{ '/progetti/pulizia-vetri-facciata-su-fune/' | relative_url }})
+- [Pulizia e riparazione grondaie a Roma]({{ '/manutenzione-e-sostituzioni-pulizia-grondaie-roma/' | relative_url }})
+- [Ristrutturazione e manutenzione tetto a Roma]({{ '/ristrutturazione-e-manutenzione-tetti-roma/' | relative_url }})
+- [Tutti i servizi a Roma e provincia]({{ '/servizi/provincia/roma/' | relative_url }})

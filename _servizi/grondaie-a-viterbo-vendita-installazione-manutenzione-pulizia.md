@@ -5,9 +5,10 @@ redirect_from:
 layout: single
 in_home: false
 title: "Grondaie a Viterbo: vendita, installazione, manutenzione, pulizia"
+seo_title: "Grondaie a Viterbo: pulizia, riparazione e sostituzione su fune"
 citta: "Viterbo"
 excerpt: "Pulizia, riparazione e sostituzione grondaie a Viterbo e provincia: lavori su fune senza ponteggi, con sopralluogo e preventivo gratuito."
-seo_description: "Pulizia, riparazione e sostituzione grondaie a Viterbo e provincia con lavori su fune, senza ponteggi. Sopralluogo e preventivo gratuito con Italfuni."
+seo_description: "Pulizia, riparazione e sostituzione grondaie a Viterbo e provincia su fune, senza ponteggi. Sopralluogo gratuito e preventivo chiaro su WhatsApp."
 categories:
   - servizi
 faq:
@@ -23,6 +24,10 @@ faq:
     a: "Con pioggia, vento forte o ghiaccio rimandiamo il lavoro: la sicurezza viene prima. Ti avvisiamo e fissiamo un'altra data."
   - q: "Sostituite anche pluviali e staffe?"
     a: "Sì. Oltre alla pulizia controlliamo giunti, staffe e pluviali, e sostituiamo i tratti danneggiati. Scegliamo con te il materiale in base all'edificio."
+  - q: "Si può sostituire una grondaia senza ponteggio?"
+    a: "Sì. Lavoriamo su doppia fune dall'alto, quindi per smontare e rimontare canali, staffe e pluviali non serve il ponteggio. Dopo il sopralluogo ti diciamo cosa va sostituito e cosa può essere solo riparato o pulito."
+  - q: "Come capisco se la grondaia va pulita, riparata o rifatta?"
+    a: "Segnali tipici: acqua che trabocca o cola lungo la facciata, macchie di umidità sotto la gronda, erba o piante nel canale, giunti che perdono, tratti che si staccano. Mandaci qualche foto su WhatsApp e ti diciamo cosa serve."
 ---
 
 ![Grondaie a Viterbo: vendita, installazione, manutenzione, pulizia]({{ '/assets/foto/grondaie-su-fune-italfuni.jpg' | relative_url }})
@@ -62,3 +67,10 @@ Gli interventi potranno essere eseguiti in un qualunque periodo dell’anno, sal
 *Se desideri che ti forniamo un preventivo gratuito e senza impegno per il lavoro richiesto, puoi contattarci utilizzando i seguenti dettagli.*
 
 Per una panoramica completa leggi anche la pagina [pulizia, riparazione e sostituzione grondaie]({{ '/servizi/manutenzione-e-sostituzione-grondaie/' | relative_url }}).
+
+## Altri servizi a Viterbo e provincia
+
+- [Pulizia vetri a Viterbo]({{ '/pulizia-vetri-viterbo/' | relative_url }})
+- [Ristrutturazione e manutenzione tetto a Viterbo]({{ '/ristrutturazione-e-manutenzione-tetto-viterbo/' | relative_url }})
+- [Potatura alberi a Viterbo]({{ '/potatura-alberi-viterbo/' | relative_url }})
+- [Tutti i servizi a Viterbo e provincia]({{ '/servizi/provincia/viterbo/' | relative_url }})

@@ -5,14 +5,17 @@ redirect_from:
 layout: single
 in_home: false
 title: "Ristrutturazione e manutenzione tetto Roma"
+seo_title: "Rifacimento e riparazione tetto a Roma su fune, senza ponteggi"
 citta: "Roma"
 excerpt: "Rifacimento e manutenzione tetti a Roma e provincia: lavori su fune senza ponteggi, con sopralluogo e preventivo gratuito."
-seo_description: "Rifacimento e manutenzione tetti a Roma e provincia con lavori su fune, senza ponteggi. Sopralluogo e preventivo gratuito con Italfuni."
+seo_description: "Rifacimento, riparazione e manutenzione del tetto a Roma e provincia su fune, anche condominiale. Sopralluogo gratuito e preventivo chiaro su WhatsApp."
 categories:
   - servizi
 faq:
   - q: "Lavorate a Roma e in provincia?"
     a: "Sì, operiamo a Roma e in tutta la provincia. Mandaci su WhatsApp due o tre foto, l'indirizzo e il tipo di intervento: ti diciamo subito se serve un sopralluogo e ti diamo un preventivo gratuito."
+  - q: "Come capisco se il tetto va riparato o rifatto?"
+    a: "Segnali tipici: infiltrazioni o macchie di umidità, tegole o coppi spostati o rotti, guaina che si stacca, canali di gronda che non scaricano. Con qualche foto e un sopralluogo gratuito ti diciamo se basta una riparazione o serve un intervento più ampio."
 ---
 
 ![Ristrutturazione e manutenzione tetto Roma]({{ '/assets/foto/riparazione-tetti-su-fune.jpg' | relative_url }})
@@ -67,3 +70,10 @@ Se invece hai **vetri** difficilmente raggiungibili o lucernari da pulire ecco i
 Ti abbiamo convinto? Allora chiama senza impegno per **un preventivo gratuito al 100%**. Rimarrai stupito dalla nostra professionalità e dal rapporto qualità-prezzo!
 
 Per una panoramica completa leggi anche la pagina [rifacimento e manutenzione tetti]({{ '/servizi/ristrutturazione-tetto/' | relative_url }}).
+
+## Altri servizi a Roma e provincia
+
+- [Pulizia e riparazione grondaie a Roma]({{ '/manutenzione-e-sostituzioni-pulizia-grondaie-roma/' | relative_url }})
+- [Pulizia vetri a Roma]({{ '/pulizia-vetri-roma/' | relative_url }})
+- [Potatura alberi a Roma]({{ '/potatura-alberi-roma/' | relative_url }})
+- [Tutti i servizi a Roma e provincia]({{ '/servizi/provincia/roma/' | relative_url }})

@@ -1,6 +1,7 @@
 ---
 redirect_from:
   - /preventivo-gratuito/
+  - /collaborazione/
 layout: single
 title: "Contatti"
 permalink: /contatti/

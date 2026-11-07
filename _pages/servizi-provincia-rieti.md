@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /servizio/edilizia-su-fune-rieti/
 layout: single
 title: "Servizi a Rieti e provincia"
 permalink: /servizi/provincia/rieti/

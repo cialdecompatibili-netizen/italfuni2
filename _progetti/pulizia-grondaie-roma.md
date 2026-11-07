@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /portfolio-articoli/pulizia-grondaie-roma/
 layout: single
 title: "Pulizia grondaie su fune"
 description: "Grondaie e pluviali liberati da foglie e detriti con l'accesso su fune: nessun ponteggio, intervento in meno di un'ora."

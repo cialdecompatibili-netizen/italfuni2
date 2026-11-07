@@ -5,9 +5,10 @@ redirect_from:
 layout: single
 in_home: false
 title: "Ristrutturazione balconi e facciate su fune a Rieti"
+seo_title: "Ristrutturazione balconi e facciate a Rieti su fune"
 citta: "Rieti"
 excerpt: "Ristrutturazione balconi e facciate a Rieti e provincia: lavori su fune senza ponteggi, con sopralluogo e preventivo gratuito."
-seo_description: "Ristrutturazione balconi e facciate a Rieti e provincia con lavori su fune, senza ponteggi. Sopralluogo e preventivo gratuito con Italfuni."
+seo_description: "Ristrutturazione di balconi e facciate a Rieti e provincia su fune, senza ponteggi: meno costi e meno disagi. Sopralluogo gratuito e preventivo chiaro su WhatsApp."
 categories:
   - servizi
 faq:
@@ -23,6 +24,8 @@ faq:
     a: "Le agevolazioni cambiano nel tempo e dipendono dal tipo di lavoro. Chiedi al tuo commercialista o tecnico quali siano in vigore: noi forniamo preventivo e documentazione dei lavori."
   - q: "Posso restare in casa durante i lavori?"
     a: "Sì. Senza ponteggio davanti alle finestre e con cantiere molto più contenuto, il disagio è ridotto. Concordiamo giorni e orari con te o con l'amministratore."
+  - q: "Si possono rifare balconi e frontalini senza ponteggio?"
+    a: "Sì. Lavoriamo su doppia fune dall'alto: ripristino di frontalini e intonaci, tinteggiatura e messa in sicurezza dei balconi senza montare il ponteggio. Dopo il sopralluogo ti indichiamo cosa serve."
 ---
 
 ![Ristrutturazione balconi e facciate su fune a Rieti]({{ '/assets/foto/operai-balconi-su-fune.jpg' | relative_url }})
@@ -51,3 +54,10 @@ In tutti i lavori in quota su funi vengono utilizzate specifiche attrezzature (D
 *Non esitare a chiamarci o a mandare una mail, siamo pronti a fornirti un preventivo personalizzato e gratuito!*
 
 Per una panoramica completa leggi anche la pagina [ristrutturazione balconi e facciate]({{ '/servizi/ristrutturazioni-balconi-e-facciate/' | relative_url }}).
+
+## Altri servizi a Rieti e provincia
+
+- [Rifacimento tetto a Rieti]({{ '/rifacimento-tetti-rieti/' | relative_url }})
+- [Potatura alberi a Rieti]({{ '/potatura-alberi-rieti/' | relative_url }})
+- [Pulizia e riparazione grondaie a Rieti]({{ '/pulizia-e-riparazione-grondaie-su-fune-a-rieti/' | relative_url }})
+- [Ristrutturazione balconi e facciate: tutte le informazioni]({{ '/servizi/ristrutturazioni-balconi-e-facciate/' | relative_url }})

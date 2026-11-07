@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /portfolio-articoli/pulizia-vetri-palestra/
 layout: single
 title: "Pulizia vetrate palestra"
 description: "Facciata in vetro di una palestra alle porte di Roma pulita e lucidata su fune in meno di tre giorni."

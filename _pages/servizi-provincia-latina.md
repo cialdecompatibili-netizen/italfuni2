@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /servizio/edilizia-su-fune-latina/
 layout: single
 title: "Servizi a Latina e provincia"
 permalink: /servizi/provincia/latina/
