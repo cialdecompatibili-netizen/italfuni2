@@ -58,6 +58,16 @@ exclude:
   - vendor
   - docs
   - SERVIZI-FUNE.md
+  - CLAUDE.md
+  - agentold.md
+  - README.md
+  - Gemfile
+  - LICENSE
+  - cmspush.rar
+  - cmspushx.rar
+  - wb.ps1
+  - wb2.ps1
+  - automation/
 
 permalink: /:categories/:title/
 
